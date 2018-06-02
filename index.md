@@ -1,3 +1,3 @@
 # naka-lab
 
-テスト
+[テスト](test.md)
