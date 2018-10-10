@@ -1,5 +1,6 @@
 ---
 title: タイトル
+layout: default
 ---
 
 # naka-lab
