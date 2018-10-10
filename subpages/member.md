@@ -4,9 +4,10 @@ layout: default
 ---
 
 # メンバー
+
 ## M2
-  - aaa
-  - bbb
+- aaa
+- bbb
 
 ## M1
 - ccc
