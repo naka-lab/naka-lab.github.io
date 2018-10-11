@@ -7,7 +7,7 @@ layout: default
 メールは後ろに @radish.ee.uec.ac.jp をつけてください．
 
 ## スタッフ
-- 助教:　中村 友昭　(Tomoaki Nakamura)　e-mail: nakamura
+- 助教:　[中村 友昭　(Tomoaki Nakamura)](http://www.naka-lab.org/)　e-mail: nakamura
 - 秘書:　早川 幸枝　(Yukie Hayakawa)　e-mail: yukie-h
 
 ## M2
