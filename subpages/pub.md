@@ -5,9 +5,9 @@ layout: default
 
 # Publication
 
-- [Journal](#Journal)
-- [Invited Talk](#InvitedTalk)
-- [International Conference](#InternationalConference)
+- [Journal](#journal)
+- [Invited Talk](#invitedtalk)
+- [International Conference](#internationalconference)
 - [国内学会](#国内学会)
 - [特許](#特許)
 - [受賞](#受賞)
@@ -17,7 +17,7 @@ layout: default
 - aaa
 - bbb
 
-## Invited Tals
+## Invited Talk
 - aaa
 - bbb
 
