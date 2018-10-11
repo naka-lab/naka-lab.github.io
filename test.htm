@@ -38,7 +38,7 @@
 
    <div align="center">
     <a href="http://hp.naka-lab.org/index.html"><img src="http://hp.naka-lab.org/logo.png" /></a></div>
-    <a id="simple-menu" class="menu-button" href="#sidr">Toggle menu</a>
+    <a id="simple-menu" class="menu-button fixed" href="#sidr">Toggle menu</a>
 
     <div class="wrapper">
     <h1 id="publication">Publication</h1>
@@ -471,6 +471,16 @@
     $( window ).resize(function () {
       $.sidr('close', 'sidr');
     });
+    
+ $('.smooth').click(function () {
+      var target = $(this.hash);
+
+      $.sidr('close', 'sidr');
+      $('html,body').animate({
+        scrollTop: target.offset().top
+      }, 700);
+    });
+
 
     </script>
 
