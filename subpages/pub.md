@@ -6,8 +6,8 @@ layout: default
 # Publication
 
 - [Journal](#journal)
-- [Invited Talk](#invitedtalk)
-- [International Conference](#internationalconference)
+- [Invited Talk](#invited-talk)
+- [International Conference](#international-conference)
 - [国内学会](#国内学会)
 - [特許](#特許)
 - [受賞](#受賞)
