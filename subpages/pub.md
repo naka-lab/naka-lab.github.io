@@ -15,7 +15,7 @@ layout: default
 
 
 ## Journal
-1. Kaori Kumagai, Ichiro Kobayashi, Daichi Mochihashi, Hideki Asoh, Tomoaki Nakamura, and Takayuki Nagai, "Natural Language Generation using Monte Carlo Tree Search",  Journal of Advanced Computational Intelligence and Intelligent Informatics,  Vol. 22, No. 5 (Accepted)1. 
+1. Kaori Kumagai, Ichiro Kobayashi, Daichi Mochihashi, Hideki Asoh, Tomoaki Nakamura, and Takayuki Nagai, "Natural Language Generation using Monte Carlo Tree Search",  Journal of Advanced Computational Intelligence and Intelligent Informatics,  Vol. 22, No. 5 (Accepted)
 1. Tomoaki Nakamura, and Takayuki Nagai, "Ensemble-of-Concept Models for Unsupervised Formation of Multiple Categories", IEEE Transactions on Cognitive and Developmental Systems (Accepted)
 1. Tomoaki Nakamura, Takayuki Nagai and Tadahiro Taniguchi, "SERKET: An Architecture for Connecting Stochastic Models to Realize a Large-Scale Cognitive Model", Frontiers in Neurorobotics, vol. 12, article 25, pp. 1-16, Jun. 2018
 1. Gibran Benitez-Garcia, Tomoaki Nakamura, Masahide Kaneko, "Multicultural Facial Expression Recognition Based on Differences of Western-Caucasian and East-Asian Facial Expressions of Emotions", IEICE Transactions on Information and Systems, vol.E101-D, no.5, pp.1317-1324, May 2018
