@@ -43,7 +43,7 @@ hogehoge
 ![概念・言語獲得](imgs/graphical_models.jpg)
 
 ### 参考文献
-Tomoaki Nakamura, Takayuki Nagai, and Tadahiro Taniguchi, “Serket: An architecture for connecting stochastic models to realize a large-scale cognitive model”, Frontiers in Neurorobotics, vol.12, pp.1–16, 2018.
+Tomoaki Nakamura, Takayuki Nagai, and Tadahiro Taniguchi, “Serket: An architecture for connecting stochastic models to realize a large-scale cognitive model”, Frontiers in Neurorobotics, vol.12, pp.1–16, 2018 [[PDF]](https://www.frontiersin.org/articles/10.3389/fnbot.2018.00025/full)
 
 
 
