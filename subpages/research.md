@@ -8,7 +8,7 @@ layout: default
 
 ## ロボットによる概念・言語獲得
 本研究では，人のように概念や言語を獲得するロボットを目指しています．ロボットは物体から得られる情報をカテゴリ分類することで物体の概念を形成し，人から教えられる文章に含まれる単語と結びつけることで単語の意味を獲得します．さらに教示文に含まれる単語の語順を学習することで，文法の獲得を実現しています．
-![概念・言語獲得](imgs/concept_lang.jpg)
+![概念・言語獲得](imgs/concept_lang.png)
 
 ### 参考文献
 - Tomoaki Nakamura, and Takayuki Nagai, “Ensemble-of-Concept Models for Unsupervised Formation of Multiple Categories”, IEEE Transactions on Cognitive and Developmental Systems [[PDF]](https://ieeexplore.ieee.org/document/8023995)
