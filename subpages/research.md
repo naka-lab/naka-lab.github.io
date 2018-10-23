@@ -8,7 +8,7 @@ layout: default
 
 ## ロボットによる概念・言語獲得
 本研究では，人のように概念や言語を獲得するロボットを目指しています．ロボットは物体から得られる情報をカテゴリ分類することで物体の概念を形成し，人から教えられる文章に含まれる単語と結びつけることで単語の意味を獲得します．さらに教示文に含まれる単語の語順を学習することで，文法の獲得を実現しています．
-![概念・言語獲得](imgs/concept_lang.png)
+![概念・言語獲得](imgs/concept_lang.jpg)
 
 ### 参考文献
 - Tomoaki Nakamura, and Takayuki Nagai, “Ensemble-of-Concept Models for Unsupervised Formation of Multiple Categories”, IEEE Transactions on Cognitive and Developmental Systems [[PDF]](https://ieeexplore.ieee.org/document/8023995)
@@ -22,7 +22,7 @@ layout: default
 
 ## 時系列情報の分節化
 本研究では，ロボットが人のように言語や動作を柔軟に学習することを目指しています．ロボットは音声波形や動作などの時系列情報から，意味を持つ単語や単位動作に明示的な分節点が与えられることなく自ら学習し分節化する．さらに，類似する単語や単位動作を同じクラスに分類する．
-![時系列情報の分節化](imgs/concept_Segm.jpg)
+![時系列情報の分節化](imgs/concept_Segm.png)
 
 ### 参考文献
 - 長野匡隼, 中村友昭, 長井隆行, 持橋大地, 小林一郎, 金子正秀, ”ノンパラメトリックベイズ法に基づく時系列データの分節化”, 人工知能学会全国大会, 2G4-04, Jun. 2018 [[PDF]](https://confit.atlas.jp/guide/event/jsai2018/subject/2G4-04/detail?lang=ja)
