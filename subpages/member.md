@@ -7,7 +7,7 @@ layout: default
 メールは後ろに @radish.ee.uec.ac.jp をつけてください．
 
 ## スタッフ
-- 助教:　[中村 友昭　(Tomoaki Nakamura)](http://www.naka-lab.org/)　e-mail: nakamura
+- 助教:　[中村 友昭　(Tomoaki Nakamura)](nakamura.md)　e-mail: nakamura
 - 秘書:　早川 幸枝　(Yukie Hayakawa)　e-mail: yukie-h
 
 ## M2
@@ -15,10 +15,10 @@ layout: default
 - 池田 佳那　(Kana Ikeda)　e-mail: k_ikeda
 
 ## M1
-- 工藤 仁紀　(Kudou Masaki)　e-mail: m_kudou
+- 工藤 仁紀　(Masaki Kudo)　e-mail: m_kudou
 - 布川 遼太郎　(Ryotaro Nunokawa)　e-mail: r_nunokawa
-- 長野 匡隼　(Nagano Masatoshi)　e-mail: m_nagano
+- 長野 匡隼　(Masatoshi Nagano)　e-mail: m_nagano
 
 ## B4
-- 國安 瞭　(Kuniyasu Ryo)　e-mail: r_kuniyasu
-- 平田 空　(Hirata Sora)　e-mail: s_hirata
+- 國安 瞭　(Ryo Kuniyasu)　e-mail: r_kuniyasu
+- 平田 空　(Sora Hirata)　e-mail: s_hirata
