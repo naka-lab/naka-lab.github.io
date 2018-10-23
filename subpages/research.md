@@ -1,4 +1,4 @@
----
+﻿---
 title: タイトル
 layout: default
 ---
@@ -39,9 +39,11 @@ hogehoge
 
 
 ## 大規模な学習モデル構築のためのアーキテクチャ
+ロボットによる概念や言語の獲得をはじめ，私たちは様々な学習モデルを提案してきました．人のような知能の実現には，さらに複雑で大規模なモデルを構築する必要があります．しかし，モデルの規模が大きく複雑になるにつれて，実装することは困難になると考えられます．そこで，小規模で基礎的なモデルを組み合わせることによって大規模なモデルの構築を容易にするアーキテクチャSerketの研究・開発を行っています．
+![概念・言語獲得](imgs/graphical_models.jpg)
 
 ### 参考文献
-
+Tomoaki Nakamura, Takayuki Nagai, and Tadahiro Taniguchi, “Serket: An architecture for connecting stochastic models to realize a large-scale cognitive model”, Frontiers in Neurorobotics, vol.12, pp.1–16, 2018.
 
 
 
