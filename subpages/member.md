@@ -22,3 +22,11 @@ layout: default
 ## B4
 - 國安 瞭　(Ryo Kuniyasu)　e-mail: r_kuniyasu
 - 平田 空　(Sora Hirata)　e-mail: s_hirata
+
+
+# 過去のメンバー
+
+|名前|在籍年度|
+|:-------|:-------:|
+|船田 美雪|2015-2017|
+|小堀 嵩博|2014-2016|
