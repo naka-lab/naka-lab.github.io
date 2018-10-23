@@ -52,10 +52,37 @@ q:before, q:after {
     content: '';
     content: none;
 }
-table {
-    border-collapse: collapse;
-    border-spacing: 0;
+
+
+
+
+
+
+/* Table */
+table, th, td {
+  border-collapse: collapse;
+  border: 1px solid #ccc;
+  line-height: 1.5;
 }
+
+table.type06 thead, th {
+            background-color: #508abb;
+			color: #FFFFFF;
+			border-color: #6ea1cc;
+			text-transform: uppercase;
+}
+
+table.type06 td {
+  color: #353535;
+}
+
+tr:nth-child(even) {
+  background: #f4fbff;
+}
+
+
+
+
 
 body {
     font-family: 'lucida grande', tahoma, verdana, arial, sans-serif;
