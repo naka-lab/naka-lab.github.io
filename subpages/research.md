@@ -21,9 +21,12 @@ layout: default
 
 
 ## 時系列情報の分節化
-hogehoge
+本研究では，ロボットが人のように言語や動作を柔軟に学習することを目指しています．ロボットは分節化することで，音声波形や動作などの時系列情報を，明示的な分節点が与えられることなく，意味を持つ単語や単位動作に学習し分割する．さらに，類似する単語や単位動作を同じクラスに分類する．
+![時系列情報の分節化](imgs/concept_Segm.png)
 
 ### 参考文献
+- 長野匡隼, 中村友昭, 長井隆行, 持橋大地, 小林一郎, 金子正秀, ”ノンパラメトリックベイズ法に基づく時系列データの分節化”, 人工知能学会全国大会, 2G4-04, Jun. 2018 [[PDF]](https://confit.atlas.jp/guide/event/jsai2018/subject/2G4-04/detail?lang=ja)
+- Tomoaki Nakamura, Tayuki Nagai, Dichi Mochihashi, Ichiro Kobayashi, Hideki Asoh, and Masahide Kaneko, ”Segmenting Continuous Motions with Hidden Semi-Markov Models and Gaussian Processes”, Frontiers in Neurorobotics, vol.11, no.67,2017 [[PDF]](https://www.frontiersin.org/articles/10.3389/fnbot.2017.00067/full)
 
 
 
