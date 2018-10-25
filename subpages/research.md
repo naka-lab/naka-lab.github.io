@@ -21,7 +21,7 @@ layout: default
 
 
 ## 時系列情報の分節化
-本研究では，ロボットが人のように言語や動作を柔軟に学習することを目指しています．ロボットは分節化することで，音声波形や動作などの時系列情報を，明示的な分節点が与えられることなく，意味を持つ単語や単位動作に学習し分割する．さらに，類似する単語や単位動作を同じクラスに分類する．
+本研究では，ロボットが人のように言語や動作を柔軟に学習することを目指しています．ロボットは，音声波形や動作などの時系列情報を，明示的な分節点が与えられることなく分節化することで，意味を持つ単語や単位動作に分割し学習しています．さらに，類似する単語や単位動作を同じクラスに分類することで，その単語や動作の意味を獲得することができます．
 ![時系列情報の分節化](imgs/concept_Segm.png)
 
 ### 参考文献
@@ -47,6 +47,7 @@ layout: default
 
 ### 参考文献
 - Tomoaki Nakamura, Takayuki Nagai and Tadahiro Taniguchi, “SERKET: An Architecture for Connecting Stochastic Models to Realize a Large-Scale Cognitive Model”, Frontiers in Neurorobotics, vol. 12, article 25, pp. 1-16, Jun. 2018 [[PDF]](https://www.frontiersin.org/articles/10.3389/fnbot.2018.00025/full)
+- 國安瞭，中村友昭，青木達哉，谷口彰，尾崎僚，伊志嶺朝良，横山裕樹，小椋忠志，長井隆行，谷口忠大，”確率モデルの統合による大規模なモデルの実現 ～VAE, GMM, HMM, MLDAの統合モデルの実装と評価～”，情報論的学習理論ワークショップ，T-34，Nov. 2018
 
 
 
