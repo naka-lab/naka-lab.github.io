@@ -69,6 +69,8 @@ layout: default
 1. Masatoshi Nagano, Tomoaki Nakamura, Takayuki Nagai, Daichi Mochihashi, Ichiro Kobayashi, Masahide Kaneko, "Sequence Pattern Extraction by Segmenting Time Series Data Using GP-HSMM with Hierarchical Dirichlet Process", IROS2018, pp. 4067-4074, Oct. 2018
 1. Satoru Oshikawa, Tomoaki Nakamura, Takayuki Nagai, Kotaro Funakoshi, Naoto Iwahashi, Mikio Nakano, and Masahide Kaneko, "Interaction Modeling Based on Segmenting Two Persons Motions Using Coupled GP-HSMM", RO-MAN, pp. 288-293, Aug. 2018
 1. Akihito Shimazu, Chie Hieida, Takayuki Nagai, Tomoaki Nakamura, Yuki Takeda, Takenori Hara, Osamu Nakagawa, and Tsuyoshi Maeda, "Generation of Gestures During Presentation for Humanoid Robots", RO-MAN, pp. 961-968, Aug. 2018
+1. Kazuki Miyazawa, Tatsuya Aoki, Takato Horii, Tomoaki Nakamura, and Takayuki Nagai, "Online Language Learning by Integrated Cognitive Architecture", ALIFE2018: Workshop on the emergence and evolution of social learning, communication, language and culture in natural and artificial agents, Jul. 2018
+1. Kensuke Iwata, Tomoaki Nakamura, Takayuki Nagai, "Learning of Motion Primitives Using Reference-Point-Dependent GP-HSMM for Domestic Service Robots," the 15th International Conference on Intelligent Autonomous Systems, pp.1-12, Jun. 2018
 1. Tomoaki Nakamura, Takahiro Kobori and Mikio Nakano, "Learning Dialogue Strategies for Interview Dialogue Systems That Can Engage in Small Talk", International Workshop on Spoken Dialogue Systems Technology, May 2018
 1. Ye Kyaw Thu, Takuya Ishida, Naoto Iwahashi, Tomoaki Nakamura and Takayuki Nagai, "Symbol Grounding from Natural Conversation for Human-Robot Communication", HAI2017, Oct. 2017
 1. Tatsuya Aoki, Tomoaki Nakamura and Takayuki Nagai, "Online Joint Learning of Object Concepts and Language", IEEE ICDL-EPIROB2017: Second Workshop on Language Learning, Sep. 2017
@@ -113,6 +115,9 @@ layout: default
 
 
 ## 国内学会
+1. 國安瞭，中村友昭，青木達哉，谷口彰，尾崎僚，伊志嶺朝良，横山裕樹，小椋忠志，長井隆行，谷口忠大，"確率モデルの統合による大規模なモデルの実現 ～VAE, GMM, HMM, MLDAの統合モデルの実装と評価～"，情報論的学習理論ワークショップ，T-34，Nov. 2018
+1. 長野匡隼，中村友昭，長井隆行，持橋大地，小林一郎，高野渉，金子正秀，"VAEとガウス過程による高次元データの圧縮と同時分節化"，情報論的学習理論ワークショップ，D1-24，Nov. 2018
+1. 三村喬生，松本惇平，持橋大地，島谷健一郎，中村友昭，長井隆行，西条寿夫，須原哲也，南本敬史，"小型霊長類における動作のマーカレス測定と時空間モデリング"，情報論的学習理論ワークショップ，D2-38，Nov. 2018
 1. 嶋津章仁，日永田智絵，長井隆行，中村友昭，武田祐樹，原豪紀，中川修，前田強，"系列変換モデルを用いたプレゼンテーション動作の生成"，人工知能学会全国大会，2G1-03，Jun. 2018
 1. 布川遼太郎，宮澤和貴，中村友昭，長井隆行，金子 正秀，"時系列マルチモーダル情報の分節・分類に基づく物体と動作の統合概念学習"，人工知能学会全国大会，1G3-05，Jun. 2018
 1. 押川慧，中村友昭，長井隆行，岩橋直人，船越孝太郎，中野幹生，金子正秀，"Coupled GP-HSMMを用いた連続動作の分節化に基づくインタラクションのモデル化"，人工知能学会全国大会，4L2-04，Jun. 2018
