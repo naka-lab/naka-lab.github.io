@@ -66,3 +66,12 @@ layout: default
 - 小堀嵩博，中村友昭，長井隆行，岩橋直人，船越孝太郎，中野幹生，金子正秀，"環境情報を考慮したロボットによる音声命令理解"，人工知能学会全国大会，1O2-3，Jun. 2016 [[PDF]](http://www.ai-gakkai.or.jp/jsai2016/webprogram/2016/paper-568.html)
 
 
+
+## 保育AI
+研究で得られた様々な人工知能(AI)の技術を応用した研究も行っています．この研究では，実際に保育園で子どもたちの行動を計測し，その情報を我々の技術を利用して解析することで，子どもたちの行動や状態を自動的に推定しています．最終的には，子どもたちの成長や，保育の質を定量化し，保育者へのフィードバックへ利用することを目指しています．
+![子どもたちの行動解析](imgs/childcare_ai.jpg)
+
+### 参考文献
+- Bin Zhang, Tomoaki Nakamura, Rena Ushiogi, Takayuki Nagai, Kasumi Abe, Takashi Omori, Natsuki Oka, and Masahide Kaneko, "Robust Children Behavior Tracking for Childcare Assisting Robot By Using Multiple Kinect Sensors", International Conference on Social Robotics, pp.640-649, Nov. 2016 [[PDF]](https://link.springer.com/chapter/10.1007/978-3-319-47437-3_63)
+- 肥田竜馬，山田徹志，張斌，宮田真宏，石川久悟，根岸諒平，大森隆司，中村友昭，長井隆行，岡夏樹，"保育の質の定量化のための人間行動センシングと解析ツールの開発"，人工知能学会全国大会，2H3-OS-35a-5，May 2017 [[PDF]](http://www.ai-gakkai.or.jp/jsai2017/webprogram/2017/pdf/343.pdf)
+- 大森隆司，アッタミミムハンマド，山田徹志，中村友昭，肥田竜馬，阿部香澄，長井隆行，岡夏樹，西村拓一，"保育AI：心の発達を理解するAIの可能性"，人工知能学会全国大会，2E4-OS-12a-6，Jun. 2016 [[PDF]](https://www.ai-gakkai.or.jp/jsai2016/webprogram/2016/pdf/735.pdf)
