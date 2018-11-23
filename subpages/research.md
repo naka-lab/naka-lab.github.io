@@ -70,8 +70,9 @@ layout: default
 ## 保育AI
 研究で得られた様々な人工知能(AI)の技術を応用した研究も行っています．この研究では，実際に保育園で子どもたちの行動を計測し，その情報を我々の技術を利用して解析することで，子どもたちの行動や状態を自動的に推定しています．最終的には，子どもたちの成長や，保育の質を定量化し，保育者へのフィードバックへ利用することを目指しています．
 
-
+<center>
 ![子どもたちの行動解析](imgs/childcare_ai.jpg)
+</center>
 
 ### 参考文献
 - Bin Zhang, Tomoaki Nakamura, Rena Ushiogi, Takayuki Nagai, Kasumi Abe, Takashi Omori, Natsuki Oka, and Masahide Kaneko, "Robust Children Behavior Tracking for Childcare Assisting Robot By Using Multiple Kinect Sensors", International Conference on Social Robotics, pp.640-649, Nov. 2016 [[PDF]](https://link.springer.com/chapter/10.1007/978-3-319-47437-3_63)
