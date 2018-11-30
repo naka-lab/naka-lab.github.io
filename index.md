@@ -17,4 +17,4 @@ layout: default
     * M1の長野君が鹿児島で行われた第32回人工知能学会全国大会で学生奨励賞を受賞しました．[[賞状]](news_imgs/180807.png)
 
 * 2018/03/15
-    * B4の長野君が情報処理学会の全国大会で学生奨励賞を受賞しました．[[受賞者のページ]](http://www.ipsj.or.jp/award/taikaigakusei.html)
+    * B4の長野君が情報処理学会の全国大会で学生奨励賞を受賞しました．[[受賞者のページ]](http://www.ipsj.or.jp/award/taikaigakusei.html) [[賞状]](news_imgs/180315.pdf)
