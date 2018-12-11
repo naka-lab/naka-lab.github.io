@@ -60,6 +60,7 @@ q:before, q:after {
 
 /* Table */
 table, th, td {
+  padding: 3px 20px;
   border-collapse: collapse;
   border: 1px solid #ccc;
   line-height: 1.5;
@@ -122,6 +123,14 @@ h2 {
     /*線の種類（点線）2px 線色*/
 }
 
+h3 {
+    font-size: 18px;
+    color: #666;
+    margin-bottom: 10px;
+    line-height: 1.5em;
+    display: inline-block;
+    border-bottom: dashed 2px #666;
+}
 p {
     font-size: 16px;
     margin-bottom: 20px;
@@ -199,6 +208,7 @@ pre {
     margin: 1em;
     margin-left: 20px;
     background-color: rgb(245, 245, 245);  
+    white-space: pre-wrap ;
 }
 code {
     font-family: 'lucida grande', tahoma, verdana, arial, sans-serif;
