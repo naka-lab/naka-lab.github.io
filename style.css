@@ -36,7 +36,7 @@ ol, ul {
     
     /* ここから変更 */
     padding-top:0px;
-	padding-bottom:20px;
+	/*padding-bottom:20px;*/
 	padding-left:30px;
 }
 
@@ -113,12 +113,13 @@ h2 {
     font-size: 24px;
     color: #444;
     margin-bottom: 10px;
+    margin-top: 20px;
     line-height: 1.5em;
     
-display: inline-block;
-color: #364e96;/*文字色*/
-border-bottom: dashed 2px #364e96;
-/*線の種類（点線）2px 線色*/
+    display: inline-block;
+    color: #364e96;/*文字色*/
+    border-bottom: dashed 2px #364e96;
+    /*線の種類（点線）2px 線色*/
 }
 
 p {
