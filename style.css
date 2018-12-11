@@ -117,23 +117,25 @@ h2 {
     margin-top: 20px;
     line-height: 1.5em;
     
-    display: inline-block;
-    color: #364e96;/*文字色*/
-    border-bottom: dashed 2px #364e96;
-    /*線の種類（点線）2px 線色*/
+display: inline-block;
+color: #364e96;/*文字色*/
+border-bottom: dashed 2px #364e96;
+/*線の種類（点線）2px 線色*/
 }
 
 h3 {
     font-size: 18px;
     color: #666;
+    margin-top: 20px;
     margin-bottom: 10px;
     line-height: 1.5em;
+	
     display: inline-block;
     border-bottom: dashed 2px #666;
 }
+	
 p {
     font-size: 16px;
-    margin-bottom: 20px;
 }
 
 ul li {
@@ -208,6 +210,7 @@ pre {
     margin: 1em;
     margin-left: 20px;
     background-color: rgb(245, 245, 245);  
+
     white-space: pre-wrap ;
 }
 code {
@@ -218,3 +221,9 @@ code {
     border-radius: 3px;
 }
 
+/* 画像を中央に配置 */
+img {
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+}
