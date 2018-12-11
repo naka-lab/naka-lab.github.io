@@ -24,7 +24,7 @@ layout: default
 - 平田 空　(Sora Hirata)　e-mail: s_hirata
 
 
-# 過去のメンバー
+## OB・OG
 
 |　　　　名前　　　　|　　　　在籍年度　　　　|
 |:------:|:-------:|
