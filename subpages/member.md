@@ -21,6 +21,7 @@ layout: default
 - 秋山　祐威 (Yui Akiyama)	E-mail: y_akiyama
 - 木村 大河 (Taiga Kimura) e-mail: t_kimura
 - 樋口　由樹 (Yoshiki Higuchi) e-mail: y_higuchi
+- 弓場亮介 (Ryosuke Yuba) e-mail: r_yuba
 
 ## B4
 - 柳沼 和樹 (Kazuki Yaginuma) e-mail: k_yaginuma
