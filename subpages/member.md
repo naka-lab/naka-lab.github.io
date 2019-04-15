@@ -18,15 +18,15 @@ layout: default
 ## M1
 - 國安 瞭　(Ryo Kuniyasu)　e-mail: r_kuniyasu
 - 平田 空　(Sora Hirata)　e-mail: s_hirata
-- 木村 大河 (Taiga Kimura) e-mail: 
-- 樋口　由樹 (Yoshiki Higuchi) e-mail: 
+- 木村 大河 (Taiga Kimura) e-mail: t_kimura
+- 樋口　由樹 (Yoshiki Higuchi) e-mail: y_higuchi
 
 ## B4
-- 柳沼 和樹 (Kazuki Yaginuma) e-mail: 
-- 松本 凌 (Ryo Matsumoto) e-mail:  
-- 大貫 豪 (Go Onuki) e-mail: 
-- 平川 拓実 (Takumi Hirawaka) e-mail: 
-- 中川 暁斗 (Akito Nakagawa) e-mail: 
+- 柳沼 和樹 (Kazuki Yaginuma) e-mail: k_yaginuma
+- 松本 凌 (Ryo Matsumoto) e-mail: r_matsumoto
+- 大貫 豪 (Go Onuki) e-mail: n_onuki
+- 平川 拓実 (Takumi Hirawaka) e-mail: t_hirakawa
+- 中川 暁斗 (Akito Nakagawa) e-mail: a_nakagawa
 
 ## OB・OG
 
