@@ -18,6 +18,7 @@ layout: default
 ## M1
 - 國安 瞭　(Ryo Kuniyasu)　e-mail: r_kuniyasu
 - 平田 空　(Sora Hirata)　e-mail: s_hirata
+- 秋山　祐威 (Yui Akiyama)	E-mail: y_akiyama
 - 木村 大河 (Taiga Kimura) e-mail: t_kimura
 - 樋口　由樹 (Yoshiki Higuchi) e-mail: y_higuchi
 
