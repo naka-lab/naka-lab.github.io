@@ -15,6 +15,7 @@ layout: default
 
 
 ## Journal
+1. Tadahiro Tangiuchi, Daichi Mochihashi, Takayuki Nagai, Satoru Uchida, Naoya Inoue, Ichiro Kobayashi, Tomoaki Nakamura, Yoshinobu Hagiwara, Naoto Iwahashi and Tetsunari Inamura, "Survey on frontiers of language and robotics", Advanced Robotics, 2019
 1. Kaori Kumagai, Ichiro Kobayashi, Daichi Mochihashi, Hideki Asoh, Tomoaki Nakamura, and Takayuki Nagai, "Natural Language Generation using Monte Carlo Tree Search",  Journal of Advanced Computational Intelligence and Intelligent Informatics,  Vol. 22, No. 5 (Accepted)
 1. Tomoaki Nakamura, and Takayuki Nagai, "Ensemble-of-Concept Models for Unsupervised Formation of Multiple Categories", IEEE Transactions on Cognitive and Developmental Systems, vol. 10, issue 4, pp. 1043-1057, Dec. 2018
 1. Tomoaki Nakamura, Takayuki Nagai and Tadahiro Taniguchi, "SERKET: An Architecture for Connecting Stochastic Models to Realize a Large-Scale Cognitive Model", Frontiers in Neurorobotics, vol. 12, article 25, pp. 1-16, Jun. 2018
@@ -65,6 +66,8 @@ layout: default
 
 
 ## International Conference
+1. Masatoshi Nagano, Tomoaki Nakamura, Takayuki Nagai, Daichi Mochihashi, Ichiro Kobayashi and Wataru Takano, "High-dimensional Motion Segmentation by Variational Autoencoder and Gaussian Processes", IROS2018, Nov. 2019 (accepted)
+1. Yusuke Kato, Tomoaki Nakamura, Takayuki Nagai, Natsuki Yamanobe, Kazuyuki Nagata and Jun Ozawa, "Adjusting Weight of Action Decision in Exploration for Logistics Warehouse Picking Learning", IROS2018, Nov. 2019 (accepted)
 1. Kensuke Iwata, Tatsuya Aoki, Takato Horii, Tomoaki Nakamura, Takayuki Nagai, "Learning and Generation of Actions from Teleoperation for Domestic Service Robots", IROS2018, pp. 8184-8191, Oct. 2018
 1. Masatoshi Nagano, Tomoaki Nakamura, Takayuki Nagai, Daichi Mochihashi, Ichiro Kobayashi, Masahide Kaneko, "Sequence Pattern Extraction by Segmenting Time Series Data Using GP-HSMM with Hierarchical Dirichlet Process", IROS2018, pp. 4067-4074, Oct. 2018
 1. Satoru Oshikawa, Tomoaki Nakamura, Takayuki Nagai, Kotaro Funakoshi, Naoto Iwahashi, Mikio Nakano, and Masahide Kaneko, "Interaction Modeling Based on Segmenting Two Persons Motions Using Coupled GP-HSMM", RO-MAN, pp. 288-293, Aug. 2018
