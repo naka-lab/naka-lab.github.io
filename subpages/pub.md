@@ -66,8 +66,8 @@ layout: default
 
 
 ## International Conference
-1. Masatoshi Nagano, Tomoaki Nakamura, Takayuki Nagai, Daichi Mochihashi, Ichiro Kobayashi and Wataru Takano, "High-dimensional Motion Segmentation by Variational Autoencoder and Gaussian Processes", IROS2018, Nov. 2019 (accepted)
-1. Yusuke Kato, Tomoaki Nakamura, Takayuki Nagai, Natsuki Yamanobe, Kazuyuki Nagata and Jun Ozawa, "Adjusting Weight of Action Decision in Exploration for Logistics Warehouse Picking Learning", IROS2018, Nov. 2019 (accepted)
+1. Masatoshi Nagano, Tomoaki Nakamura, Takayuki Nagai, Daichi Mochihashi, Ichiro Kobayashi and Wataru Takano, "High-dimensional Motion Segmentation by Variational Autoencoder and Gaussian Processes", IROS2019, Nov. 2019 (accepted)
+1. Yusuke Kato, Tomoaki Nakamura, Takayuki Nagai, Natsuki Yamanobe, Kazuyuki Nagata and Jun Ozawa, "Adjusting Weight of Action Decision in Exploration for Logistics Warehouse Picking Learning", IROS2019, Nov. 2019 (accepted)
 1. Kensuke Iwata, Tatsuya Aoki, Takato Horii, Tomoaki Nakamura, Takayuki Nagai, "Learning and Generation of Actions from Teleoperation for Domestic Service Robots", IROS2018, pp. 8184-8191, Oct. 2018
 1. Masatoshi Nagano, Tomoaki Nakamura, Takayuki Nagai, Daichi Mochihashi, Ichiro Kobayashi, Masahide Kaneko, "Sequence Pattern Extraction by Segmenting Time Series Data Using GP-HSMM with Hierarchical Dirichlet Process", IROS2018, pp. 4067-4074, Oct. 2018
 1. Satoru Oshikawa, Tomoaki Nakamura, Takayuki Nagai, Kotaro Funakoshi, Naoto Iwahashi, Mikio Nakano, and Masahide Kaneko, "Interaction Modeling Based on Segmenting Two Persons Motions Using Coupled GP-HSMM", RO-MAN, pp. 288-293, Aug. 2018
