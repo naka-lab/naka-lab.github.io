@@ -55,6 +55,7 @@ layout: default
 
 
 ## Invited Talk
+1. Tomoaki Nakamura, "A Framework for Construction of Multimodal Learning Models", IROS2019: Workshop on Deep Probabilistic Generative Models for Cognitive Architecture in Robotics, Nov. 2019
 1. 中村友昭, "階層ベイズモデルに基づくロボットによる教師なし概念学習", 第122回ロボット工学セミナー「近年のベイズ推論研究とロボット工学への応用」，Jul. 2019
 1. 中村友昭, "マルチモーダル情報に基づくロボットによる概念・言語獲得", 玉川大学 脳科学研究所 社会神経科学共同研究拠点研究会, Sep. 20181. 
 1. 中村友昭, "マルチモーダルカテゴリゼーションに基づくロボットによる概念・言語獲得", 脳型人工知能とその応用ミニワークショップ, Jun. 2018
@@ -68,8 +69,8 @@ layout: default
 
 
 ## International Conference
-1. Masatoshi Nagano, Tomoaki Nakamura, Takayuki Nagai, Daichi Mochihashi, Ichiro Kobayashi and Wataru Takano, "High-dimensional Motion Segmentation by Variational Autoencoder and Gaussian Processes", IROS2019, Nov. 2019 (accepted)
-1. Yusuke Kato, Tomoaki Nakamura, Takayuki Nagai, Natsuki Yamanobe, Kazuyuki Nagata and Jun Ozawa, "Adjusting Weight of Action Decision in Exploration for Logistics Warehouse Picking Learning", IROS2019, Nov. 2019 (accepted)
+1. Masatoshi Nagano, Tomoaki Nakamura, Takayuki Nagai, Daichi Mochihashi, Ichiro Kobayashi and Wataru Takano, "High-dimensional Motion Segmentation by Variational Autoencoder and Gaussian Processes", IROS2019, pp. 105-111, Nov. 2019
+1. Yusuke Kato, Tomoaki Nakamura, Takayuki Nagai, Natsuki Yamanobe, Kazuyuki Nagata and Jun Ozawa, "Adjusting Weight of Action Decision in Exploration for Logistics Warehouse Picking Learning", IROS2019, pp. 3557-3564, Nov. 2019
 1. Kensuke Iwata, Tatsuya Aoki, Takato Horii, Tomoaki Nakamura, Takayuki Nagai, "Learning and Generation of Actions from Teleoperation for Domestic Service Robots", IROS2018, pp. 8184-8191, Oct. 2018
 1. Masatoshi Nagano, Tomoaki Nakamura, Takayuki Nagai, Daichi Mochihashi, Ichiro Kobayashi, Masahide Kaneko, "Sequence Pattern Extraction by Segmenting Time Series Data Using GP-HSMM with Hierarchical Dirichlet Process", IROS2018, pp. 4067-4074, Oct. 2018
 1. Satoru Oshikawa, Tomoaki Nakamura, Takayuki Nagai, Kotaro Funakoshi, Naoto Iwahashi, Mikio Nakano, and Masahide Kaneko, "Interaction Modeling Based on Segmenting Two Persons Motions Using Coupled GP-HSMM", RO-MAN, pp. 288-293, Aug. 2018
