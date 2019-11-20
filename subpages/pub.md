@@ -15,7 +15,7 @@ layout: default
 
 
 ## Journal
-1. Masatoshi Nagano Tomoaki Nakamura Takayuki Nagai Daichi Mochihashi Ichiro Kobayashi and Wataru Takano, "HVGH: Unsupervised Segmentation for High-dimensional Time Series Using Deep Neural Compression and Statistical Generative Model", Frontiers in Robotics and AI (Accepted)
+1. Masatoshi Nagano Tomoaki Nakamura Takayuki Nagai Daichi Mochihashi Ichiro Kobayashi and Wataru Takano, "HVGH: Unsupervised Segmentation for High-dimensional Time Series Using Deep Neural Compression and Statistical Generative Model", Frontiers in Robotics and AI, Vol. 6, Article 115, pp. 1-15, Nov. 2019
 1. Tadahiro Tangiuchi, Daichi Mochihashi, Takayuki Nagai, Satoru Uchida, Naoya Inoue, Ichiro Kobayashi, Tomoaki Nakamura, Yoshinobu Hagiwara, Naoto Iwahashi and Tetsunari Inamura, "Survey on frontiers of language and robotics", Advanced Robotics, 2019
 1. Kaori Kumagai, Ichiro Kobayashi, Daichi Mochihashi, Hideki Asoh, Tomoaki Nakamura, and Takayuki Nagai, "Natural Language Generation using Monte Carlo Tree Search",  Journal of Advanced Computational Intelligence and Intelligent Informatics,  Vol. 22, No. 5 (Accepted)
 1. Tomoaki Nakamura, and Takayuki Nagai, "Ensemble-of-Concept Models for Unsupervised Formation of Multiple Categories", IEEE Transactions on Cognitive and Developmental Systems, vol. 10, issue 4, pp. 1043-1057, Dec. 2018
@@ -121,6 +121,7 @@ layout: default
 
 
 ## 国内学会
+1. 長野匡隼，中村友昭，長井隆行，持橋大地，小林一郎，高野渉，"Slice Samplingに基づく教師なし分節化における推論の高速化"，情報論的学習理論ワークショップ，1-053，Nov. 2019
 1. 工藤仁紀，中村友昭，"複数の物体が存在する環境下でのロボットによる語意学習", 日本ロボット学会学術講演会，2A2-04，Sep. 2019
 1. 阿部香澄，植村優里，樋口由樹，塩見昌裕，金井玲奈，中村友昭，長井隆行，"ロボットでの幼児の気質推定に基づく遊び提案システムに向けた分析"，日本ロボット学会学術講演会，3F1-05，Sep. 2019
 1. 嘉藤佑亮，中村友昭，長井隆行，山野辺夏樹，永田和之，小澤順，"シミュレーション上での学習モデルに基づくロボットによる商品整列の強化学習"，日本ロボット学会学術講演会，3A2-02，Sep. 2019
