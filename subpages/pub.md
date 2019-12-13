@@ -69,6 +69,7 @@ layout: default
 
 
 ## International Conference
+1. Bin Zhang, Tomoaki Nakamura, Masahide Kaneko, Hun-ok Lim, "Development of an Autonomous Guide Robot Based on Active Interactions with Users", IEEE/SICE International Symposium on System Integration, Mo3P.5, Jan. 2020
 1. Masatoshi Nagano, Tomoaki Nakamura, Takayuki Nagai, Daichi Mochihashi, Ichiro Kobayashi and Wataru Takano, "High-dimensional Motion Segmentation by Variational Autoencoder and Gaussian Processes", IROS2019, pp. 105-111, Nov. 2019
 1. Yusuke Kato, Tomoaki Nakamura, Takayuki Nagai, Natsuki Yamanobe, Kazuyuki Nagata and Jun Ozawa, "Adjusting Weight of Action Decision in Exploration for Logistics Warehouse Picking Learning", IROS2019, pp. 3557-3564, Nov. 2019
 1. Kensuke Iwata, Tatsuya Aoki, Takato Horii, Tomoaki Nakamura, Takayuki Nagai, "Learning and Generation of Actions from Teleoperation for Domestic Service Robots", IROS2018, pp. 8184-8191, Oct. 2018
