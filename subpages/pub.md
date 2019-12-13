@@ -57,7 +57,7 @@ layout: default
 ## Invited Talk
 1. Tomoaki Nakamura, "A Framework for Construction of Multimodal Learning Models", IROS2019: Workshop on Deep Probabilistic Generative Models for Cognitive Architecture in Robotics, Nov. 2019
 1. 中村友昭, "階層ベイズモデルに基づくロボットによる教師なし概念学習", 第122回ロボット工学セミナー「近年のベイズ推論研究とロボット工学への応用」，Jul. 2019
-1. 中村友昭, "マルチモーダル情報に基づくロボットによる概念・言語獲得", 玉川大学 脳科学研究所 社会神経科学共同研究拠点研究会, Sep. 20181. 
+1. 中村友昭, "マルチモーダル情報に基づくロボットによる概念・言語獲得", 玉川大学 脳科学研究所 社会神経科学共同研究拠点研究会, Sep. 2018
 1. 中村友昭, "マルチモーダルカテゴリゼーションに基づくロボットによる概念・言語獲得", 脳型人工知能とその応用ミニワークショップ, Jun. 2018
 1. 中村友昭，"マルチモーダルカテゴリゼーション：階層ベイズモデルに基づくロボットによる概念・言語獲得"，第20回情報論的学習理論ワークショップ (IBIS2017)，Nov. 2017
 1. Tomoaki Nakamura, "Toward Realization of Intelligent Robots That Can Learn Concepts and Language", IROS2017: Workshop on Machine Learning Methods for High-Level Cognitive Capabilities in Robotics, Sep. 2017
@@ -121,6 +121,8 @@ layout: default
 
 
 ## 国内学会
+1. 松本凌，張斌，中村友昭，長井隆行，大森 隆司，岡夏樹，"HMM を用いたロバストな人物の移動軌跡の推定"，計測自動制御学会システムインテグレーション部門講演会，2C2-07，Dec. 2019
+1. 秋山祐威，中村友昭，	"LSTM と逆強化学習を用いた手順指示の学習"，計測自動制御学会システムインテグレーション部門講演会，3E4-04，Dec. 2019
 1. 長野匡隼，中村友昭，長井隆行，持橋大地，小林一郎，高野渉，"Slice Samplingに基づく教師なし分節化における推論の高速化"，情報論的学習理論ワークショップ，1-053，Nov. 2019
 1. 工藤仁紀，中村友昭，"複数の物体が存在する環境下でのロボットによる語意学習", 日本ロボット学会学術講演会，2A2-04，Sep. 2019
 1. 阿部香澄，植村優里，樋口由樹，塩見昌裕，金井玲奈，中村友昭，長井隆行，"ロボットでの幼児の気質推定に基づく遊び提案システムに向けた分析"，日本ロボット学会学術講演会，3F1-05，Sep. 2019
