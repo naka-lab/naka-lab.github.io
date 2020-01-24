@@ -15,6 +15,7 @@ layout: default
 
 
 ## Journal
+1. Tadahiro Taniguchi, Tomoaki Nakamura, Masahiro Suzuki, Ryo Kuniyasu, Kaede Hayashi, Akira Taniguchi, Takato Horii and Takayuki Nagai, "Neuro-SERKET: Development of Integrative Cognitive System Through the Composition of Deep Probabilistic Generative Models", New Generation Computing, pp. 1-26, Jan. 2020
 1. Masatoshi Nagano Tomoaki Nakamura Takayuki Nagai Daichi Mochihashi Ichiro Kobayashi and Wataru Takano, "HVGH: Unsupervised Segmentation for High-dimensional Time Series Using Deep Neural Compression and Statistical Generative Model", Frontiers in Robotics and AI, Vol. 6, Article 115, pp. 1-15, Nov. 2019
 1. Tadahiro Tangiuchi, Daichi Mochihashi, Takayuki Nagai, Satoru Uchida, Naoya Inoue, Ichiro Kobayashi, Tomoaki Nakamura, Yoshinobu Hagiwara, Naoto Iwahashi and Tetsunari Inamura, "Survey on frontiers of language and robotics", Advanced Robotics, 2019
 1. Kaori Kumagai, Ichiro Kobayashi, Daichi Mochihashi, Hideki Asoh, Tomoaki Nakamura, and Takayuki Nagai, "Natural Language Generation using Monte Carlo Tree Search",  Journal of Advanced Computational Intelligence and Intelligent Informatics,  Vol. 22, No. 5 (Accepted)
