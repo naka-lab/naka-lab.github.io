@@ -71,8 +71,8 @@ layout: default
 
 ## International Conference
 1. Ryo Matsumoto, Zhang Bin, Tomoaki Nakamura, Takayuki Nagai, Takashi Omori, and Natsuki Oka, "Robust Human Trajectory Estimation Using Hidden Markov Models", RISP International Workshop on Nonlinear Circuits, Communications and
-Signal Processing, Feb. 2020 (accepted)
-1. Yoshiki Higuchi, Kasumi Abe, Masatoshi Nagano, Rena Kanai, Masahiro Shiomi, Takayuki Nagai and Tomoaki Nakamura,  "HSMM-SA-based Analysis of ChildcareWorker’s Interaction Strategy", RISP International Workshop on Nonlinear Circuits, Communications and Signal Processing, Feb. 2020 (accepted)
+Signal Processing, pp. 13-16, Feb. 2020
+1. Yoshiki Higuchi, Kasumi Abe, Masatoshi Nagano, Rena Kanai, Masahiro Shiomi, Takayuki Nagai and Tomoaki Nakamura,  "HSMM-SA-based Analysis of ChildcareWorker’s Interaction Strategy", RISP International Workshop on Nonlinear Circuits, Communications and Signal Processing, pp. 1-4, Feb. 2020
 1. Bin Zhang, Tomoaki Nakamura, Masahide Kaneko, Hun-ok Lim, "Development of an Autonomous Guide Robot Based on Active Interactions with Users", IEEE/SICE International Symposium on System Integration, Mo3P.5, Jan. 2020
 1. Masatoshi Nagano, Tomoaki Nakamura, Takayuki Nagai, Daichi Mochihashi, Ichiro Kobayashi and Wataru Takano, "High-dimensional Motion Segmentation by Variational Autoencoder and Gaussian Processes", IROS2019, pp. 105-111, Nov. 2019
 1. Yusuke Kato, Tomoaki Nakamura, Takayuki Nagai, Natsuki Yamanobe, Kazuyuki Nagata and Jun Ozawa, "Adjusting Weight of Action Decision in Exploration for Logistics Warehouse Picking Learning", IROS2019, pp. 3557-3564, Nov. 2019
