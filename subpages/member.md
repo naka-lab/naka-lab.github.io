@@ -27,9 +27,9 @@ layout: default
 - 松本 凌 (Ryo Matsumoto) e-mail: r_matsumoto
 - 大貫 豪 (Go Onuki) e-mail: n_onuki
 - 平川 拓実 (Takumi Hirawaka) e-mail: t_hirakawa
-- 中川 暁斗 (Akito Nakagawa) e-mail: a_nakagawa
 
 ## B4
+- 中川 暁斗 (Akito Nakagawa) e-mail: a_nakagawa
 - 大道 弘明 (Hiroaki Omichi） e-mail: h_omichi
 - 岡村 悠生 (Yuki Okamura) e-mail: y_okamura
 - 平山 大志 (Taishi Hirayama) e-mail: t_hirayama
