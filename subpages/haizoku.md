@@ -12,12 +12,17 @@ layout: default
   - 日時：11月20日（金）　時間は調整中
   - 場所：zoomにより実施予定
   
-## 研究室の様子
+## 研究環境
+- 西8号館418号室（学生部屋）の360度写真です
 <blockquote data-width="500" data-height="375" class="ricoh-theta-spherical-image" >Post from RICOH THETA. - <a href="https://theta360.com/s/rVTN7ZSb5FNDMzJJ36qSeTGrI" target="_blank">Spherical Image - RICOH THETA</a></blockquote>
-<script async src="https://theta360.com/widgets.js" charset="utf-8"></script>
+<script async src="https://theta360.com/widgets.js" charset="utf-8"></script>  
+
+- 各人に専用の椅子・机・PC・ディスプレイが割り当てられます
+- PCはいずれもGPUを搭載した高性能PCです
+- デュアルディスプレイ環境や，40インチの大型ディスプレイも選択可能です
 
 ## よくある質問
-よく受ける質問をまとめました．詳細やその他の質問は，研究室公開に来て，研究室の学生に聞いてみてください．
+よく受ける質問をまとめました．詳細やその他の質問は，研究室の学生に聞いてみてください．
 
 - Q: コアタイムはありますか？
 - A: コアタイムは設定していません．週1回のミーティングに参加して，成果を出してくれれば，いつ来て，いつ帰っても自由です．ただし，基本的には平日は毎日研究室に来るようにはしてください．研究室に来ないと，教員からの指導が受けられず，研究が進みません．   
