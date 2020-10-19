@@ -11,6 +11,10 @@ layout: default
 - 配属希望者向け研究室公開
   - 日時：11月20日（金）　時間は調整中
   - 場所：zoomにより実施予定
+  
+## 研究室の様子
+<blockquote data-width="500" data-height="375" class="ricoh-theta-spherical-image" >Post from RICOH THETA. - <a href="https://theta360.com/s/rVTN7ZSb5FNDMzJJ36qSeTGrI" target="_blank">Spherical Image - RICOH THETA</a></blockquote>
+<script async src="https://theta360.com/widgets.js" charset="utf-8"></script>
 
 ## よくある質問
 よく受ける質問をまとめました．詳細やその他の質問は，研究室公開に来て，研究室の学生に聞いてみてください．
