@@ -53,5 +53,5 @@ layout: default
 - A: 教員が提案するパターンと，教員と学生で議論しながら決定するパターンの2つあります．やりたいことが明確に決まっていれば，やってもらって構いませんし，もし明確に決まってなければ，教員から提案もします．
 
 ## その他の質問
-以下のフォームから質問を書き込んでください．回答はこのページで公開しようと思います．
-https://docs.google.com/forms/d/e/1FAIpQLSfBF4w8d9ai1aQHhxtl4VVyBXuTPOTVfHFOptZMMHPuV6Ecyw/viewform?usp=sf_link
+[このフォーム](https://docs.google.com/forms/d/e/1FAIpQLSfBF4w8d9ai1aQHhxtl4VVyBXuTPOTVfHFOptZMMHPuV6Ecyw/viewform?usp=sf_link
+)から質問を書き込んでください．回答はこのページで公開しようと思います．
