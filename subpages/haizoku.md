@@ -34,15 +34,11 @@ layout: default
 <blockquote data-width="500" data-height="375" class="ricoh-theta-spherical-image" >Post from RICOH THETA. - <a href="https://theta360.com/s/2rMDTntqBEiVDHaGAxH4u3dlQ" target="_blank">Spherical Image - RICOH THETA</a></blockquote>
 <script async src="https://theta360.com/widgets.js" charset="utf-8"></script>  
 
-- 西8号館517号室（学生部屋）の360度写真
+- 西8号館517号室（学生部屋）の360度写真  
+双腕ロボット，短腕ロボット，3Dプリンタ，レーザー加工機などがあります
 <blockquote data-width="500" data-height="375" class="ricoh-theta-spherical-image" >Post from RICOH THETA. - <a href="https://theta360.com/s/s94HW9yhQlIxvU3Wxh3E5calk" target="_blank">Spherical Image - RICOH THETA</a></blockquote>
 <script async src="https://theta360.com/widgets.js" charset="utf-8"></script>  
-
-  - 設備
-    - 双腕ロボット
-    - 短腕ロボット
-    - 3Dプリンタ
-    - レーザー加工機
+  
 
 - 各人に専用の椅子・机・PC・ディスプレイが割り当てられます
 - PCはいずれもGPUを搭載した高性能PCです
