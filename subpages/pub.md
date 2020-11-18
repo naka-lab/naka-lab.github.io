@@ -57,6 +57,7 @@ layout: default
 
 
 ## Invited Talk
+1. Tomoaki Nakamura, "Serket: A Framework for Construction of Multimodal Learning Models", IROS2020: Tutorial on Deep Probabilistic Generative Models for Robotics, Oct. 2020
 1. Tomoaki Nakamura, "A Framework for Construction of Multimodal Learning Models", IROS2019: Workshop on Deep Probabilistic Generative Models for Cognitive Architecture in Robotics, Nov. 2019
 1. 中村友昭, "階層ベイズモデルに基づくロボットによる教師なし概念学習", 第122回ロボット工学セミナー「近年のベイズ推論研究とロボット工学への応用」，Jul. 2019
 1. 中村友昭, "マルチモーダル情報に基づくロボットによる概念・言語獲得", 玉川大学 脳科学研究所 社会神経科学共同研究拠点研究会, Sep. 2018
