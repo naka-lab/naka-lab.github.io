@@ -15,6 +15,7 @@ layout: default
 
 
 ## Journal
+1. 山田徹志, 宮田真宏, 中村友昭, 前野隆司, 大森隆司, "機械学習を用いた「子どもの育ち」の可視化", 日本教育工学会論文誌, Nov. 2020
 1. 濵園 侑美, 小林 一郎, 麻生 英樹, 中村 友昭, 長井 隆行, 持橋 大地, "ヒューマノイドロボットを用いた言語理解による動作生成", 知能と情報, Vol. 32, No. 1, pp. 632-642, Feb. 2020
 1. Tadahiro Taniguchi, Tomoaki Nakamura, Masahiro Suzuki, Ryo Kuniyasu, Kaede Hayashi, Akira Taniguchi, Takato Horii and Takayuki Nagai, "Neuro-SERKET: Development of Integrative Cognitive System Through the Composition of Deep Probabilistic Generative Models", New Generation Computing, pp. 1-26, Jan. 2020
 1. Masatoshi Nagano, Tomoaki Nakamura, Takayuki Nagai, Daichi Mochihashi, Ichiro Kobayashi and Wataru Takano, "HVGH: Unsupervised Segmentation for High-dimensional Time Series Using Deep Neural Compression and Statistical Generative Model", Frontiers in Robotics and AI, Vol. 6, Article 115, pp. 1-15, Nov. 2019
