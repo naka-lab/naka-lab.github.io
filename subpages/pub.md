@@ -15,6 +15,8 @@ layout: default
 
 
 ## Journal
+1. 長野匡隼，中村 友昭，"複数物体が存在する環境下での共同注意を用いたロボットによる語意学習"，日本ロボット学会誌 （Accepted）
+1. 木村大河，長野匡隼，中村友昭，"MC-GP-HSMMを用いたマルチモーダル情報の分節化によるインタラクションのルール学習"， 日本ロボット学会誌 （Accepted）
 1. 山田徹志, 宮田真宏, 中村友昭, 前野隆司, 大森隆司, "機械学習を用いた「子どもの育ち」の可視化", 日本教育工学会論文誌, Nov. 2020
 1. 濵園 侑美, 小林 一郎, 麻生 英樹, 中村 友昭, 長井 隆行, 持橋 大地, "ヒューマノイドロボットを用いた言語理解による動作生成", 知能と情報, Vol. 32, No. 1, pp. 632-642, Feb. 2020
 1. Tadahiro Taniguchi, Tomoaki Nakamura, Masahiro Suzuki, Ryo Kuniyasu, Kaede Hayashi, Akira Taniguchi, Takato Horii and Takayuki Nagai, "Neuro-SERKET: Development of Integrative Cognitive System Through the Composition of Deep Probabilistic Generative Models", New Generation Computing, pp. 1-26, Jan. 2020
