@@ -34,8 +34,8 @@ layout: default
 - 岡村 悠生 (Yuki Okamura) e-mail: y_okamura
 - 平山 大志 (Taishi Hirayama) e-mail: t_hirayama
 - 鈴木志奈子 (Shinako Suzuki)
-- 西村卓真 (Takuma Nishimura)
-- 吉田 武史 (Takeshi Yoshida)
+- 西村卓真 (Takuma Nishimura) e-mail: t_nishimura
+- 吉田 武史 (Takeshi Yoshida) e-mail: t_yoshida
 
 ## 共同研究者
 - 阿部 香澄 (Kasumi Abe) e-mail: k_abe(AT)apple.ee.uec.ac.jp
