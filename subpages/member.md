@@ -28,7 +28,7 @@ layout: default
 ## B4
 - 江原　広人 (Ebara Hiroto) e-mail: h_ebara
 - 長谷川　浩生 (Koki Hasegawa) e-mail: k_hasegawa
-- 中村　哲巳 (Satomi Nakamura) e-mail: 
+- 中村　哲巳 (Satomi Nakamura) e-mail: s_nakamura
 - 井口 丈琉 (Takeru Iguchi) e-mail: t_iguchi
 - 高田　智史 (Satoshi Takada) e-mail: s_takada
 
