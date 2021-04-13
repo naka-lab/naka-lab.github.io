@@ -11,7 +11,8 @@ layout: default
 - 秘書:　早川 幸枝　(Yukie Hayakawa)　e-mail: yukie-h
 
 ## D2
-- 長野 匡隼　(Masatoshi Nagano)　e-mail: m_nagano
+- 長野 匡隼　(Masatoshi Nagano)　e-mail: m_nagano  
+  （日本学術振興会特別研究員）
 
 ## M2
 - 柳沼 和樹 (Kazuki Yaginuma) e-mail: k_yaginuma
