@@ -18,7 +18,7 @@ layout: default
 1. Ryo Kuniyasu, Tomoaki Nakamura, Tadahiro Taniguchi, Takayuki Nagai, "Robot Concept Acquisition Based on Interaction between Probabilistic and Deep Generative Models", Frontiers in Computer Science (Accepted)
 1. 長野匡隼，中村 友昭，"複数物体が存在する環境下での共同注意を用いたロボットによる語意学習"，日本ロボット学会誌, Vol. 39, No. 6, pp. 549-552, Jul. 2021
 1. 木村大河，長野匡隼，中村友昭，"MC-GP-HSMMを用いたマルチモーダル情報の分節化によるインタラクションのルール学習"， 日本ロボット学会誌, Vol. 39, No. 6, pp. 553-556, Jul. 2021
-1. 山田徹志, 宮田真宏, 中村友昭, 前野隆司, 大森隆司, "機械学習を用いた「子どもの育ち」の可視化", 日本教育工学会論文誌, Nov. 2020
+1. 山田徹志, 宮田真宏, 中村友昭, 前野隆司, 大森隆司, "機械学習を用いた「子どもの育ち」の可視化", 日本教育工学会論文誌, vol. 44, no. 4, Nov. 2020
 1. 濵園 侑美, 小林 一郎, 麻生 英樹, 中村 友昭, 長井 隆行, 持橋 大地, "ヒューマノイドロボットを用いた言語理解による動作生成", 知能と情報, Vol. 32, No. 1, pp. 632-642, Feb. 2020
 1. Tadahiro Taniguchi, Tomoaki Nakamura, Masahiro Suzuki, Ryo Kuniyasu, Kaede Hayashi, Akira Taniguchi, Takato Horii and Takayuki Nagai, "Neuro-SERKET: Development of Integrative Cognitive System Through the Composition of Deep Probabilistic Generative Models", New Generation Computing, pp. 1-26, Jan. 2020
 1. Masatoshi Nagano, Tomoaki Nakamura, Takayuki Nagai, Daichi Mochihashi, Ichiro Kobayashi and Wataru Takano, "HVGH: Unsupervised Segmentation for High-dimensional Time Series Using Deep Neural Compression and Statistical Generative Model", Frontiers in Robotics and AI, Vol. 6, Article 115, pp. 1-15, Nov. 2019
