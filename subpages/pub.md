@@ -368,88 +368,90 @@ Signal Processing, pp. 13-16, Feb. 2020
 
 
 ## 受賞
-1. 人工知能学会学生奨励賞，Jul. 2018
+1. Advanced Robotics Paper Awards, Sep. 2021
+    - Tadahiro Tangiuchi, Daichi Mochihashi, Takayuki Nagai, Satoru Uchida, Naoya Inoue, Ichiro Kobayashi, Tomoaki Nakamura, Yoshinobu Hagiwara, Naoto Iwahashi and Tetsunari Inamura, "Survey on frontiers of language and robotics", Advanced Robotics, Vol. 33, Issue 15-16, pp. 700-730, Jun. 2019
+3. 人工知能学会学生奨励賞，Jul. 2018
     - 長野匡隼，中村友昭，長井隆行，持橋大地，小林一郎，金子 正秀，"ノンパラメトリックベイズ法に基づく時系列データの分節化"，人工知能学会全国大会，2G4-04，Jun. 20181.
-1. 情報処理学会学生奨励賞，Mar. 2018
+4. 情報処理学会学生奨励賞，Mar. 2018
     - 佐々木友弥，岩橋直人，船越孝太郎，押川慧，中村友昭，長井隆行，"MDL Coupled HMM によるマルチモーダルな協調行為の学習"，情報処理学会全国大会，2Q-09，Mar. 2018
-1. 情報処理学会学生奨励賞，Mar. 2018
+5. 情報処理学会学生奨励賞，Mar. 2018
     - 岩田健輔，長井隆行，中村友昭，青木達哉，"参照点と操作対象に依存したGP-HSMMによるロボットの動作学習"，情報処理学会全国大会，7N-02，Mar. 2018
-1. 情報処理学会学生奨励賞，Mar. 2018
+6. 情報処理学会学生奨励賞，Mar. 2018
     - 宮澤和貴，堀井隆斗，日永田智絵，青木達哉，中村友昭，長井隆行，"統合認知モデルによるロボットの概念・行動・言語の学習"，情報処理学会全国大会，5N-06，Mar. 2018
-1. 情報処理学会学生奨励賞，Mar. 2018
+7. 情報処理学会学生奨励賞，Mar. 2018
     - 長野匡隼，中村友昭，長井隆行，持橋大地，小林一郎，金子正秀，"階層ディリクレ過程による動作クラス数推定を導入したGP-HSMMによる連続動作からの基本動作抽出"，情報処理学会全国大会，6M-03，Mar. 2018
-1. ロボカップジャパンオープン2017 人工知能学会賞，May 2017
-1. ロボカップジャパンオープン2017 ロボカップ研究賞，May 2017
+8. ロボカップジャパンオープン2017 人工知能学会賞，May 2017
+9. ロボカップジャパンオープン2017 ロボカップ研究賞，May 2017
     - Takahiro Kobori, Tomoaki Nakamura, Mikio Nakano, Takayuki Nagai, Naoto Iwahashi, Kotaro Funakoshi, and Masahide Kaneko, "Robust Comprehension of Natural Language Instructions by a Domestic Service Robot", Advanced Robotics. pp. 1530-1543, Nov. 2016
-1. ロボカップジャパンオープン2017@ホーム Domestic Standard Platform League (DSPL)  優勝，May 2017
-1. ロボカップジャパンオープン2017@ホーム Open Platform League (OPL)  優勝，May 2017
-1. 第7回対話システムシンポジウム若手奨励賞，Oct. 2016
+10. ロボカップジャパンオープン2017@ホーム Domestic Standard Platform League (DSPL)  優勝，May 2017
+11. ロボカップジャパンオープン2017@ホーム Open Platform League (OPL)  優勝，May 2017
+12. 第7回対話システムシンポジウム若手奨励賞，Oct. 2016
     - 小堀嵩博，中野幹生，中村友昭，"雑談によりユーザに良い印象を与えるインタビュー対話システム"，第7回対話システムシンポジウム，Oct. 2016
-1. Best Student Paper
+13. Best Student Paper
     - Bin Zhang, Tomoaki Nakamura, Rena Ushiogi, Takayuki Nagai, Kasumi Abe, Takashi Omori, Natsuki Oka, and Masahide Kaneko, "Robust Children Behavior Tracking for Childcare Assisting Robot By Using Multiple Kinect Sensors", International Conference on Social Robotics, pp.640-649, Nov. 2016.  
-1. ロボカップ世界大会2016ライプチヒ＠ホームリーグ Innovation Award，Jul. 2016
-1. 2015年度人工知能学会論文賞，Jun. 2016
+14. ロボカップ世界大会2016ライプチヒ＠ホームリーグ Innovation Award，Jul. 2016
+15. 2015年度人工知能学会論文賞，Jun. 2016
     - 中村友昭，長井隆行，船越孝太郎，谷口忠大，岩橋直 人，金子正秀，"マルチモーダルLDAとNPYLMを用いたロボットによる物体概念と言語モ デルの相互学習"，人工知能学会論文誌，Vol.30，No.3，pp.498-509，Mar. 2015
-1. ロボカップジャパンオープン2016＠ホームオープンプラットフォームリーグ 三位，Mar. 2016
-1. 人工知能学会全国大会学生奨励賞
+16. ロボカップジャパンオープン2016＠ホームオープンプラットフォームリーグ 三位，Mar. 2016
+17. 人工知能学会全国大会学生奨励賞
     - 青木達哉，中村友昭，長井隆行，"オンラインマルチモーダルHDPによる物体概念の獲得"，人工知能学会全国大会，2D5-1，Jun. 2015
-1. ロボカップジャパンオープン2015 人工知能学会賞，May 2015
-1. ロボカップジャパンオープン2015＠ホームシミュレーションリーグ 準優勝，May 2015
-1. ロボカップジャパンオープン2015＠ホーム実機リーグ 準優勝，May 2015
-1. 映像情報メディア学会メディア工学研究会 優秀発表賞
+18. ロボカップジャパンオープン2015 人工知能学会賞，May 2015
+19. ロボカップジャパンオープン2015＠ホームシミュレーションリーグ 準優勝，May 2015
+20. ロボカップジャパンオープン2015＠ホーム実機リーグ 準優勝，May 2015
+21. 映像情報メディア学会メディア工学研究会 優秀発表賞
     - 平林謙太郎，中村友昭，金子正秀，"似顔絵の自動生成における撮影条件の制限の緩和 ～ 髪の毛、眉の安定した抽出に向けて ～"，映像情報メディア学会メディア工学研究会，Feb. 2015
-1. 映像情報メディア学会メディア工学研究会 優秀発表賞
+22. 映像情報メディア学会メディア工学研究会 優秀発表賞
     - 宮崎斉，中村友昭，金子正秀，"台詞に含まれる感情表現を反映したロボット動作の自動生成"，映像情報メディア学会メディア工学研究会，Feb. 2015
-1. Intelligent Home Robotics Challenge 2014，移動ロボット部門1位，知能ロボティクス部門2位，総合1位
-1. 人工知能学会2014 全国大会優秀賞
+23. Intelligent Home Robotics Challenge 2014，移動ロボット部門1位，知能ロボティクス部門2位，総合1位
+24. 人工知能学会2014 全国大会優秀賞
     - 安藤義記，中村友昭，長井隆行，"マルチモーダルLDAを用いたロボットによる多様な概念の形成"，人工知能学会全国大会，1I3-2，May 2014
-1. ロボカップジャパンオープン2014@ホームリーグ 優勝，May 2014
-1. SI2013 RTC再利用賞, ヴィストンロボットショップ賞
+25. ロボカップジャパンオープン2014@ホームリーグ 優勝，May 2014
+26. SI2013 RTC再利用賞, ヴィストンロボットショップ賞
     - Muhammad Attamimi, 中村友昭, 長井隆行, "移動ロボット知覚制御用RTC群の開発と学生実験での利用", 計測自動制御学会システムインテグレーション部門講演会, 1B4-5，Dec.2013
-1. SI2013優秀講演賞
+27. SI2013優秀講演賞
     - Bui Thanh Tung, Muhammad Attamimi, 中村友昭, 長井隆行, 稲邑哲也, "曖昧性や身体的制約をベイジアンネットワークで統合するコミュニカティブモバイルマニピュレーション", 計測自動制御学会システムインテグレーション部門講演会, 1K3-2，Dec.2013
-1. IROS2013 CoTeSys Cognitive Robotics Best Paper Award Finalist, Nov. 2013
+28. IROS2013 CoTeSys Cognitive Robotics Best Paper Award Finalist, Nov. 2013
     - Muhammad Fadlil, Keisuke Ikeda, Kasumi Abe, Tomoaki Nakamura, and Takayuki Nagai, "Integrated Concept of Objects and Human Motions Based on Multi-layered Multimodal LDA", IROS2013, pp.2256-2263, Nov. 2013. 
-1. Advanced Robotics Best Paper Award, Sep. 2013
+29. Advanced Robotics Best Paper Award, Sep. 2013
     - Takaya Araki, Tomoaki Nakamura, Takayuki Nagai, Funakoshi.K, Nakano.M, and Naoto Iwahashi, "Online Object Categorization Using Multimodal Information Autonomously Acquired by a Mobile Robot", Advanced Robotics, Vol.26, pp.1995-2020, Oct.2012
-1. SI2012 優秀講演賞
+30. SI2012 優秀講演賞
     - 安藤義記，中村友昭，荒木孝弥，長井隆行，"hLDA に基づくロボットによる階層的概念の獲得"，計測自動制御学会システムインテグレーション部門講演会，3H2-6，Dec.2012 
-1. IROS2012 Best Paper Finalist
+31. IROS2012 Best Paper Finalist
     - Takaya Araki, Tomoaki Nakamura, Takayuki Nagai, Shogo Nagasaka, Tadhiro Taniguch, and Naoto Iwahashi, "Online Learning of Concepts and Words Using Multimodal LDA and Hierarchical Pitman-Yor Language Model", IROS2012, pp.1623-1630, Portugal, Oct.2012.
-1. 第18回創発システム・シンポジウム 優秀ポスター賞
+32. 第18回創発システム・シンポジウム 優秀ポスター賞
     - Fadlil Muhammad，中村友昭，長井隆行，"階層ディリクレ過程隠れマルコフモデルを用いたロボットによる物理的知識の獲得"，創発システム・シンポジウム ポスター発表，p.24，Sep.2012
-1. 第18回創発システム・シンポジウム 優秀ポスター賞
+33. 第18回創発システム・シンポジウム 優秀ポスター賞
     - 安藤義記，荒木孝弥，中村友昭，長井隆行， "hLDAを用いた階層的概念の獲得"，創発システム・シンポジウム ポスター発表，p.23，Sep.2012
-1. 第18回創発システム・シンポジウム 最優秀ポスター賞
+34. 第18回創発システム・シンポジウム 最優秀ポスター賞
     - 荒木孝弥，中村友昭，長井隆行，長坂翔吾，谷口忠大，岩橋直人， "マルチモーダル概念形成と教師なし形態素解析に基づく語意のオンライン学習"，創発システム・シンポジウム ポスター発表，p.22，Sep.2012
-1. ロボカップ世界大会2012メキシコ@ホームリーグ 準優勝, Jun.2012
-1. ロボカップジャパンオープン2012大阪@ホームリーグ 優勝，May 2012 
-1. 情報処理学会学生奨励賞
+35. ロボカップ世界大会2012メキシコ@ホームリーグ 準優勝, Jun.2012
+36. ロボカップジャパンオープン2012大阪@ホームリーグ 優勝，May 2012 
+37. 情報処理学会学生奨励賞
     - 板谷純希，伊東慶輔，荒木孝弥，中村友昭，長井隆行，船越孝太郎，長谷川雄二，中野幹生，岩橋直人, "ロボットによる環境の自律的探索と言語命令解釈の相互作用", 情報処理学会全国大会, Mar. 2012
-1. SI2011 優秀講演賞
+38. SI2011 優秀講演賞
     - 荒木孝弥，中村友昭，長井隆行，岩橋直人, "自律移動ロボットによるオンラインマルチモーダルカテゴリゼーション", 計測自動制御学会システムインテグレーション部門講演会, 2L1-5, Dec.2011  
-1. SI2011 優秀講演賞
+39. SI2011 優秀講演賞
     - 中村友昭，長井隆行，岩橋 直人, "Bag of Multimodal HDPを用いたロボットによる概念・語意の獲得", 計測自動制御学会システムインテグレーション部門講演会, 2L2-5, Dec.2011 
-1. IROS2011 Best Student Paper Finalist
+40. IROS2011 Best Student Paper Finalist
     - Takaya Araki, Tomoaki Nakamura, Takayuki Nagai, Kotaro Funakoshi, Mikio Nakano, and Naoto Iwahashi, "Autonomous Acquisition of Multimodal Information for On-line Object Concept Formation by a Robot", IROS2011, pp.1540-1547, Sep.2011
-1. IROS2011 Best Paper Finalist
+41. IROS2011 Best Paper Finalist
     - Takaya Araki, Tomoaki Nakamura, Takayuki Nagai, Kotaro Funakoshi, Mikio Nakano, and Naoto Iwahashi, "Autonomous Acquisition of Multimodal Information for On-line Object Concept Formation by a Robot", IROS2011, pp.1540-1547, Sep.2011  
-1. 第17回創発システム・シンポジウム 優秀ポスター賞
+42. 第17回創発システム・シンポジウム 優秀ポスター賞
     - 荒木孝弥, 中村友昭, 長井隆行, "オンラインマルチモーダルLDAに基づく物体概念形成", 創発システム・シンポジウム ポスター発表，pp.71-74，Sep.2011 
-1. 第17回創発システム・シンポジウム 最優秀ポスター賞
+43. 第17回創発システム・シンポジウム 最優秀ポスター賞
     - 中村友昭，長井隆行，岩橋直人，"複数の階層ディリクレ過程を用いた物体のマルチモーダルカテゴリゼーション"，創発システム・シンポジウム ポスター発表，pp.79-82，Sep.2011
-1. ロボカップ 人工知能学会賞，May 2011
-1. ロボカップジャパンオープン2011大阪@ホームリーグ 優勝，May 2011
-1. ロボカップ研究賞, May 2011
+44. ロボカップ 人工知能学会賞，May 2011
+45. ロボカップジャパンオープン2011大阪@ホームリーグ 優勝，May 2011
+46. ロボカップ研究賞, May 2011
     - Muhammad Attamimi, Akira Mizutani, Tomoaki Nakamura, Komei Sugiura, Takayuki Nagai, Naoto Iwahashi, Hiroyuki Okada, and Takashi Omori，"Learning Novel Objects Using Out-of-Vocabulary Word Segmentation and Object Extraction for Home Assistant Robots", ICRA 2010, pp.745-750, May 2010
-1. ロボカップ世界大会2010シンガポール@ホームリーグ 優勝, Jun.2010
-1. ロボカップ ロボット学会賞，May,2010
-1. ロボカップジャパンオープン2010大阪@ホームリーグ 優勝，May 2010
-1. 情報処理学会学生奨励賞
+47. ロボカップ世界大会2010シンガポール@ホームリーグ 優勝, Jun.2010
+48. ロボカップ ロボット学会賞，May,2010
+49. ロボカップジャパンオープン2010大阪@ホームリーグ 優勝，May 2010
+50. 情報処理学会学生奨励賞
     - 中村友昭，西田匡志，長井隆行，"把持動作による物体カテゴリの形成と認識"，情報処理学会全国大会，5V-3，Mar.2010
-1. ロボカップ世界大会 2009グラーツ@ホームリーグ 準優勝, Jul.2009
-1. ロボカップ人工知能学会賞，May 2009
-1. ロボカップジャパンオープン2009大阪@ホームリーグ 優勝，May 2009
-1. 社団法人目黒会 目黒会賞, Mar.2009
-1. ロボカップ世界大会 2008蘇州@ホームリーグ 優勝, Jul.2008
-1. ロボカップジャパンオープン2008沼津@ホームリーグ 優勝, May 2008
+51. ロボカップ世界大会 2009グラーツ@ホームリーグ 準優勝, Jul.2009
+52. ロボカップ人工知能学会賞，May 2009
+53. ロボカップジャパンオープン2009大阪@ホームリーグ 優勝，May 2009
+54. 社団法人目黒会 目黒会賞, Mar.2009
+55. ロボカップ世界大会 2008蘇州@ホームリーグ 優勝, Jul.2008
+56. ロボカップジャパンオープン2008沼津@ホームリーグ 優勝, May 2008
