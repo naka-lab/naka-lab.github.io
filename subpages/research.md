@@ -18,6 +18,7 @@ layout: default
 - 西原成，青木達哉，中村友昭，長井隆行，”階層ディリクレ過程を用いたロボットによる概念と言語の長期学習”，人工知能学会全国大会，2I3-3，Jun. 2016 [[PDF]](http://www.ai-gakkai.or.jp/jsai2016/webprogram/2016/paper-1074.html)
 
 
+<br>
 
 
 
@@ -31,6 +32,9 @@ layout: default
 - 長野匡隼, 中村友昭, 長井隆行, 持橋大地, 小林一郎, 金子正秀, ”ノンパラメトリックベイズ法に基づく時系列データの分節化”, 人工知能学会全国大会, 2G4-04, Jun. 2018 [[PDF]](https://confit.atlas.jp/guide/event/jsai2018/subject/2G4-04/detail?lang=ja)
 - Tomoaki Nakamura, Tayuki Nagai, Dichi Mochihashi, Ichiro Kobayashi, Hideki Asoh, and Masahide Kaneko, ”Segmenting Continuous Motions with Hidden Semi-Markov Models and Gaussian Processes”, Frontiers in Neurorobotics, vol.11, no.67,2017 [[PDF]](https://www.frontiersin.org/articles/10.3389/fnbot.2017.00067/full)
 
+
+
+<br>
 
 
 
@@ -48,6 +52,11 @@ layout: default
 
 
 
+<br>
+
+
+
+
 ## 大規模な学習モデル構築のためのアーキテクチャ
 ロボットによる概念や言語の獲得をはじめ，私たちは様々な学習モデルを提案してきました．人のような知能の実現には，さらに複雑で大規模なモデルを構築する必要があります．しかし，モデルの規模が大きく複雑になるにつれて，実装することは困難になると考えられます．そこで，小規模で基礎的なモデルを組み合わせることによって大規模なモデルの構築を容易にするアーキテクチャSerketの研究・開発を行っています．[[プロジェクトページ]](http://serket.naka-lab.org/)
 ![概念・言語獲得](imgs/graphical_models.jpg)
@@ -58,11 +67,31 @@ layout: default
 - 國安瞭，中村友昭，青木達哉，谷口彰，尾崎僚，伊志嶺朝良，横山裕樹，小椋忠志，長井隆行，谷口忠大，”確率モデルの統合による大規模なモデルの実現 ～VAE, GMM, HMM, MLDAの統合モデルの実装と評価～”，情報論的学習理論ワークショップ，T-34，Nov. 2018
 
 
+
+<br>
+
+
+
+
 ## 複数の自律ロボットによる家庭内タスクの実現
 家庭内には様々なタスクがあり，一台のロボットで全てを実行することは困難です．そこで本研究では複数の身体の異なるロボットが連携することで，家庭内のタスクを実行することを目的としています．またロボットが完全自律で実行できる行動は限られており，タスクの全てをロボットだけで遂行することは困難です．そのうようなロボットだけでは解決できない未知の状況に遭遇した時は，インターネットを通して人に支援を依頼し遠隔操作してもらうことで，未知の状況に対応します．さらに，その操作ログから学習することにより，新たな知識を獲得します．
 
+<div align="center">
+<video controls width="500">
+    <source src="mov/stretch1.mp4" type="video/mp4">
+</video>
+<video controls width="500">
+    <source src="mov/stretch2.mp4" type="video/mp4">
+</video>
+</div>
+
 ### 参考文献
 - 長野匡隼, 岩田健輔, 平川拓実, 吉田武史, 青木達哉, 中村友昭, 長井隆行, “ROS1による複数ロボットの協調制御の実現”, 日本ロボット学会学術講演会, 2H2-06, Sep. 2021
+
+
+
+
+<br>
 
 
 
@@ -72,6 +101,11 @@ layout: default
 ### 参考文献
 - Takahiro Kobori, Tomoaki Nakamura, Mikio Nakano, Takayuki Nagai, Naoto Iwahashi, Kotaro Funakoshi, and Masahide Kaneko, "Robust Comprehension of Natural Language Instructions by a Domestic Service Robot", Advanced Robotics, Vol. 30, Issue 24, pp. 1530-1543, Nov. 2016 [[PDF]](https://www.tandfonline.com/doi/abs/10.1080/01691864.2016.1252689?journalCode=tadr20)
 - 小堀嵩博，中村友昭，長井隆行，岩橋直人，船越孝太郎，中野幹生，金子正秀，"環境情報を考慮したロボットによる音声命令理解"，人工知能学会全国大会，1O2-3，Jun. 2016 [[PDF]](http://www.ai-gakkai.or.jp/jsai2016/webprogram/2016/paper-568.html)
+
+
+
+<br>
+
 
 
 
