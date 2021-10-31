@@ -13,20 +13,20 @@ layout: default
 
 
 ## 研究環境
-- 西8号館418号室（学生部屋）の360度写真
+- 西8号館418号室（学生部屋）
 <div align="center">
 <blockquote data-width="500" data-height="375" class="ricoh-theta-spherical-image" >Post from RICOH THETA. - <a href="https://theta360.com/s/2rMDTntqBEiVDHaGAxH4u3dlQ" target="_blank">Spherical Image - RICOH THETA</a></blockquote>
 <script async src="https://theta360.com/widgets.js" charset="utf-8"></script>  
 </div>
 
-- 西8号館517号室（学生部屋）の360度写真  
+- 西8号館517号室（学生部屋）
 双腕ロボット，短腕ロボット，3Dプリンタ，レーザー加工機などがあります
 <div align="center">
 <blockquote data-width="500" data-height="375" class="ricoh-theta-spherical-image" >Post from RICOH THETA. - <a href="https://theta360.com/s/s94HW9yhQlIxvU3Wxh3E5calk" target="_blank">Spherical Image - RICOH THETA</a></blockquote>
 <script async src="https://theta360.com/widgets.js" charset="utf-8"></script>  
 </div>
 
-- 東9号館403号室（実験室）
+- 東9号館403号室（実験室）  
   家庭環境を模した実験室があります．ここで家庭用ロボットの開発・研究をしています．
   <img src="imgs/e9-403.jpg" alt="e9-403" width="500" />
 - 各個人の研究環境
