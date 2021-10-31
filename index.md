@@ -10,6 +10,10 @@ layout: default
 ## News
 * 2021/10/14
 	* 2021年度の[卒研配属に関するページ](//hp.naka-lab.org/subpages/haizoku.html) を作成しました．詳細が決まり次第情報を掲載します．
+	
+* 2021/9/9
+	* 中村准教授がAdvanced Robotics Best Survey Paper Awardを受賞しました．
+
 * 2020/11/09
 	* [卒研配属に関するページ](//hp.naka-lab.org/subpages/haizoku.html)に配属希望者向けの研究室公開の情報を追記しました．
 
