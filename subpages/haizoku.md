@@ -20,7 +20,7 @@ layout: default
 </div>
 
 - 西8号館517号室（学生部屋）
-双腕ロボット，短腕ロボット，3Dプリンタ，レーザー加工機などがあります
+双腕ロボット，単腕ロボット，3Dプリンタ，レーザー加工機などがあります
 <div align="center">
 <blockquote data-width="500" data-height="375" class="ricoh-theta-spherical-image" >Post from RICOH THETA. - <a href="https://theta360.com/s/s94HW9yhQlIxvU3Wxh3E5calk" target="_blank">Spherical Image - RICOH THETA</a></blockquote>
 <script async src="https://theta360.com/widgets.js" charset="utf-8"></script>  
@@ -29,11 +29,16 @@ layout: default
 - 東9号館403号室（実験室）  
   家庭環境を模した実験室があります．ここで家庭用ロボットの開発・研究をしています．
   <img src="imgs/e9-403.jpg" alt="e9-403" width="500" />
-- 各個人の研究環境
 
+- 各個人の研究環境
   - 各人に専用の椅子・机・PC・ディスプレイが割り当てられます
   - PCはいずれもGPUを搭載した高性能PCです
   - デュアルディスプレイ環境や，40インチの大型ディスプレイも選択可能です
+
+- 研究に利用できる共有機材等
+  - 複数の移動ロボット，アームロボットを所有しており，データを取ったり，研究成果の実証実験等に利用しています
+  - 3Dプリンタとレーザー加工機があり，研究に必要なハードウェアの開発に利用しています
+  - Nvidia A100を搭載した高性能GPUサーバーがあり，深層学習等の計算に利用できます
 
 ## よくある質問
 よく受ける質問をまとめました．詳細やその他の質問は，研究室の学生に聞いてみてください．
