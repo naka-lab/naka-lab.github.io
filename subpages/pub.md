@@ -133,6 +133,7 @@ Signal Processing, pp. 13-16, Feb. 2020
 
 
 ## 国内学会
+1. Koki Mimura, Jumpei Matsumoto, Daichi Mochihashi, Tomoaki Nakamura, Ken-ichiro Shimatani, Takafumi Minamimoto, "Unsupervised segmentation of the contextual structure inherent in goal-directed behavior in non-human primates", 日本動物心理学会第81回大会, O-11, Nov. 2021
 1. 吉田武史, 長野匡隼, 中村友昭, "ガウス過程を用いた方策探索に基づく動作軌 道の学習", 日本ロボット学会学術講演会, 1I1-02, Sep. 2021
 1. 長野匡隼, 岩田健輔, 平川拓実, 吉田武史, 青木達哉, 中村友昭, 長井隆行, "ROS1による複数ロボットの協調制御の実現", 日本ロボット学会学術講演会, 2H2-06, Sep. 2021
 1. 張斌, 仙石龍司, 中村友昭, 金子正秀, 林憲玉, "空間リスクマップに基づく自律移動ロボットの移動制御", 日本ロボット学会学術講演会, 1F4-04, Sep. 2021
