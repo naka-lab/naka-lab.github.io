@@ -10,7 +10,7 @@ layout: default
 
 ## オンライン研究室公開
 学内の配属希望者向けの研究室公開をオンラインで行います．
-- 日時：11月19日（金）:時間は詳細が決まり次第掲載します
+- 日時：11月19日（金）:10:30〜，15:30〜（内容は同じなので，どちらか一方に参加してください）
 - 場所：zoomにより実施予定
 - 参加登録：[こちらのフォーム](https://docs.google.com/forms/d/e/1FAIpQLSfUBdgza5u4vvRABDsSG1PUxCCfpJ58WM0fcjlg3vchpE--bw/viewform?usp=sf_link)（要UECクラウドアカウント）より参加登録してください．フォームに入力されたメールアドレスにzoomのURLを送付します．
 
