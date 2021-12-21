@@ -133,6 +133,8 @@ Signal Processing, pp. 13-16, Feb. 2020
 
 
 ## 国内学会
+1. 岡村悠生，長野匡隼，中村友昭，"特徴抽出器と識別器の相互学習に基づく画像の教師なし異常検知の高精度化"，計測自動制御学会 システムインテグレーション部門講演会，1B1-01，2021
+1. 高田智史，長野匡隼，中村友昭，"GPLVM によるマルチモーダル教師なし分類"，計測自動制御学会 システムインテグレーション部門講演会，2B2-03，2021
 1. Koki Mimura, Jumpei Matsumoto, Daichi Mochihashi, Tomoaki Nakamura, Ken-ichiro Shimatani, Takafumi Minamimoto, "Unsupervised segmentation of the contextual structure inherent in goal-directed behavior in non-human primates", 日本動物心理学会第81回大会, O-11, Nov. 2021
 1. 吉田武史, 長野匡隼, 中村友昭, "ガウス過程を用いた方策探索に基づく動作軌 道の学習", 日本ロボット学会学術講演会, 1I1-02, Sep. 2021
 1. 長野匡隼, 岩田健輔, 平川拓実, 吉田武史, 青木達哉, 中村友昭, 長井隆行, "ROS1による複数ロボットの協調制御の実現", 日本ロボット学会学術講演会, 2H2-06, Sep. 2021
