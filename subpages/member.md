@@ -19,7 +19,6 @@ layout: default
 - 大貫 豪 (Go Onuki) e-mail: n_onuki
 - 大道 弘明 (Hiroaki Omichi） e-mail: h_omichi
 - 岡村 悠生 (Yuki Okamura) e-mail: y_okamura
-- 西村卓真 (Takuma Nishimura) e-mail: t_nishimura
 - 吉田 武史 (Takeshi Yoshida) e-mail: t_yoshida
 
 ## M1
@@ -47,6 +46,7 @@ layout: default
 |:------:|:-------:|
 |松本 凌|2019-2021|
 |平川 拓実|2019-2021|
+|西村 卓真|2021|
 |國安 瞭|2018-2020|
 |平田 空|2018-2020|
 |秋山　祐威|2018-2020|
