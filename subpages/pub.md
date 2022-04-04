@@ -15,7 +15,7 @@ layout: default
 
 
 ## Journal
-1. Tadahiro Taniguchi, Hiroshi Yamakawa, Takayuki Nagai, Kenji Doya, Masamichi Sakagami, Masahiro Suzuki, Tomoaki Nakamura, Akira Taniguchi, "A whole brain probabilistic generative model: Toward realizing cognitive architectures for developmental robots", Neural Networks, Mar. 2022
+1. Tadahiro Taniguchi, Hiroshi Yamakawa, Takayuki Nagai, Kenji Doya, Masamichi Sakagami, Masahiro Suzuki, Tomoaki Nakamura, Akira Taniguchi, "A whole brain probabilistic generative model: Toward realizing cognitive architectures for developmental robots", Neural Networks, Vol. 150, pp. 293-312, Jun. 2022
 1. Ryo Kuniyasu, Tomoaki Nakamura, Tadahiro Taniguchi, Takayuki Nagai, "Robot Concept Acquisition Based on Interaction between Probabilistic and Deep Generative Models", Frontiers in Computer Science, Vol. 3, Article 618069, pp. 1-14, Sep. 2021
 1. 長野匡隼，中村 友昭，"複数物体が存在する環境下での共同注意を用いたロボットによる語意学習"，日本ロボット学会誌, Vol. 39, No. 6, pp. 549-552, Jul. 2021
 1. 木村大河，長野匡隼，中村友昭，"MC-GP-HSMMを用いたマルチモーダル情報の分節化によるインタラクションのルール学習"， 日本ロボット学会誌, Vol. 39, No. 6, pp. 553-556, Jul. 2021
