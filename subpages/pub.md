@@ -77,6 +77,7 @@ layout: default
 
 
 ## International Conference
+1. Tatsuya Aoki, Tomoaki Nakamura, Takayuki Nagai, "Analysis of User Behavior and Workload During Simultaneous Tele-operation of Multiple Mobile Manipulators", IROS2022, Oct. 2022 (accepted)
 1. Ryo Matsumoto, Zhang Bin, Tomoaki Nakamura, Takayuki Nagai, Takashi Omori, and Natsuki Oka, "Robust Human Trajectory Estimation Using Hidden Markov Models", RISP International Workshop on Nonlinear Circuits, Communications and
 Signal Processing, pp. 13-16, Feb. 2020
 1. Yoshiki Higuchi, Kasumi Abe, Masatoshi Nagano, Rena Kanai, Masahiro Shiomi, Takayuki Nagai and Tomoaki Nakamura,  "HSMM-SA-based Analysis of ChildcareWorker’s Interaction Strategy", RISP International Workshop on Nonlinear Circuits, Communications and Signal Processing, pp. 1-4, Feb. 2020
@@ -364,6 +365,11 @@ Signal Processing, pp. 13-16, Feb. 2020
 1. 中村友昭，安居健，長井隆行，"対話ロボットの為のマルチモーダルな想起と連想"，ヒューマン情報処理研究会，pp.7-12，Mar.2008
 1. 中村友昭，長井隆行，岩橋直人，"ロボットによる物体のマルチモーダルカテゴリゼーション"，電子情報通信学会学生ポスターセッション，Mar.2007
 
+
+## その他講座・講演等
+1. 中村友昭，"教師データを必要としない確率的時系列データ解析"，産学官連携DAY，Jun. 2022
+1. 中村友昭，"確率モデルに基づく時系列データ解析"，JST新技術説明会，May 2022
+1. 中村友昭，"概念・言語を学習する知能ロボットの実現に向けて"，産学官連携DAY，Jun. 2016
 
 ## 特許
 1. 中村友昭，長井隆行，岩田健輔，情報処理装置、情報処理方法およびプログラム，特許第6908286号 （2021/07/05），PCT/JP2017/032109（出願日2017/9/6），WO2018/047863（公開日2018/03/15），特願2016-174085（出願日2016/9/6）
