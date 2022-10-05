@@ -15,7 +15,7 @@ layout: default
 
 
 ## Journal
-1. Masatoshi Nagano, Tomoaki Nakamura, Takayuki Nagai, Daichi Mochihashi and Ichiro Kobayashi, "Spatio-Temporal Categorization for First-Person-View Videos Using a Convolutional Variational Autoencoder and Gaussian Processes", Frontiers in Robotics and AI, 2022 (accepted)
+1. Masatoshi Nagano, Tomoaki Nakamura, Takayuki Nagai, Daichi Mochihashi and Ichiro Kobayashi, "Spatio-Temporal Categorization for First-Person-View Videos Using a Convolutional Variational Autoencoder and Gaussian Processes", Frontiers in Robotics and AI, Vol. 9, Sep. 2022
 2. Tadahiro Taniguchi, Hiroshi Yamakawa, Takayuki Nagai, Kenji Doya, Masamichi Sakagami, Masahiro Suzuki, Tomoaki Nakamura, Akira Taniguchi, "A whole brain probabilistic generative model: Toward realizing cognitive architectures for developmental robots", Neural Networks, Vol. 150, pp. 293-312, Jun. 2022
 3. Ryo Kuniyasu, Tomoaki Nakamura, Tadahiro Taniguchi, Takayuki Nagai, "Robot Concept Acquisition Based on Interaction between Probabilistic and Deep Generative Models", Frontiers in Computer Science, Vol. 3, Article 618069, pp. 1-14, Sep. 2021
 4. 長野匡隼，中村 友昭，"複数物体が存在する環境下での共同注意を用いたロボットによる語意学習"，日本ロボット学会誌, Vol. 39, No. 6, pp. 549-552, Jul. 2021

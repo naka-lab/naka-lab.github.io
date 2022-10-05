@@ -12,10 +12,10 @@ layout: default
 ![概念・言語獲得](imgs/concept_lang.jpg)
 
 ### 参考文献
+- 長野匡隼，中村友昭，”GP-HSMMに基づく二重分節化モデルによる連 続音声の教師なし構造学習”，日本ロボット学会学術講演会，4F3-08，Sep. 2022
+- Ryo Kuniyasu, Tomoaki Nakamura, Tadahiro Taniguchi, Takayuki Nagai, “Robot Concept Acquisition Based on Interaction between Probabilistic and Deep Generative Models”, Frontiers in Computer Science, Vol. 3, Article 618069, pp. 1-14, Sep. 2021 [[PDF]](https://www.frontiersin.org/articles/10.3389/fcomp.2021.618069/full)
 - 長野匡隼，中村 友昭，"複数物体が存在する環境下での共同注意を用いたロボットによる語意学習"，日本ロボット学会誌, Vol. 39, No. 6, pp. 549-552, Jul. 2021
-- Tomoaki Nakamura, and Takayuki Nagai, “Ensemble-of-Concept Models for Unsupervised Formation of Multiple Categories”, IEEE Transactions on Cognitive and Developmental Systems [[PDF]](https://ieeexplore.ieee.org/document/8023995)
 - Joe Nishihara, Tomoaki Nakamura, Takayuki Nagai, “Online Algorithm for Robots to Learn Object Concepts and Language Model”, IEEE Transactions on Cognitive and Developmental Systems, Vol. 9, No. 3, pp. 255-268, Apr. 2017 [[PDF]](https://ieeexplore.ieee.org/document/7451222)
-- 布川遼太郎，宮澤和貴，中村友昭，長井隆行，金子 正秀，”時系列マルチモーダル情報の分節・分類に基づく物体と動作の統合概念学習”，人工知能学会全国大会，1G3-05，Jun. 2018 [[PDF]](https://confit.atlas.jp/guide/event/jsai2018/subject/1G3-05/detail?lang=ja)
 - 西原成，青木達哉，中村友昭，長井隆行，”階層ディリクレ過程を用いたロボットによる概念と言語の長期学習”，人工知能学会全国大会，2I3-3，Jun. 2016 [[PDF]](http://www.ai-gakkai.or.jp/jsai2016/webprogram/2016/paper-1074.html)
 
 
@@ -29,7 +29,7 @@ layout: default
 ![時系列情報の分節化](imgs/concept_Segm.png)
 
 ### 参考文献
-- 平川拓実，長野匡隼，中村友昭，"多重分節構造を有する時系列データの教師なし分節化"，人工知能学会全国大会，2J3-GS-8b-02，Jun. 2021 [[PDF]](https://www.jstage.jst.go.jp/article/pjsai/JSAI2021/0/JSAI2021_2J3GS8b02/_pdf)
+- Masatoshi Nagano, Tomoaki Nakamura, Takayuki Nagai, Daichi Mochihashi and Ichiro Kobayashi, "Spatio-Temporal Categorization for First-Person-View Videos Using a Convolutional Variational Autoencoder and Gaussian Processes", Frontiers in Robotics and AI, Vol. 9, Sep. 2022 [[PDF]](https://www.frontiersin.org/articles/10.3389/frobt.2022.903450/full)
 - 長野匡隼，中村友昭，長井隆行，持橋大地，小林一郎，高野渉，"畳み込み変分オートエンコーダとガウス過程に基づく動画像の分節化"，人工知能学会全国大会，2J3-GS-8b-01，Jun. 2021 [[PDF]](https://www.jstage.jst.go.jp/article/pjsai/JSAI2021/0/JSAI2021_2J3GS8b01/_pdf)
 - Masatoshi Nagano, Tomoaki Nakamura, Takayuki Nagai, Daichi Mochihashi, Ichiro Kobayashi and Wataru Takano, "HVGH: Unsupervised Segmentation for High-dimensional Time Series Using Deep Neural Compression and Statistical Generative Model", Frontiers in Robotics and AI, Vol. 6, Article 115, pp. 1-15, Nov. 2019 [[PDF]](https://www.frontiersin.org/articles/10.3389/frobt.2019.00115/full)
 - Masatoshi Nagano, Tomoaki Nakamura, Takayuki Nagai, Daichi Mochihashi, Ichiro Kobayashi, Masahide Kaneko, “Sequence Pattern Extraction by Segmenting Time Series Data Using GP-HSMM with Hierarchical Dirichlet Process”, IROS2018, pp. 4067-4074, Oct. 2018 [[PDF]](https://ieeexplore.ieee.org/document/8594029)
@@ -41,6 +41,46 @@ layout: default
 <br>
 
 
+
+
+
+
+## 大規模な学習モデル構築のためのアーキテクチャ
+ロボットによる概念や言語の獲得をはじめ，私たちは様々な学習モデルを提案してきました．人のような知能の実現には，さらに複雑で大規模なモデルを構築する必要があります．しかし，モデルの規模が大きく複雑になるにつれて，実装することは困難になると考えられます．そこで，小規模で基礎的なモデルを組み合わせることによって大規模なモデルの構築を容易にするアーキテクチャSerketの研究・開発を行っています．[[プロジェクトページ]](http://serket.naka-lab.org/)
+![概念・言語獲得](imgs/graphical_models.jpg)
+
+### 参考文献
+- Tadahiro Taniguchi, Hiroshi Yamakawa, Takayuki Nagai, Kenji Doya, Masamichi Sakagami, Masahiro Suzuki, Tomoaki Nakamura, Akira Taniguchi, “A whole brain probabilistic generative model: Toward realizing cognitive architectures for developmental robots”, Neural Networks, Vol. 150, pp. 293-312, Jun. 2022 [[PDF]](https://www.sciencedirect.com/science/article/pii/S0893608022000673)
+- Ryo Kuniyasu, Tomoaki Nakamura, Tadahiro Taniguchi, Takayuki Nagai, "Robot Concept Acquisition Based on Interaction between Probabilistic and Deep Generative Models", Frontiers in Computer Science, Vol. 3, Article 618069, pp. 1-14, Sep. 2021 [[PDF]](https://www.frontiersin.org/articles/10.3389/fcomp.2021.618069/full)
+- 國安瞭，中村友昭，長井隆行，谷口忠大，”確率モデルの統合によるマルチモーダル学習モデルの構築”，人工知能学会全国大会，1L4-J-11-02，Jun. 2019 [[PDF]](https://confit.atlas.jp/guide/event-img/jsai2019/1L4-J-11-02/public/pdf?type=in)
+- Tomoaki Nakamura, Takayuki Nagai and Tadahiro Taniguchi, “SERKET: An Architecture for Connecting Stochastic Models to Realize a Large-Scale Cognitive Model”, Frontiers in Neurorobotics, vol. 12, article 25, pp. 1-16, Jun. 2018 [[PDF]](https://www.frontiersin.org/articles/10.3389/fnbot.2018.00025/full)
+
+
+
+<br>
+
+
+
+
+## 複数の自律ロボットによる家庭内タスクの実現
+家庭内には様々なタスクがあり，一台のロボットで全てを実行することは困難です．そこで本研究では複数の身体の異なるロボットが連携することで，家庭内のタスクを実行することを目的としています．またロボットが完全自律で実行できる行動は限られており，タスクの全てをロボットだけで遂行することは困難です．そのうようなロボットだけでは解決できない未知の状況に遭遇した時は，インターネットを通して人に支援を依頼し遠隔操作してもらうことで，未知の状況に対応します．さらに，その操作ログから学習することにより，新たな知識を獲得します．このプロジェクトは[内閣府ムーンショットプロジェクト 目標1「2050年までに、人が身体、脳、空間、時間の制約から解放された社会を実現」](https://www.avatar-ss.org/)の一環です．
+
+<div align="center">
+<video controls width="500">
+    <source src="mov/stretch.mp4" type="video/mp4">
+</video>
+</div>
+
+### 参考文献
+- Tatsuya Aoki, Tomoaki Nakamura, Takayuki Nagai, “Analysis of User Behavior and Workload During Simultaneous Tele-operation of Multiple Mobile Manipulators”, IROS2022, Oct. 2022 (accepted)
+- Tomoaki Nakamura, Tadahiro Taniguchi and Akira Taniguchi, “Multi-agent collaboration through emergent communication based on metropolis-hastings”, JCoLE Workshop: Machine Learning and the Evolution of Language, Sep. 2022
+- 江原広人，長野匡隼，中村友昭，”ロボットアームのたわみ量推定によるマニピュ レーションの高精度化”，日本ロボット学会学術講演会，4I3-06，Sep. 2022
+- 長野匡隼, 岩田健輔, 平川拓実, 吉田武史, 青木達哉, 中村友昭, 長井隆行, “ROS1による複数ロボットの協調制御の実現”, 日本ロボット学会学術講演会, 2H2-06, Sep. 2021
+
+
+
+
+<br>
 
 
 
@@ -59,45 +99,6 @@ layout: default
 
 <br>
 
-
-
-
-## 大規模な学習モデル構築のためのアーキテクチャ
-ロボットによる概念や言語の獲得をはじめ，私たちは様々な学習モデルを提案してきました．人のような知能の実現には，さらに複雑で大規模なモデルを構築する必要があります．しかし，モデルの規模が大きく複雑になるにつれて，実装することは困難になると考えられます．そこで，小規模で基礎的なモデルを組み合わせることによって大規模なモデルの構築を容易にするアーキテクチャSerketの研究・開発を行っています．[[プロジェクトページ]](http://serket.naka-lab.org/)
-![概念・言語獲得](imgs/graphical_models.jpg)
-
-### 参考文献
-- Ryo Kuniyasu, Tomoaki Nakamura, Tadahiro Taniguchi, Takayuki Nagai, "Robot Concept Acquisition Based on Interaction between Probabilistic and Deep Generative Models", Frontiers in Computer Science, Vol. 3, Article 618069, pp. 1-14, Sep. 2021 [[PDF]](https://www.frontiersin.org/articles/10.3389/fcomp.2021.618069/full)
-- 國安瞭，中村友昭，長井隆行，谷口忠大，”確率モデルの統合によるマルチモーダル学習モデルの構築”，人工知能学会全国大会，1L4-J-11-02，Jun. 2019 [[PDF]](https://confit.atlas.jp/guide/event-img/jsai2019/1L4-J-11-02/public/pdf?type=in)
-- Tomoaki Nakamura, Takayuki Nagai and Tadahiro Taniguchi, “SERKET: An Architecture for Connecting Stochastic Models to Realize a Large-Scale Cognitive Model”, Frontiers in Neurorobotics, vol. 12, article 25, pp. 1-16, Jun. 2018 [[PDF]](https://www.frontiersin.org/articles/10.3389/fnbot.2018.00025/full)
-- 國安瞭，中村友昭，青木達哉，谷口彰，尾崎僚，伊志嶺朝良，横山裕樹，小椋忠志，長井隆行，谷口忠大，”確率モデルの統合による大規模なモデルの実現 ～VAE, GMM, HMM, MLDAの統合モデルの実装と評価～”，情報論的学習理論ワークショップ，T-34，Nov. 2018
-
-
-
-<br>
-
-
-
-
-## 複数の自律ロボットによる家庭内タスクの実現
-家庭内には様々なタスクがあり，一台のロボットで全てを実行することは困難です．そこで本研究では複数の身体の異なるロボットが連携することで，家庭内のタスクを実行することを目的としています．またロボットが完全自律で実行できる行動は限られており，タスクの全てをロボットだけで遂行することは困難です．そのうようなロボットだけでは解決できない未知の状況に遭遇した時は，インターネットを通して人に支援を依頼し遠隔操作してもらうことで，未知の状況に対応します．さらに，その操作ログから学習することにより，新たな知識を獲得します．
-
-<div align="center">
-<video controls width="500">
-    <source src="mov/stretch1.mp4" type="video/mp4">
-</video>
-<video controls width="500">
-    <source src="mov/stretch2.mp4" type="video/mp4">
-</video>
-</div>
-
-### 参考文献
-- 長野匡隼, 岩田健輔, 平川拓実, 吉田武史, 青木達哉, 中村友昭, 長井隆行, “ROS1による複数ロボットの協調制御の実現”, 日本ロボット学会学術講演会, 2H2-06, Sep. 2021
-
-
-
-
-<br>
 
 
 
