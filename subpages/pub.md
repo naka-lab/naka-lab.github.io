@@ -10,6 +10,7 @@ layout: default
 - [Invited Talk](#invited-talk)
 - [International Conference](#international-conference)
 - [国内学会](#国内学会)
+- [著書・Book chapters](#著書・Book-chapters)
 - [特許](#特許)
 - [受賞](#受賞)
 
@@ -374,6 +375,14 @@ Signal Processing, pp. 13-16, Feb. 2020
 229. 安居健，中村友昭，長井隆行，"マルチモーダルな連想と想起を用いた対話システムの検討"，スマートインフォメディアシステム研究会，pp.21-26，Mar.2008
 230. 中村友昭，安居健，長井隆行，"対話ロボットの為のマルチモーダルな想起と連想"，ヒューマン情報処理研究会，pp.7-12，Mar.2008
 231. 中村友昭，長井隆行，岩橋直人，"ロボットによる物体のマルチモーダルカテゴリゼーション"，電子情報通信学会学生ポスターセッション，Mar.2007
+
+
+## 著書・Book chapters
+1. 今井倫太， 大北碧， 大森隆司， 岡夏樹， 小野哲雄， 澤幸祐， 坂本孝丈， 鮫島和行， 寺田和憲， 遠山紗矢香， 長井隆行， 中村友昭， 峯松信明， 本田秀仁， 山田誠二, "コグニティブ・インタラクション―次世代AIに向けた方法論とデザイン―", オーム社, 2022
+1. Muhammad Attamimi, Tomoaki Nakamura, Takayuki Nagai, Komei Sugiura and Naoto Iwahashi, "Learning Novel Objects for Domestic Service Robots
+", The Future of Humanoid Robots - Research and Applications, InTech, pp. 257-276, 2012
+1. Tomoaki Nakamura and Takayuki Nagai, "Forming Object Concept Using Bayesian Network", Bayesian Network, Sciyo, pp. 91-107, 2010
+
 
 
 ## その他講座・講演等
