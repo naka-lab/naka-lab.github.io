@@ -11,6 +11,7 @@ layout: default
 - [International Conference](#international-conference)
 - [国内学会](#国内学会)
 - [著書・Book chapters](#著書・book-chapters)
+- [その他講座・講演等](#その他講座・講演等)
 - [特許](#特許)
 - [受賞](#受賞)
 
