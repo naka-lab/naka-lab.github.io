@@ -10,7 +10,7 @@ layout: default
 - [Invited Talk](#invited-talk)
 - [International Conference](#international-conference)
 - [国内学会](#国内学会)
-- [著書・Book chapters](#著書・Book-chapters)
+- [著書・Book chapters](#著書・book-chapters)
 - [特許](#特許)
 - [受賞](#受賞)
 
