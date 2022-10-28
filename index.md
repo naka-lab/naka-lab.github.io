@@ -7,7 +7,13 @@ layout: default
 
 キーワード：人工知能(AI)，ロボット，知能システム，学習，確率モデル，深層学習
 
+## 卒研配属希望者向け情報
+[卒研配属に関するページ](//hp.naka-lab.org/subpages/haizoku.html)に随時情報を掲載します．
+
 ## News
+* 2022/10/29
+	* 2022年度の[卒研配属に関するページ](//hp.naka-lab.org/subpages/haizoku.html) を作成しました．
+
 * 2021/10/14
 	* 2021年度の[卒研配属に関するページ](//hp.naka-lab.org/subpages/haizoku.html) を作成しました．詳細が決まり次第情報を掲載します．
 	
