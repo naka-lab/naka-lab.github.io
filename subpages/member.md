@@ -29,12 +29,12 @@ layout: default
 - 高田　智史 (Satoshi Takada) e-mail: s_takada
 
 ## B4
-- 落合 翔馬（Shoma　OCHIAI） email: 
-- 森下 雅晴（Masaharu MORISHITA） email: 
-- 三好 遼（Haruka MIYOSHI） email: 
-- 齋藤 一誠（Issei SAITO） email: 
-- 北川 浩行（Hiroyuki KITAGAWA） email: 
-- 中野 将弥（Masaya NAKANO） email: 
+- 落合 翔馬（Shoma　OCHIAI） email: s_ochiai
+- 森下 雅晴（Masaharu MORISHITA） email: m_morishita
+- 三好 遼（Haruka MIYOSHI） email: h_miyoshi
+- 齋藤 一誠（Issei SAITO） email: i_saito
+- 北川 浩行（Hiroyuki KITAGAWA） email: h_kitagawa
+- 中野 将弥（Masaya NAKANO） email: m_nakano
 
 
 ## 共同研究者
