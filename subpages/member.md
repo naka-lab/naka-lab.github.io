@@ -11,7 +11,7 @@ layout: default
 - 秘書:　早川 幸枝　(Yukie Hayakawa)　e-mail: yukie-h
 
 ## M2
-- 江原　広人 (Ebara Hiroto) e-mail: h_ebara
+- 江原　広人 (Hiroto Ebara) e-mail: h_ebara
 - 長谷川　浩生 (Koki Hasegawa) e-mail: k_hasegawa
 - 中村　哲巳 (Satomi Nakamura) e-mail: s_nakamura
 - 井口 丈琉 (Takeru Iguchi) e-mail: t_iguchi
