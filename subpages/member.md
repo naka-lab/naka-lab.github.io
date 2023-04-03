@@ -10,31 +10,26 @@ layout: default
 - 准教授:　[中村 友昭　(Tomoaki Nakamura)](nakamura.md)　e-mail: nakamura
 - 秘書:　早川 幸枝　(Yukie Hayakawa)　e-mail: yukie-h
 
-## D3
-- 長野 匡隼　(Masatoshi Nagano)　e-mail: m_nagano  
-  （日本学術振興会特別研究員）
-
 ## M2
-- 柳沼 和樹 (Kazuki Yaginuma) e-mail: k_yaginuma
-- 大貫 豪 (Go Onuki) e-mail: n_onuki
-- 大道 弘明 (Hiroaki Omichi） e-mail: h_omichi
-- 岡村 悠生 (Yuki Okamura) e-mail: y_okamura
-- 吉田 武史 (Takeshi Yoshida) e-mail: t_yoshida
-
-## M1
 - 江原　広人 (Ebara Hiroto) e-mail: h_ebara
 - 長谷川　浩生 (Koki Hasegawa) e-mail: k_hasegawa
 - 中村　哲巳 (Satomi Nakamura) e-mail: s_nakamura
 - 井口 丈琉 (Takeru Iguchi) e-mail: t_iguchi
 - 高田　智史 (Satoshi Takada) e-mail: s_takada
 
+## M1
+- 落合 翔馬 （Shoma　OCHIAI） email: s_ochiai
+- 森下 雅晴 （Masaharu MORISHITA） email: m_morishita
+- 齋藤 一誠 （Issei SAITO） email: i_saito
+- 北川 浩行 （Hiroyuki KITAGAWA） email: h_kitagawa
+- 中野 将弥 （Masaya NAKANO） email: m_nakano
+
 ## B4
-- 落合 翔馬（Shoma　OCHIAI） email: s_ochiai
-- 森下 雅晴（Masaharu MORISHITA） email: m_morishita
-- 三好 遼（Haruka MIYOSHI） email: h_miyoshi
-- 齋藤 一誠（Issei SAITO） email: i_saito
-- 北川 浩行（Hiroyuki KITAGAWA） email: h_kitagawa
-- 中野 将弥（Masaya NAKANO） email: m_nakano
+- 高橋　柊 (Shu Takahashi)
+- 平尾総太郎 (Sotaro Hirao)
+- 山田 裕大 (Yuta Yamada)
+- 劉 智優 (You Ziwoo)
+- 中塚 陸登 (Rikuto Nakatsuka)
 
 
 ## 共同研究者
@@ -44,6 +39,13 @@ layout: default
 
 |　　　　名前　　　　|　　　　在籍年度　　　　|
 |:------:|:-------:|
+|長野 匡隼|2017-2022|
+|三好 遼|2022|
+|大道 弘明|2020-2022|
+|岡村 悠生|2020-2022|
+|吉田 武史|2020-2022|
+|大貫 豪|2019-2022|
+|柳沼 和樹|2019-2022|
 |松本 凌|2019-2021|
 |平川 拓実|2019-2021|
 |西村 卓真|2021|
