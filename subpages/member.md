@@ -28,7 +28,7 @@ layout: default
 - 高橋　柊 (Shu Takahashi)
 - 平尾総太郎 (Sotaro Hirao)
 - 山田 裕大 (Yuta Yamada)
-- 劉 智優 (You Ziwoo)
+- 劉 智優 (Ziwoo You)
 - 中塚 陸登 (Rikuto Nakatsuka)
 
 
