@@ -17,44 +17,45 @@ layout: default
 
 
 ## Journal
-1. 長野匡隼，中村 友昭，"GP-HSMMに基づく二重分節化モデルによる連続音声の教師なし構造学習"，日本ロボット学会論文誌，Vol. 41, No. 3, pp. 318-321, Apr. 2023
-2. Masatoshi Nagano, Tomoaki Nakamura, Takayuki Nagai, Daichi Mochihashi and Ichiro Kobayashi, "Spatio-Temporal Categorization for First-Person-View Videos Using a Convolutional Variational Autoencoder and Gaussian Processes", Frontiers in Robotics and AI, Vol. 9, Sep. 2022
-3. Tadahiro Taniguchi, Hiroshi Yamakawa, Takayuki Nagai, Kenji Doya, Masamichi Sakagami, Masahiro Suzuki, Tomoaki Nakamura, Akira Taniguchi, "A whole brain probabilistic generative model: Toward realizing cognitive architectures for developmental robots", Neural Networks, Vol. 150, pp. 293-312, Jun. 2022
-4. Ryo Kuniyasu, Tomoaki Nakamura, Tadahiro Taniguchi, Takayuki Nagai, "Robot Concept Acquisition Based on Interaction between Probabilistic and Deep Generative Models", Frontiers in Computer Science, Vol. 3, Article 618069, pp. 1-14, Sep. 2021
-5. 長野匡隼，中村 友昭，"複数物体が存在する環境下での共同注意を用いたロボットによる語意学習"，日本ロボット学会誌, Vol. 39, No. 6, pp. 549-552, Jul. 2021
-6. 木村大河，長野匡隼，中村友昭，"MC-GP-HSMMを用いたマルチモーダル情報の分節化によるインタラクションのルール学習"， 日本ロボット学会誌, Vol. 39, No. 6, pp. 553-556, Jul. 2021
-7. 山田徹志, 宮田真宏, 中村友昭, 前野隆司, 大森隆司, "機械学習を用いた「子どもの育ち」の可視化", 日本教育工学会論文誌, vol. 44, no. 4, Nov. 2020
-8. 濵園 侑美, 小林 一郎, 麻生 英樹, 中村 友昭, 長井 隆行, 持橋 大地, "ヒューマノイドロボットを用いた言語理解による動作生成", 知能と情報, Vol. 32, No. 1, pp. 632-642, Feb. 2020
-9. Tadahiro Taniguchi, Tomoaki Nakamura, Masahiro Suzuki, Ryo Kuniyasu, Kaede Hayashi, Akira Taniguchi, Takato Horii and Takayuki Nagai, "Neuro-SERKET: Development of Integrative Cognitive System Through the Composition of Deep Probabilistic Generative Models", New Generation Computing, pp. 1-26, Jan. 2020
-10. Masatoshi Nagano, Tomoaki Nakamura, Takayuki Nagai, Daichi Mochihashi, Ichiro Kobayashi and Wataru Takano, "HVGH: Unsupervised Segmentation for High-dimensional Time Series Using Deep Neural Compression and Statistical Generative Model", Frontiers in Robotics and AI, Vol. 6, Article 115, pp. 1-15, Nov. 2019
-11. Tadahiro Tangiuchi, Daichi Mochihashi, Takayuki Nagai, Satoru Uchida, Naoya Inoue, Ichiro Kobayashi, Tomoaki Nakamura, Yoshinobu Hagiwara, Naoto Iwahashi and Tetsunari Inamura, "Survey on frontiers of language and robotics", Advanced Robotics, Vol. 33, Issue 15-16, pp. 700-730, Jun. 2019
-12. Kaori Kumagai, Ichiro Kobayashi, Daichi Mochihashi, Hideki Asoh, Tomoaki Nakamura, and Takayuki Nagai, "Natural Language Generation using Monte Carlo Tree Search",  Journal of Advanced Computational Intelligence and Intelligent Informatics,  Vol. 22, No. 5, Sep. 2018
-13. Tomoaki Nakamura, and Takayuki Nagai, "Ensemble-of-Concept Models for Unsupervised Formation of Multiple Categories", IEEE Transactions on Cognitive and Developmental Systems, vol. 10, issue 4, pp. 1043-1057, Dec. 2018
-14. Tomoaki Nakamura, Takayuki Nagai and Tadahiro Taniguchi, "SERKET: An Architecture for Connecting Stochastic Models to Realize a Large-Scale Cognitive Model", Frontiers in Neurorobotics, vol. 12, article 25, pp. 1-16, Jun. 2018
-15. Gibran Benitez-Garcia, Tomoaki Nakamura, Masahide Kaneko, "Multicultural Facial Expression Recognition Based on Differences of Western-Caucasian and East-Asian Facial Expressions of Emotions", IEICE Transactions on Information and Systems, vol.E101-D, no.5, pp.1317-1324, May 2018
-16. Tomoaki Nakamura, Takayuki Nagai, Daichi Mochihashi, Ichiro Kobayashi, Hideki Asoh and Masahide Kaneko, "Segmenting Continuous Motions with Hidden Semi-Markov Models and Gaussian Processes", Frontiers in Neurorobotics, vol.11, article 67, pp. 1-11, Dec. 2017
-17. Gibran Benitez-Garcia, Tomoaki Nakamura, Masahide Kaneko, “Facial expression recognition based on local Fourier coefficients and facial Fourier descriptors”, Journal of Signal and Information Processing, Vol.8, No.3, pp.132-151, Aug. 2017
-18. Gibran Benitez-Garcia, Tomoaki Nakamura, Masahide Kaneko, "Methodical Analysis of Western-Caucasian and East-Asian Basic Facial Expressions of Emotions Based on Specific Facial Regions",  Journal of Signal and Information Processing, Vol. 8 No. 2, pp. 78-98, May 2017
-19. Takahiro Kobori, Tomoaki Nakamura, Mikio Nakano, Takayuki Nagai, Naoto Iwahashi, Kotaro Funakoshi, and Masahide Kaneko, "Robust Comprehension of Natural Language Instructions by a Domestic Service Robot", Advanced Robotics, Vol. 30, Issue 24, pp. 1530-1543, Nov. 2016
-20. Bin Zhang, Tomoaki Nakamura, and Masahide Kaneko, "A Framework for Adaptive Motion Control of Autonomous Sociable Guide Robot", IEEJ Transactions on Electronics, Information and Systems, Vol. 11, Issue 6, pp.  786–795, Sep. 2016
-21. Bin Zhang, Tomoaki Nakamura, Rena Ushiogi, Takayuki Nagai, Kasumi Abe, Takashi Omori, Natsuki Oka, and Masahide Kaneko, "Simultaneous Children Recognition and Tracking for Childcare Assisting System by Using Kinect Sensors", Journal of Signal and Information Processing, Vol.7, No.3, pp. 148-159, Aug. 2016
-22. Joe Nishihara, Tomoaki Nakamura, Takayuki Nagai, "Online Algorithm for Robots to Learn Object Concepts and Language Model", IEEE Transactions on Cognitive and Developmental Systems, Vol. 9, No. 3, pp. 255-268, Apr. 2017
-23. Muhammad Attamimi, Yuji Ando, Tomoaki Nakamura, Takayuki Nagai, Daichi Mochihashi, Ichiro Kobayashi and Hideki Asoh, "Learning Word Meanings and Grammar for Verbalization of Daily Life Activities Using Multilayered Multimodal Latent Dirichlet Allocation and Bayesian Hidden Markov Models", Advanced Robotics, Vol. 30, Issue 11-12, pp. 806-824, Jun. 2016
-24. Tadahiro Taniguchi, Takayuki Nagai, Tomoaki Nakamura, Naoto Iwahashi, Tetsuya Ogata, and Hideki Asoh, "Symbol Emergence in Robotics: A Survey", Advanced Robotics, Vol. 30, Issue 11-12, pp. 706-728, Jun. 2016
-25. パン ジュン フイ，中村友昭，金子正秀，"顔部品の形状特徴及び顔画像の提示方法の違いと顔全体の類似印象との関係"，日本顔学会誌，Vol.15，No.2，pp.93-104，Dec. 2015
-26. 中村友昭，長井隆行，船越孝太郎，谷口忠大，岩橋直 人，金子正秀，"マルチモーダルLDAとNPYLMを用いたロボットによる物体概念と言語モデルの相互学習"，人工知能学会論文誌，Vol.30，No.3，pp.498-509，Mar. 2015
-27. ムハンマドアッタミミ, ファドリルムハンマド, 阿部香澄, 中村友昭, 船越孝太郎, 長井隆行, "多層マルチモーダルLDAを用いた人の動きと物体の統合概念の形成", 日本ロボット学会論文誌，Vol. 32, No. 8，pp. 753-764，Oct. 2014
-28. Muhammad Attamimi, Takaya Araki, Tomoaki Nakamura, Takayuki Nagai, "Visual Recognition System for Cleaning Tasks by Humanoid Robots", International Journal of Advanced Robotic Systems: Humanoid, DOI:10.5772/56629, Nov.2013
-29. 安藤義記，中村友昭，荒木孝弥，長井隆行，"階層マルチモーダルLDAを用いたロボットによる階層的概念の形成"，日本ロボット学会論文誌，Vol.31, No.7, pp.2-12，Sep.2013
-30. 岩崎安希子，下斗米貴之，阿部香澄，中村友昭，長井隆行，大森隆司，"遊びロボットによる子どもの性格傾向の推定に関する研究"，日本感性工学会論文誌，No.12, Vol.1, pp.219-228, Feb. 2013
-31. 阿部香澄，岩崎安希子，中村友昭，長井隆行，横山絢美，下斗米貴之，岡田浩之，大森隆司，"子供と遊ぶロボット：心的状態の推定に基づいた行動決定モデルの適用"，日本ロボット学会論文誌，Vol.31，No.3, pp.263-274, Jun.2013
-32. 中村友昭，荒木 孝弥，長井隆行，岩橋直人，"階層ディリクレ過程に基づくロボットによる物体のマルチモーダルカテゴリゼーション"，計測自動制御学会論文集, pp.469-478, Vol. 49, No. 4, Apr.2013
-33. Takaya Araki, Tomoaki Nakamura, Takayuki Nagai, Kotaro Funakoshi, Mikio Nakano, and Naoto Iwahashi, "Online Object Categorization Using Multimodal Information Autonomously Acquired by a Mobile Robot", Advanced Robotics, Vol.26, pp.1995-2020, Oct.2012
-34. Tomoaki Nakamura, Takaya Araki, Takayuki Nagai and Naoto Iwahashi, "Grounding of Word Meanings in LDA-Based Multimodal Concepts", Advanced Robotics, Vol.25, pp. 2189-2206, Apr.2012
-35. 中村友昭，杉浦孔明，長井隆行，岩橋直人，岡田浩之，大森隆司，"拡張モバイルマニピュレーションのための新規物体の学習",日本ロボット学会論文誌，pp.213-224，Vol.30，No.4，Mar.2012
-36. Tomoaki Nakamura, Komei Sugiura, Takayuki Nagai, Naoto Iwahashi, Hiroyuki Okada, and Takashi Omori, "Learning Novel Objects for Extended Mobile Manipulation", Journal of Intelligent and Robotic Systems, pp.1-18, Jul.2011
-37. 中村友昭，長井隆行，"機能と視覚的情報の関係性に基づく物体の概念モデル"，情報処理学会論文誌，Vol.51，No.8，pp.1413-1427，Aug.2010
-38. 中村友昭，長井隆行，岩橋直人，"ロボットによる物体のマルチモーダルカテゴリゼーション"，電子情報通信学会和文論文誌，Vol.J91-D, No.10, pp. 2507-2518，Oct. 2008
+1. Tadahiro Taniguchi, Shingo Murata, Masahiro Suzuki, Dimitri Ognibene, Pablo Lanillos, Emre Ugur, Lorenzo Jamone, Tomoaki Nakamura, Alejandra Ciria, Bruno Lara, Giovanni Pezzulo, "World Models and Predictive Coding for Cognitive and Developmental Robotics: Frontiers and Challenges", Advanced Robotics (accepted)
+2. 長野匡隼，中村 友昭，"GP-HSMMに基づく二重分節化モデルによる連続音声の教師なし構造学習"，日本ロボット学会論文誌，Vol. 41, No. 3, pp. 318-321, Apr. 2023
+3. Masatoshi Nagano, Tomoaki Nakamura, Takayuki Nagai, Daichi Mochihashi and Ichiro Kobayashi, "Spatio-Temporal Categorization for First-Person-View Videos Using a Convolutional Variational Autoencoder and Gaussian Processes", Frontiers in Robotics and AI, Vol. 9, Sep. 2022
+4. Tadahiro Taniguchi, Hiroshi Yamakawa, Takayuki Nagai, Kenji Doya, Masamichi Sakagami, Masahiro Suzuki, Tomoaki Nakamura, Akira Taniguchi, "A whole brain probabilistic generative model: Toward realizing cognitive architectures for developmental robots", Neural Networks, Vol. 150, pp. 293-312, Jun. 2022
+5. Ryo Kuniyasu, Tomoaki Nakamura, Tadahiro Taniguchi, Takayuki Nagai, "Robot Concept Acquisition Based on Interaction between Probabilistic and Deep Generative Models", Frontiers in Computer Science, Vol. 3, Article 618069, pp. 1-14, Sep. 2021
+6. 長野匡隼，中村 友昭，"複数物体が存在する環境下での共同注意を用いたロボットによる語意学習"，日本ロボット学会誌, Vol. 39, No. 6, pp. 549-552, Jul. 2021
+7. 木村大河，長野匡隼，中村友昭，"MC-GP-HSMMを用いたマルチモーダル情報の分節化によるインタラクションのルール学習"， 日本ロボット学会誌, Vol. 39, No. 6, pp. 553-556, Jul. 2021
+8. 山田徹志, 宮田真宏, 中村友昭, 前野隆司, 大森隆司, "機械学習を用いた「子どもの育ち」の可視化", 日本教育工学会論文誌, vol. 44, no. 4, Nov. 2020
+9. 濵園 侑美, 小林 一郎, 麻生 英樹, 中村 友昭, 長井 隆行, 持橋 大地, "ヒューマノイドロボットを用いた言語理解による動作生成", 知能と情報, Vol. 32, No. 1, pp. 632-642, Feb. 2020
+10. Tadahiro Taniguchi, Tomoaki Nakamura, Masahiro Suzuki, Ryo Kuniyasu, Kaede Hayashi, Akira Taniguchi, Takato Horii and Takayuki Nagai, "Neuro-SERKET: Development of Integrative Cognitive System Through the Composition of Deep Probabilistic Generative Models", New Generation Computing, pp. 1-26, Jan. 2020
+11. Masatoshi Nagano, Tomoaki Nakamura, Takayuki Nagai, Daichi Mochihashi, Ichiro Kobayashi and Wataru Takano, "HVGH: Unsupervised Segmentation for High-dimensional Time Series Using Deep Neural Compression and Statistical Generative Model", Frontiers in Robotics and AI, Vol. 6, Article 115, pp. 1-15, Nov. 2019
+12. Tadahiro Tangiuchi, Daichi Mochihashi, Takayuki Nagai, Satoru Uchida, Naoya Inoue, Ichiro Kobayashi, Tomoaki Nakamura, Yoshinobu Hagiwara, Naoto Iwahashi and Tetsunari Inamura, "Survey on frontiers of language and robotics", Advanced Robotics, Vol. 33, Issue 15-16, pp. 700-730, Jun. 2019
+13. Kaori Kumagai, Ichiro Kobayashi, Daichi Mochihashi, Hideki Asoh, Tomoaki Nakamura, and Takayuki Nagai, "Natural Language Generation using Monte Carlo Tree Search",  Journal of Advanced Computational Intelligence and Intelligent Informatics,  Vol. 22, No. 5, Sep. 2018
+14. Tomoaki Nakamura, and Takayuki Nagai, "Ensemble-of-Concept Models for Unsupervised Formation of Multiple Categories", IEEE Transactions on Cognitive and Developmental Systems, vol. 10, issue 4, pp. 1043-1057, Dec. 2018
+15. Tomoaki Nakamura, Takayuki Nagai and Tadahiro Taniguchi, "SERKET: An Architecture for Connecting Stochastic Models to Realize a Large-Scale Cognitive Model", Frontiers in Neurorobotics, vol. 12, article 25, pp. 1-16, Jun. 2018
+16. Gibran Benitez-Garcia, Tomoaki Nakamura, Masahide Kaneko, "Multicultural Facial Expression Recognition Based on Differences of Western-Caucasian and East-Asian Facial Expressions of Emotions", IEICE Transactions on Information and Systems, vol.E101-D, no.5, pp.1317-1324, May 2018
+17. Tomoaki Nakamura, Takayuki Nagai, Daichi Mochihashi, Ichiro Kobayashi, Hideki Asoh and Masahide Kaneko, "Segmenting Continuous Motions with Hidden Semi-Markov Models and Gaussian Processes", Frontiers in Neurorobotics, vol.11, article 67, pp. 1-11, Dec. 2017
+18. Gibran Benitez-Garcia, Tomoaki Nakamura, Masahide Kaneko, “Facial expression recognition based on local Fourier coefficients and facial Fourier descriptors”, Journal of Signal and Information Processing, Vol.8, No.3, pp.132-151, Aug. 2017
+19. Gibran Benitez-Garcia, Tomoaki Nakamura, Masahide Kaneko, "Methodical Analysis of Western-Caucasian and East-Asian Basic Facial Expressions of Emotions Based on Specific Facial Regions",  Journal of Signal and Information Processing, Vol. 8 No. 2, pp. 78-98, May 2017
+20. Takahiro Kobori, Tomoaki Nakamura, Mikio Nakano, Takayuki Nagai, Naoto Iwahashi, Kotaro Funakoshi, and Masahide Kaneko, "Robust Comprehension of Natural Language Instructions by a Domestic Service Robot", Advanced Robotics, Vol. 30, Issue 24, pp. 1530-1543, Nov. 2016
+21. Bin Zhang, Tomoaki Nakamura, and Masahide Kaneko, "A Framework for Adaptive Motion Control of Autonomous Sociable Guide Robot", IEEJ Transactions on Electronics, Information and Systems, Vol. 11, Issue 6, pp.  786–795, Sep. 2016
+22. Bin Zhang, Tomoaki Nakamura, Rena Ushiogi, Takayuki Nagai, Kasumi Abe, Takashi Omori, Natsuki Oka, and Masahide Kaneko, "Simultaneous Children Recognition and Tracking for Childcare Assisting System by Using Kinect Sensors", Journal of Signal and Information Processing, Vol.7, No.3, pp. 148-159, Aug. 2016
+23. Joe Nishihara, Tomoaki Nakamura, Takayuki Nagai, "Online Algorithm for Robots to Learn Object Concepts and Language Model", IEEE Transactions on Cognitive and Developmental Systems, Vol. 9, No. 3, pp. 255-268, Apr. 2017
+24. Muhammad Attamimi, Yuji Ando, Tomoaki Nakamura, Takayuki Nagai, Daichi Mochihashi, Ichiro Kobayashi and Hideki Asoh, "Learning Word Meanings and Grammar for Verbalization of Daily Life Activities Using Multilayered Multimodal Latent Dirichlet Allocation and Bayesian Hidden Markov Models", Advanced Robotics, Vol. 30, Issue 11-12, pp. 806-824, Jun. 2016
+25. Tadahiro Taniguchi, Takayuki Nagai, Tomoaki Nakamura, Naoto Iwahashi, Tetsuya Ogata, and Hideki Asoh, "Symbol Emergence in Robotics: A Survey", Advanced Robotics, Vol. 30, Issue 11-12, pp. 706-728, Jun. 2016
+26. パン ジュン フイ，中村友昭，金子正秀，"顔部品の形状特徴及び顔画像の提示方法の違いと顔全体の類似印象との関係"，日本顔学会誌，Vol.15，No.2，pp.93-104，Dec. 2015
+27. 中村友昭，長井隆行，船越孝太郎，谷口忠大，岩橋直 人，金子正秀，"マルチモーダルLDAとNPYLMを用いたロボットによる物体概念と言語モデルの相互学習"，人工知能学会論文誌，Vol.30，No.3，pp.498-509，Mar. 2015
+28. ムハンマドアッタミミ, ファドリルムハンマド, 阿部香澄, 中村友昭, 船越孝太郎, 長井隆行, "多層マルチモーダルLDAを用いた人の動きと物体の統合概念の形成", 日本ロボット学会論文誌，Vol. 32, No. 8，pp. 753-764，Oct. 2014
+29. Muhammad Attamimi, Takaya Araki, Tomoaki Nakamura, Takayuki Nagai, "Visual Recognition System for Cleaning Tasks by Humanoid Robots", International Journal of Advanced Robotic Systems: Humanoid, DOI:10.5772/56629, Nov.2013
+30. 安藤義記，中村友昭，荒木孝弥，長井隆行，"階層マルチモーダルLDAを用いたロボットによる階層的概念の形成"，日本ロボット学会論文誌，Vol.31, No.7, pp.2-12，Sep.2013
+31. 岩崎安希子，下斗米貴之，阿部香澄，中村友昭，長井隆行，大森隆司，"遊びロボットによる子どもの性格傾向の推定に関する研究"，日本感性工学会論文誌，No.12, Vol.1, pp.219-228, Feb. 2013
+32. 阿部香澄，岩崎安希子，中村友昭，長井隆行，横山絢美，下斗米貴之，岡田浩之，大森隆司，"子供と遊ぶロボット：心的状態の推定に基づいた行動決定モデルの適用"，日本ロボット学会論文誌，Vol.31，No.3, pp.263-274, Jun.2013
+33. 中村友昭，荒木 孝弥，長井隆行，岩橋直人，"階層ディリクレ過程に基づくロボットによる物体のマルチモーダルカテゴリゼーション"，計測自動制御学会論文集, pp.469-478, Vol. 49, No. 4, Apr.2013
+34. Takaya Araki, Tomoaki Nakamura, Takayuki Nagai, Kotaro Funakoshi, Mikio Nakano, and Naoto Iwahashi, "Online Object Categorization Using Multimodal Information Autonomously Acquired by a Mobile Robot", Advanced Robotics, Vol.26, pp.1995-2020, Oct.2012
+35. Tomoaki Nakamura, Takaya Araki, Takayuki Nagai and Naoto Iwahashi, "Grounding of Word Meanings in LDA-Based Multimodal Concepts", Advanced Robotics, Vol.25, pp. 2189-2206, Apr.2012
+36. 中村友昭，杉浦孔明，長井隆行，岩橋直人，岡田浩之，大森隆司，"拡張モバイルマニピュレーションのための新規物体の学習",日本ロボット学会論文誌，pp.213-224，Vol.30，No.4，Mar.2012
+37. Tomoaki Nakamura, Komei Sugiura, Takayuki Nagai, Naoto Iwahashi, Hiroyuki Okada, and Takashi Omori, "Learning Novel Objects for Extended Mobile Manipulation", Journal of Intelligent and Robotic Systems, pp.1-18, Jul.2011
+38. 中村友昭，長井隆行，"機能と視覚的情報の関係性に基づく物体の概念モデル"，情報処理学会論文誌，Vol.51，No.8，pp.1413-1427，Aug.2010
+39. 中村友昭，長井隆行，岩橋直人，"ロボットによる物体のマルチモーダルカテゴリゼーション"，電子情報通信学会和文論文誌，Vol.J91-D, No.10, pp. 2507-2518，Oct. 2008
 
 ## 解説論文
 1. 中村 友昭，長野 匡隼，"Serket: 大規模な機械学習モデル構築のためのアーキテクチャ"，日本ロボット学会誌，Vol. 40，No. 10，Dec. 2022
