@@ -25,11 +25,11 @@ layout: default
 - 中野 将弥 （Masaya NAKANO） email: m_nakano
 
 ## B4
-- 高橋　柊 (Shu Takahashi)
-- 平尾総太郎 (Sotaro Hirao)
-- 山田 裕大 (Yuta Yamada)
-- 劉 智優 (Ziwoo You)
-- 中塚 陸登 (Rikuto Nakatsuka)
+- 高橋　柊 (Shu Takahashi) email: s_takahashi
+- 平尾総太郎 (Sotaro Hirao) email: 
+- 山田 裕大 (Yuta Yamada) email: 
+- 劉 智優 (Ziwoo You) email: y_ziwoo
+- 中塚 陸登 (Rikuto Nakatsuka) email: r_nakatsuka
 
 
 ## 共同研究者
