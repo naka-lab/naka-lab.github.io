@@ -26,8 +26,8 @@ layout: default
 
 ## B4
 - 高橋　柊 (Shu Takahashi) email: s_takahashi
-- 平尾総太郎 (Sotaro Hirao) email: 
-- 山田 裕大 (Yuta Yamada) email: 
+- 平尾総太郎 (Sotaro Hirao) email: s_hirao
+- 山田 裕大 (Yuta Yamada) email: y_yamada
 - 劉 智優 (Ziwoo You) email: y_ziwoo
 - 中塚 陸登 (Rikuto Nakatsuka) email: r_nakatsuka
 
