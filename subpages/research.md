@@ -12,7 +12,7 @@ layout: default
 ![概念・言語獲得](imgs/concept_lang.jpg)
 
 ### 参考文献
-- 長野匡隼，中村友昭，”GP-HSMMに基づく二重分節化モデルによる連 続音声の教師なし構造学習”，日本ロボット学会学術講演会，4F3-08，Sep. 2022
+- 長野匡隼，中村友昭，”GP-HSMMに基づく二重分節化モデルによる連続音声の教師なし構造学習”，日本ロボット学会学術講演会，4F3-08，Sep. 2022
 - Ryo Kuniyasu, Tomoaki Nakamura, Tadahiro Taniguchi, Takayuki Nagai, “Robot Concept Acquisition Based on Interaction between Probabilistic and Deep Generative Models”, Frontiers in Computer Science, Vol. 3, Article 618069, pp. 1-14, Sep. 2021 [[PDF]](https://www.frontiersin.org/articles/10.3389/fcomp.2021.618069/full)
 - 長野匡隼，中村 友昭，"複数物体が存在する環境下での共同注意を用いたロボットによる語意学習"，日本ロボット学会誌, Vol. 39, No. 6, pp. 549-552, Jul. 2021
 - Joe Nishihara, Tomoaki Nakamura, Takayuki Nagai, “Online Algorithm for Robots to Learn Object Concepts and Language Model”, IEEE Transactions on Cognitive and Developmental Systems, Vol. 9, No. 3, pp. 255-268, Apr. 2017 [[PDF]](https://ieeexplore.ieee.org/document/7451222)
@@ -21,44 +21,21 @@ layout: default
 
 <br>
 
+## 言語の創発
+言語はエージェントが環境と相互作用しながらボトムアップに創発される．さらに他者とのコミュニケーションによって意味が共有されることで，その集団の中で意図伝達が可能となる．
+本研究では，ロボットがコミュニケーションによって言語を創発するための数理モデルの構築を目指しています．
+![創発コミュニケーション](imgs/emcom.png)
 
-
-## 時系列情報の分節化
-本研究では，ロボットが人のように言語や動作を柔軟に学習することを目指しています．ロボットは，音声波形や動作などの時系列情報を，明示的な分節点が与えられることなく分節化することで，意味を持つ単語や単位動作に分割し学習しています．さらに，類似する単語や単位動作を同じクラスに分類することで，その単語や動作の意味を獲得することができます．
-
-![時系列情報の分節化](imgs/concept_Segm.png)
 
 ### 参考文献
-- Masatoshi Nagano, Tomoaki Nakamura, Takayuki Nagai, Daichi Mochihashi and Ichiro Kobayashi, "Spatio-Temporal Categorization for First-Person-View Videos Using a Convolutional Variational Autoencoder and Gaussian Processes", Frontiers in Robotics and AI, Vol. 9, Sep. 2022 [[PDF]](https://www.frontiersin.org/articles/10.3389/frobt.2022.903450/full)
-- 長野匡隼，中村友昭，長井隆行，持橋大地，小林一郎，高野渉，"畳み込み変分オートエンコーダとガウス過程に基づく動画像の分節化"，人工知能学会全国大会，2J3-GS-8b-01，Jun. 2021 [[PDF]](https://www.jstage.jst.go.jp/article/pjsai/JSAI2021/0/JSAI2021_2J3GS8b01/_pdf)
-- Masatoshi Nagano, Tomoaki Nakamura, Takayuki Nagai, Daichi Mochihashi, Ichiro Kobayashi and Wataru Takano, "HVGH: Unsupervised Segmentation for High-dimensional Time Series Using Deep Neural Compression and Statistical Generative Model", Frontiers in Robotics and AI, Vol. 6, Article 115, pp. 1-15, Nov. 2019 [[PDF]](https://www.frontiersin.org/articles/10.3389/frobt.2019.00115/full)
-- Masatoshi Nagano, Tomoaki Nakamura, Takayuki Nagai, Daichi Mochihashi, Ichiro Kobayashi, Masahide Kaneko, “Sequence Pattern Extraction by Segmenting Time Series Data Using GP-HSMM with Hierarchical Dirichlet Process”, IROS2018, pp. 4067-4074, Oct. 2018 [[PDF]](https://ieeexplore.ieee.org/document/8594029)
-- 長野匡隼, 中村友昭, 長井隆行, 持橋大地, 小林一郎, 金子正秀, ”ノンパラメトリックベイズ法に基づく時系列データの分節化”, 人工知能学会全国大会, 2G4-04, Jun. 2018 [[PDF]](https://confit.atlas.jp/guide/event/jsai2018/subject/2G4-04/detail?lang=ja)
-- Tomoaki Nakamura, Tayuki Nagai, Dichi Mochihashi, Ichiro Kobayashi, Hideki Asoh, and Masahide Kaneko, ”Segmenting Continuous Motions with Hidden Semi-Markov Models and Gaussian Processes”, Frontiers in Neurorobotics, vol.11, no.67,2017 [[PDF]](https://www.frontiersin.org/articles/10.3389/fnbot.2017.00067/full)
+- Tomoaki Nakamura, Akira Taniguchi, Tadahiro Taniguchi, "Control as Probabilistic Inference as an Emergent Communication Mechanism in Multi-Agent Reinforcement Learning", arXiv:2307.05004, 2023 [[PDF]](https://arxiv.org/abs/2307.05004)
+- 上田亮，谷口忠大，鈴木麗璽，江原広人，中村友昭，岩村入吹，橋本敬，"言語とコミュニケーションの創発に関する構成論的研究の展開"，PsyArXiv, 2023 [[PDF]](https://psyarxiv.com/rz5ng)
+- 中村友昭，谷口彰，谷口忠大，”マルチエージェント記号創発に基づく協調的行動の学習と生成：Control as Inferenceとメトロポリス名付けゲームの融合”, 人工知能学会全国大会，4H3-OS-6b-05，Jun. 2023
+- 江原広人，中村友昭，谷口彰，谷口忠大，”分散的ベイズ推論としてのマルチエージェント強化学習と記号創発”，言語処理学会全国大会，H10-5，Mar. 2023 [[PDF]](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/H10-5.pdf)
 
 
 
 <br>
-
-
-
-
-
-
-## 大規模な学習モデル構築のためのアーキテクチャ
-ロボットによる概念や言語の獲得をはじめ，私たちは様々な学習モデルを提案してきました．人のような知能の実現には，さらに複雑で大規模なモデルを構築する必要があります．しかし，モデルの規模が大きく複雑になるにつれて，実装することは困難になると考えられます．そこで，小規模で基礎的なモデルを組み合わせることによって大規模なモデルの構築を容易にするアーキテクチャSerketの研究・開発を行っています．[[プロジェクトページ]](http://serket.naka-lab.org/)
-![概念・言語獲得](imgs/graphical_models.jpg)
-
-### 参考文献
-- Tadahiro Taniguchi, Hiroshi Yamakawa, Takayuki Nagai, Kenji Doya, Masamichi Sakagami, Masahiro Suzuki, Tomoaki Nakamura, Akira Taniguchi, “A whole brain probabilistic generative model: Toward realizing cognitive architectures for developmental robots”, Neural Networks, Vol. 150, pp. 293-312, Jun. 2022 [[PDF]](https://www.sciencedirect.com/science/article/pii/S0893608022000673)
-- Ryo Kuniyasu, Tomoaki Nakamura, Tadahiro Taniguchi, Takayuki Nagai, "Robot Concept Acquisition Based on Interaction between Probabilistic and Deep Generative Models", Frontiers in Computer Science, Vol. 3, Article 618069, pp. 1-14, Sep. 2021 [[PDF]](https://www.frontiersin.org/articles/10.3389/fcomp.2021.618069/full)
-- 國安瞭，中村友昭，長井隆行，谷口忠大，”確率モデルの統合によるマルチモーダル学習モデルの構築”，人工知能学会全国大会，1L4-J-11-02，Jun. 2019 [[PDF]](https://confit.atlas.jp/guide/event-img/jsai2019/1L4-J-11-02/public/pdf?type=in)
-- Tomoaki Nakamura, Takayuki Nagai and Tadahiro Taniguchi, “SERKET: An Architecture for Connecting Stochastic Models to Realize a Large-Scale Cognitive Model”, Frontiers in Neurorobotics, vol. 12, article 25, pp. 1-16, Jun. 2018 [[PDF]](https://www.frontiersin.org/articles/10.3389/fnbot.2018.00025/full)
-
-
-
-<br>
-
 
 
 
@@ -79,8 +56,71 @@ layout: default
 
 
 
+<br>
+
+
+
+## ロボットによる自然言語理解
+ロボットが家庭内で様々な作業を行う際に，人からの指示を正確に理解する必要があります．本研究では，周りの環境の情報を使うことで，人からの曖昧な指示の理解を実現しています．
+
+### 参考文献
+- 森下雅晴，長野匡隼，中村友昭，”モバイルマニピュレーションタスクにおける曖昧な指示文からの対象物体選択”，言語処理学会全国大会，Q9-11，Mar. 2023 [[PDF]](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/Q9-11.pdf)
+- Takahiro Kobori, Tomoaki Nakamura, Mikio Nakano, Takayuki Nagai, Naoto Iwahashi, Kotaro Funakoshi, and Masahide Kaneko, "Robust Comprehension of Natural Language Instructions by a Domestic Service Robot", Advanced Robotics, Vol. 30, Issue 24, pp. 1530-1543, Nov. 2016 [[PDF]](https://www.tandfonline.com/doi/abs/10.1080/01691864.2016.1252689?journalCode=tadr20)
+- 小堀嵩博，中村友昭，長井隆行，岩橋直人，船越孝太郎，中野幹生，金子正秀，"環境情報を考慮したロボットによる音声命令理解"，人工知能学会全国大会，1O2-3，Jun. 2016 [[PDF]](http://www.ai-gakkai.or.jp/jsai2016/webprogram/2016/paper-568.html)
+
+
 
 <br>
+
+
+## 時系列情報の分節化
+本研究では，ロボットが人のように言語や動作を柔軟に学習することを目指しています．ロボットは，音声波形や動作などの時系列情報を，明示的な分節点が与えられることなく分節化することで，意味を持つ単語や単位動作に分割し学習しています．さらに，類似する単語や単位動作を同じクラスに分類することで，その単語や動作の意味を獲得することができます．
+
+![時系列情報の分節化](imgs/concept_Segm.png)
+
+### 参考文献
+- Masatoshi Nagano, Tomoaki Nakamura, Takayuki Nagai, Daichi Mochihashi and Ichiro Kobayashi, "Spatio-Temporal Categorization for First-Person-View Videos Using a Convolutional Variational Autoencoder and Gaussian Processes", Frontiers in Robotics and AI, Vol. 9, Sep. 2022 [[PDF]](https://www.frontiersin.org/articles/10.3389/frobt.2022.903450/full)
+- 長野匡隼，中村友昭，長井隆行，持橋大地，小林一郎，高野渉，"畳み込み変分オートエンコーダとガウス過程に基づく動画像の分節化"，人工知能学会全国大会，2J3-GS-8b-01，Jun. 2021 [[PDF]](https://www.jstage.jst.go.jp/article/pjsai/JSAI2021/0/JSAI2021_2J3GS8b01/_pdf)
+- Masatoshi Nagano, Tomoaki Nakamura, Takayuki Nagai, Daichi Mochihashi, Ichiro Kobayashi and Wataru Takano, "HVGH: Unsupervised Segmentation for High-dimensional Time Series Using Deep Neural Compression and Statistical Generative Model", Frontiers in Robotics and AI, Vol. 6, Article 115, pp. 1-15, Nov. 2019 [[PDF]](https://www.frontiersin.org/articles/10.3389/frobt.2019.00115/full)
+- Masatoshi Nagano, Tomoaki Nakamura, Takayuki Nagai, Daichi Mochihashi, Ichiro Kobayashi, Masahide Kaneko, “Sequence Pattern Extraction by Segmenting Time Series Data Using GP-HSMM with Hierarchical Dirichlet Process”, IROS2018, pp. 4067-4074, Oct. 2018 [[PDF]](https://ieeexplore.ieee.org/document/8594029)
+- 長野匡隼, 中村友昭, 長井隆行, 持橋大地, 小林一郎, 金子正秀, ”ノンパラメトリックベイズ法に基づく時系列データの分節化”, 人工知能学会全国大会, 2G4-04, Jun. 2018 [[PDF]](https://confit.atlas.jp/guide/event/jsai2018/subject/2G4-04/detail?lang=ja)
+- Tomoaki Nakamura, Tayuki Nagai, Dichi Mochihashi, Ichiro Kobayashi, Hideki Asoh, and Masahide Kaneko, ”Segmenting Continuous Motions with Hidden Semi-Markov Models and Gaussian Processes”, Frontiers in Neurorobotics, vol.11, no.67,2017 [[PDF]](https://www.frontiersin.org/articles/10.3389/fnbot.2017.00067/full)
+
+
+
+<br>
+
+
+## 人・動物の動作解析
+分節化の技術を応用することで，人や動物の動作解析に関する研究を行っています．人の工場での作業動作や，サルの餌取りの動作から，特徴的な行動の自動抽出を実現しています．
+
+![時系列情報の分節化](imgs/motion_analysis.png)
+
+
+### 参考文献
+- 齋藤一誠，中村友昭，八田俊之，藤田渉，渡邉信太郎，三輪祥太郎，”GP-HSMMに基づく二重分節解析による作業行動の解析”，人工知能学会全国大会，1M3-GS-10-05，Jun. 2023
+- Koki Mimura, Jumpei Matsumoto, Daichi Mochihashi, Tomoaki Nakamura, Toshiyuki Hirabayashi, Makoto Higuchi, Takafumi Minamimoto, "Unsupervised decomposition and description of nonhuman primate behavior", bioRxiv 2023.03.04.531044, 2023 [[PDF]](https://www.biorxiv.org/content/10.1101/2023.03.04.531044v2)
+
+
+
+<br>
+
+
+
+## 大規模な学習モデル構築のためのアーキテクチャ
+ロボットによる概念や言語の獲得をはじめ，私たちは様々な学習モデルを提案してきました．人のような知能の実現には，さらに複雑で大規模なモデルを構築する必要があります．しかし，モデルの規模が大きく複雑になるにつれて，実装することは困難になると考えられます．そこで，小規模で基礎的なモデルを組み合わせることによって大規模なモデルの構築を容易にするアーキテクチャSerketの研究・開発を行っています．[[プロジェクトページ]](http://serket.naka-lab.org/)
+![概念・言語獲得](imgs/graphical_models.jpg)
+
+### 参考文献
+- Tadahiro Taniguchi, Hiroshi Yamakawa, Takayuki Nagai, Kenji Doya, Masamichi Sakagami, Masahiro Suzuki, Tomoaki Nakamura, Akira Taniguchi, “A whole brain probabilistic generative model: Toward realizing cognitive architectures for developmental robots”, Neural Networks, Vol. 150, pp. 293-312, Jun. 2022 [[PDF]](https://www.sciencedirect.com/science/article/pii/S0893608022000673)
+- Ryo Kuniyasu, Tomoaki Nakamura, Tadahiro Taniguchi, Takayuki Nagai, "Robot Concept Acquisition Based on Interaction between Probabilistic and Deep Generative Models", Frontiers in Computer Science, Vol. 3, Article 618069, pp. 1-14, Sep. 2021 [[PDF]](https://www.frontiersin.org/articles/10.3389/fcomp.2021.618069/full)
+- 國安瞭，中村友昭，長井隆行，谷口忠大，”確率モデルの統合によるマルチモーダル学習モデルの構築”，人工知能学会全国大会，1L4-J-11-02，Jun. 2019 [[PDF]](https://confit.atlas.jp/guide/event-img/jsai2019/1L4-J-11-02/public/pdf?type=in)
+- Tomoaki Nakamura, Takayuki Nagai and Tadahiro Taniguchi, “SERKET: An Architecture for Connecting Stochastic Models to Realize a Large-Scale Cognitive Model”, Frontiers in Neurorobotics, vol. 12, article 25, pp. 1-16, Jun. 2018 [[PDF]](https://www.frontiersin.org/articles/10.3389/fnbot.2018.00025/full)
+
+
+
+<br>
+
 
 
 
@@ -100,18 +140,6 @@ layout: default
 <br>
 
 
-
-
-## ロボットによる自然言語理解
-ロボットが家庭内で様々な作業を行う際に，人からの指示を正確に理解する必要があります．本研究では，人からの指示の整合性や周りの状況といった情報を使うことで，ノイズが多い環境においても，ロボットによる正確な指示理解を実現しています．
-
-### 参考文献
-- Takahiro Kobori, Tomoaki Nakamura, Mikio Nakano, Takayuki Nagai, Naoto Iwahashi, Kotaro Funakoshi, and Masahide Kaneko, "Robust Comprehension of Natural Language Instructions by a Domestic Service Robot", Advanced Robotics, Vol. 30, Issue 24, pp. 1530-1543, Nov. 2016 [[PDF]](https://www.tandfonline.com/doi/abs/10.1080/01691864.2016.1252689?journalCode=tadr20)
-- 小堀嵩博，中村友昭，長井隆行，岩橋直人，船越孝太郎，中野幹生，金子正秀，"環境情報を考慮したロボットによる音声命令理解"，人工知能学会全国大会，1O2-3，Jun. 2016 [[PDF]](http://www.ai-gakkai.or.jp/jsai2016/webprogram/2016/paper-568.html)
-
-
-
-<br>
 
 
 
