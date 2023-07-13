@@ -83,8 +83,8 @@ layout: default
 
 
 ## International Conference
-1. Lotfi El Hafi, Youwei Zheng, Hiroshi Shirouzu, Tomoaki Nakamura, Tadahiro Taniguchi, "Serket-SDE: A Containerized Software Development Environment for the Symbol Emergence in Robotics Toolkit", IEEE/SICE International Symposium on System Integrations, Jan. 2023 (accepted)
-1. Tatsuya Aoki, Tomoaki Nakamura, Takayuki Nagai, "Analysis of User Behavior and Workload During Simultaneous Tele-operation of Multiple Mobile Manipulators", IROS2022, Oct. 2022 (accepted)
+1. Lotfi El Hafi, Youwei Zheng, Hiroshi Shirouzu, Tomoaki Nakamura, Tadahiro Taniguchi, "Serket-SDE: A Containerized Software Development Environment for the Symbol Emergence in Robotics Toolkit", IEEE/SICE International Symposium on System Integrations, FrA1M1.5, Jan. 2023
+1. Tatsuya Aoki, Tomoaki Nakamura, Takayuki Nagai, "Analysis of User Behavior and Workload During Simultaneous Tele-operation of Multiple Mobile Manipulators", IROS2022, pp. 6169-6176, Oct. 2022
 1. Tomoaki Nakamura, Tadahiro Taniguchi and Akira Taniguchi, "Multi-agent collaboration through emergent communication based on metropolis-hastings", JCoLE Workshop: Machine Learning and the Evolution of Language, Sep. 2022
 1. Ryo Matsumoto, Zhang Bin, Tomoaki Nakamura, Takayuki Nagai, Takashi Omori, and Natsuki Oka, "Robust Human Trajectory Estimation Using Hidden Markov Models", RISP International Workshop on Nonlinear Circuits, Communications and
 Signal Processing, pp. 13-16, Feb. 2020
