@@ -12,6 +12,7 @@ layout: default
 ![概念・言語獲得](imgs/concept_lang.jpg)
 
 ### 参考文献
+- 落合翔馬，長野匡隼，中村友昭 ，"確率生成モデルに基づく連続音声からの教師なし音素・単語・文法獲得"，言語処理学会全国大会，Q9-10，Mar. 2023 [[PDF]](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/Q9-10.pdf)
 - 長野匡隼，中村 友昭，”GP-HSMMに基づく二重分節化モデルによる連続音声の教師なし構造学習”，日本ロボット学会論文誌，Vol. 41, No. 3, pp. 318-321, Apr. 2023 [[PDF]](https://www.jstage.jst.go.jp/article/jrsj/41/3/41_41_318/_article/-char/ja/)
 - Ryo Kuniyasu, Tomoaki Nakamura, Tadahiro Taniguchi, Takayuki Nagai, “Robot Concept Acquisition Based on Interaction between Probabilistic and Deep Generative Models”, Frontiers in Computer Science, Vol. 3, Article 618069, pp. 1-14, Sep. 2021 [[PDF]](https://www.frontiersin.org/articles/10.3389/fcomp.2021.618069/full)
 - 長野匡隼，中村 友昭，"複数物体が存在する環境下での共同注意を用いたロボットによる語意学習"，日本ロボット学会誌, Vol. 39, No. 6, pp. 549-552, Jul. 2021
