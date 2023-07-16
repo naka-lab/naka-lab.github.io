@@ -15,7 +15,7 @@ layout: default
 - 落合翔馬，長野匡隼，中村友昭 ，"確率生成モデルに基づく連続音声からの教師なし音素・単語・文法獲得"，言語処理学会全国大会，Q9-10，Mar. 2023 [[PDF]](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/Q9-10.pdf)
 - 長野匡隼，中村 友昭，”GP-HSMMに基づく二重分節化モデルによる連続音声の教師なし構造学習”，日本ロボット学会論文誌，Vol. 41, No. 3, pp. 318-321, Apr. 2023 [[PDF]](https://www.jstage.jst.go.jp/article/jrsj/41/3/41_41_318/_article/-char/ja/)
 - Ryo Kuniyasu, Tomoaki Nakamura, Tadahiro Taniguchi, Takayuki Nagai, “Robot Concept Acquisition Based on Interaction between Probabilistic and Deep Generative Models”, Frontiers in Computer Science, Vol. 3, Article 618069, pp. 1-14, Sep. 2021 [[PDF]](https://www.frontiersin.org/articles/10.3389/fcomp.2021.618069/full)
-- 長野匡隼，中村 友昭，"複数物体が存在する環境下での共同注意を用いたロボットによる語意学習"，日本ロボット学会誌, Vol. 39, No. 6, pp. 549-552, Jul. 2021
+- 長野匡隼，中村 友昭，"複数物体が存在する環境下での共同注意を用いたロボットによる語意学習"，日本ロボット学会誌, Vol. 39, No. 6, pp. 549-552, Jul. 2021 [[PDF]](https://www.jstage.jst.go.jp/article/jrsj/39/6/39_39_549/_article/-char/ja/)
 - Joe Nishihara, Tomoaki Nakamura, Takayuki Nagai, “Online Algorithm for Robots to Learn Object Concepts and Language Model”, IEEE Transactions on Cognitive and Developmental Systems, Vol. 9, No. 3, pp. 255-268, Apr. 2017 [[PDF]](https://ieeexplore.ieee.org/document/7451222)
 - 西原成，青木達哉，中村友昭，長井隆行，”階層ディリクレ過程を用いたロボットによる概念と言語の長期学習”，人工知能学会全国大会，2I3-3，Jun. 2016 [[PDF]](http://www.ai-gakkai.or.jp/jsai2016/webprogram/2016/paper-1074.html)
 
@@ -31,7 +31,7 @@ layout: default
 ### 参考文献
 - Tomoaki Nakamura, Akira Taniguchi, Tadahiro Taniguchi, "Control as Probabilistic Inference as an Emergent Communication Mechanism in Multi-Agent Reinforcement Learning", arXiv:2307.05004, 2023 [[PDF]](https://arxiv.org/abs/2307.05004)
 - 上田亮，谷口忠大，鈴木麗璽，江原広人，中村友昭，岩村入吹，橋本敬，"言語とコミュニケーションの創発に関する構成論的研究の展開"，PsyArXiv, 2023 [[PDF]](https://psyarxiv.com/rz5ng)
-- 中村友昭，谷口彰，谷口忠大，”マルチエージェント記号創発に基づく協調的行動の学習と生成：Control as Inferenceとメトロポリス名付けゲームの融合”, 人工知能学会全国大会，4H3-OS-6b-05，Jun. 2023
+- 中村友昭，谷口彰，谷口忠大，”マルチエージェント記号創発に基づく協調的行動の学習と生成：Control as Inferenceとメトロポリス名付けゲームの融合”, 人工知能学会全国大会，4H3-OS-6b-05，Jun. 2023 [[PDF]](https://www.jstage.jst.go.jp/article/pjsai/JSAI2023/0/JSAI2023_4H3OS6b05/_article/-char/ja/)
 - 江原広人，中村友昭，谷口彰，谷口忠大，”分散的ベイズ推論としてのマルチエージェント強化学習と記号創発”，言語処理学会全国大会，H10-5，Mar. 2023 [[PDF]](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/H10-5.pdf)
 
 
@@ -50,8 +50,7 @@ layout: default
 </div>
 
 ### 参考文献
-- Tatsuya Aoki, Tomoaki Nakamura, Takayuki Nagai, “Analysis of User Behavior and Workload During Simultaneous Tele-operation of Multiple Mobile Manipulators”, IROS2022, Oct. 2022 (accepted)
-- Tomoaki Nakamura, Tadahiro Taniguchi and Akira Taniguchi, “Multi-agent collaboration through emergent communication based on metropolis-hastings”, JCoLE Workshop: Machine Learning and the Evolution of Language, Sep. 2022
+- Tatsuya Aoki, Tomoaki Nakamura, Takayuki Nagai, “Analysis of User Behavior and Workload During Simultaneous Tele-operation of Multiple Mobile Manipulators”, IROS2022, Oct. 2022 [[PDF]](https://ieeexplore.ieee.org/document/9981934)
 - 江原広人，長野匡隼，中村友昭，”ロボットアームのたわみ量推定によるマニピュ レーションの高精度化”，日本ロボット学会学術講演会，4I3-06，Sep. 2022
 - 長野匡隼, 岩田健輔, 平川拓実, 吉田武史, 青木達哉, 中村友昭, 長井隆行, “ROS1による複数ロボットの協調制御の実現”, 日本ロボット学会学術講演会, 2H2-06, Sep. 2021
 
@@ -99,7 +98,7 @@ layout: default
 
 
 ### 参考文献
-- 齋藤一誠，中村友昭，八田俊之，藤田渉，渡邉信太郎，三輪祥太郎，”GP-HSMMに基づく二重分節解析による作業行動の解析”，人工知能学会全国大会，1M3-GS-10-05，Jun. 2023
+- 齋藤一誠，中村友昭，八田俊之，藤田渉，渡邉信太郎，三輪祥太郎，”GP-HSMMに基づく二重分節解析による作業行動の解析”，人工知能学会全国大会，1M3-GS-10-05，Jun. 2023 [[PDF]](https://www.jstage.jst.go.jp/article/pjsai/JSAI2023/0/JSAI2023_1M3GS1005/_article/-char/ja/)
 - Koki Mimura, Jumpei Matsumoto, Daichi Mochihashi, Tomoaki Nakamura, Toshiyuki Hirabayashi, Makoto Higuchi, Takafumi Minamimoto, "Unsupervised decomposition and description of nonhuman primate behavior", bioRxiv 2023.03.04.531044, 2023 [[PDF]](https://www.biorxiv.org/content/10.1101/2023.03.04.531044v2)
 
 
