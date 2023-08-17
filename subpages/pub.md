@@ -17,6 +17,7 @@ layout: default
 
 
 ## Journal
+1. Masatoshi Nagano, Tomoaki Nakamura, "Unsupervised Phoneme and Word Acquisition from Continuous Speech Based on a Hierarchical Probabilistic Generative Model",  Advanced Robotics (accepted)
 1. Tadahiro Taniguchi, Shingo Murata, Masahiro Suzuki, Dimitri Ognibene, Pablo Lanillos, Emre Ugur, Lorenzo Jamone, Tomoaki Nakamura, Alejandra Ciria, Bruno Lara, Giovanni Pezzulo, "World Models and Predictive Coding for Cognitive and Developmental Robotics: Frontiers and Challenges", Advanced Robotics, Vol. 37, Issue 13, pp. 780-806, Jun. 2023
 2. 長野匡隼，中村 友昭，"GP-HSMMに基づく二重分節化モデルによる連続音声の教師なし構造学習"，日本ロボット学会論文誌，Vol. 41, No. 3, pp. 318-321, Apr. 2023
 3. Masatoshi Nagano, Tomoaki Nakamura, Takayuki Nagai, Daichi Mochihashi and Ichiro Kobayashi, "Spatio-Temporal Categorization for First-Person-View Videos Using a Convolutional Variational Autoencoder and Gaussian Processes", Frontiers in Robotics and AI, Vol. 9, Sep. 2022
