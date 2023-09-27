@@ -10,6 +10,9 @@ layout: default
 - 准教授:　[中村 友昭　(Tomoaki Nakamura)](nakamura.md)　e-mail: nakamura
 - 秘書:　早川 幸枝　(Yukie Hayakawa)　e-mail: yukie-h
 
+## D1
+- 八田　俊之 (Toshiyuki Hatta)
+
 ## M2
 - 江原　広人 (Hiroto Ebara) e-mail: h_ebara
 - 長谷川　浩生 (Koki Hasegawa) e-mail: k_hasegawa
