@@ -11,7 +11,7 @@ layout: default
 - 秘書:　早川 幸枝　(Yukie Hayakawa)　e-mail: yukie-h
 
 ## D1
-- 八田　俊之 (Toshiyuki Hatta)
+- 八田　俊之 (Toshiyuki Hatta) e-mail: t_hatta
 
 ## M2
 - 江原　広人 (Hiroto Ebara) e-mail: h_ebara
