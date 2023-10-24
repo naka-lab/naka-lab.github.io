@@ -16,6 +16,9 @@ layout: default
 - 場所：西8号館 4階 418号室 
 
 ## News
+* 2023/10/24
+	* 2023年度の[卒研配属に関するページ](//hp.naka-lab.org/subpages/haizoku.html) を作成しました．
+
 * 2022/10/29
 	* 2022年度の[卒研配属に関するページ](//hp.naka-lab.org/subpages/haizoku.html) を作成しました．
 
