@@ -17,7 +17,7 @@ layout: default
 
 
 ## Journal
-1. 上田亮，谷口忠大，鈴木麗璽，江原広人，中村友昭，岩村入吹，橋本敬，"言語とコミュニケーションの創発に関する構成論的研究の展開"，認知科学 （再録決定済み）
+1. 上田亮，谷口忠大，鈴木麗璽，江原広人，中村友昭，岩村入吹，橋本敬，"言語とコミュニケーションの創発に関する構成論的研究の展開"，認知科学 （accepted）
 1. Masatoshi Nagano, Tomoaki Nakamura, "Unsupervised Phoneme and Word Acquisition from Continuous Speech Based on a Hierarchical Probabilistic Generative Model", Advanced Robotics, Vol. 37, Issue 19, pp. 1253-1265, Sep. 2023
 1. Tadahiro Taniguchi, Shingo Murata, Masahiro Suzuki, Dimitri Ognibene, Pablo Lanillos, Emre Ugur, Lorenzo Jamone, Tomoaki Nakamura, Alejandra Ciria, Bruno Lara, Giovanni Pezzulo, "World Models and Predictive Coding for Cognitive and Developmental Robotics: Frontiers and Challenges", Advanced Robotics, Vol. 37, Issue 13, pp. 780-806, Jun. 2023
 2. 長野匡隼，中村 友昭，"GP-HSMMに基づく二重分節化モデルによる連続音声の教師なし構造学習"，日本ロボット学会論文誌，Vol. 41, No. 3, pp. 318-321, Apr. 2023
