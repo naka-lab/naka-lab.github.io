@@ -79,7 +79,7 @@ layout: default
 
 ## その他の質問
 [このフォーム](https://docs.google.com/forms/d/e/1FAIpQLSfBF4w8d9ai1aQHhxtl4VVyBXuTPOTVfHFOptZMMHPuV6Ecyw/viewform?usp=sf_link
-)から質問を書き込んでください．匿名で質問かのうなので，気軽に書き込んでください．回答はこのページで公開しようと思います．  
+)から質問を書き込んでください．匿名で質問可能なので，気軽に書き込んでください．回答はこのページで公開しようと思います．  
 
 ### 個別の質問への回答
 - Q:[2023/11/06] 社会人博士は受け入れ可能でしょうか？
