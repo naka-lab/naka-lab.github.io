@@ -88,6 +88,7 @@ layout: default
 
 
 ## International Conference
+1. Hiroto Ebara, Tomoaki Nakamura, Akira Taniguchi, Tadahiro Taniguchi, "Multi-agent Reinforcement Learning with Emergent Communication using Discrete and Indifferentiable Message", IIAI AAI 2023-Winter, Dec. 2023 (accepted)
 1. Issei Saito, Tomoaki Nakamura, Toshiyuki Hatta, Wataru Fujita, Shintaro Watanabe, Shotaro Miwa, "Unsupervised Work Behavior Analysis Using Hierarchical Probabilistic Segmentation", Annual Conference of the IEEE Industrial Electronics Society, IECON23-000776, Oct. 2023
 1. Lotfi El Hafi, Youwei Zheng, Hiroshi Shirouzu, Tomoaki Nakamura, Tadahiro Taniguchi, "Serket-SDE: A Containerized Software Development Environment for the Symbol Emergence in Robotics Toolkit", IEEE/SICE International Symposium on System Integrations, FrA1M1.5, Jan. 2023
 1. Tatsuya Aoki, Tomoaki Nakamura, Takayuki Nagai, "Analysis of User Behavior and Workload During Simultaneous Tele-operation of Multiple Mobile Manipulators", IROS2022, pp. 6169-6176, Oct. 2022
