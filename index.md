@@ -25,6 +25,9 @@ layout: default
   - 5階 517号室 （一般向けのロボットデモ）
 
 ## News
+* 2023/12/13
+	* M2の江原くんがインドネシアのバリ島で行われたInternational Conference on Smart Computing and Artificial IntelligenceにてCompetitive Paper Awardを受賞しました[[賞状]](news_imgs/231218_SCAI.pdf)
+
 * 2023/10/24
 	* 2023年度の[卒研配属に関するページ](//hp.naka-lab.org/subpages/haizoku.html) を作成しました．
 
