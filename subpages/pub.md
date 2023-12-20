@@ -1,4 +1,4 @@
-　---
+---
 title: タイトル
 layout: default
 ---
