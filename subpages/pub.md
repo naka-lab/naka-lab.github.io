@@ -18,7 +18,7 @@ layout: default
 
 ## Journal
 1. 中村友昭，鈴木雅大，谷口彰，谷口忠大，"ガウス過程潜在変数モデルとニューラルネットワークの統合によるマルチエージェント記号創発と潜在表現学習"，日本ロボット学会誌 (acepted)
-1. 上田亮，谷口忠大，鈴木麗璽，江原広人，中村友昭，岩村入吹，橋本敬，"言語とコミュニケーションの創発に関する構成論的研究の展開"，認知科学 （accepted）
+1. 上田亮，谷口忠大，鈴木麗璽，江原広人，中村友昭，岩村入吹，橋本敬，"言語とコミュニケーションの創発に関する構成論的研究の展開"，認知科学，Vol. 31，No. 1，pp. 172-185，2024
 1. Masatoshi Nagano, Tomoaki Nakamura, "Unsupervised Phoneme and Word Acquisition from Continuous Speech Based on a Hierarchical Probabilistic Generative Model", Advanced Robotics, Vol. 37, Issue 19, pp. 1253-1265, Sep. 2023
 1. Tadahiro Taniguchi, Shingo Murata, Masahiro Suzuki, Dimitri Ognibene, Pablo Lanillos, Emre Ugur, Lorenzo Jamone, Tomoaki Nakamura, Alejandra Ciria, Bruno Lara, Giovanni Pezzulo, "World Models and Predictive Coding for Cognitive and Developmental Robotics: Frontiers and Challenges", Advanced Robotics, Vol. 37, Issue 13, pp. 780-806, Jun. 2023
 2. 長野匡隼，中村 友昭，"GP-HSMMに基づく二重分節化モデルによる連続音声の教師なし構造学習"，日本ロボット学会論文誌，Vol. 41, No. 3, pp. 318-321, Apr. 2023
@@ -88,6 +88,10 @@ layout: default
 
 
 ## International Conference
+1. Shoma Ochiai, Masatoshi Nagano, and Tomoaki Nakamura, "Unsupervised Acquisition of Phonemes, Words and Grammar from Continuous Speech Signals", IEEE International Conference on Development and Learning, 2024 (acccepted)
+1. Ziwoo You, Hiroto Ebara, and Tomoaki Nakamura, ”Multimodal Continuous Symbol Emergence Using a Probabilistic Generative Model Based on Gaussian Processes”, IEEE International Conference on Development and Learning, 2024 (accepted)
+1. Issei Saito, Tomoaki Nakamura, Taniguchi, Tadahiro Taniguchi, Yohei Hayamizu, and Shiqi Zhang, “Emergence of Continuous Signals as Shared Symbols Through Emergent Communication”,  IEEE International Conference on Development and Learning, 2024 (accepted)
+1. Masaya Nakano, Masatoshi Nagano, Tomoaki Nakamura, “Robot Motion Learning via Visual Imitation and Language-conditioned Reward”,  IEEE International Conference on Development and Learning, 2024 (accepted)
 1. Hiroto Ebara, Tomoaki Nakamura, Akira Taniguchi, Tadahiro Taniguchi, "Multi-agent Reinforcement Learning with Emergent Communication using Discrete and Indifferentiable Message", IIAI AAI 2023-Winter, Dec. 2023
 1. Issei Saito, Tomoaki Nakamura, Toshiyuki Hatta, Wataru Fujita, Shintaro Watanabe, Shotaro Miwa, "Unsupervised Work Behavior Analysis Using Hierarchical Probabilistic Segmentation", Annual Conference of the IEEE Industrial Electronics Society, IECON23-000776, Oct. 2023
 1. Lotfi El Hafi, Youwei Zheng, Hiroshi Shirouzu, Tomoaki Nakamura, Tadahiro Taniguchi, "Serket-SDE: A Containerized Software Development Environment for the Symbol Emergence in Robotics Toolkit", IEEE/SICE International Symposium on System Integrations, FrA1M1.5, Jan. 2023
