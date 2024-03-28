@@ -8,32 +8,32 @@ layout: default
 
 ## スタッフ
 - 准教授:　[中村 友昭　(Tomoaki Nakamura)](nakamura.md)　e-mail: nakamura
+- 特任研究員：長野 匡隼 (Masatoshi Nagano)
 - 秘書:　早川 幸枝　(Yukie Hayakawa)　e-mail: yukie-h
 
 ## D1
 - 八田　俊之 (Toshiyuki Hatta) e-mail: t_hatta
 
 ## M2
-- 江原　広人 (Hiroto Ebara) e-mail: h_ebara
-- 長谷川　浩生 (Koki Hasegawa) e-mail: k_hasegawa
-- 中村　哲巳 (Satomi Nakamura) e-mail: s_nakamura
-- 井口 丈琉 (Takeru Iguchi) e-mail: t_iguchi
-- 高田　智史 (Satoshi Takada) e-mail: s_takada
-
-## M1
 - 落合 翔馬 （Shoma　OCHIAI） email: s_ochiai
 - 森下 雅晴 （Masaharu MORISHITA） email: m_morishita
 - 齋藤 一誠 （Issei SAITO） email: i_saito
 - 北川 浩行 （Hiroyuki KITAGAWA） email: h_kitagawa
 - 中野 将弥 （Masaya NAKANO） email: m_nakano
 
-## B4
+## M1
 - 高橋　柊 (Shu Takahashi) email: s_takahashi
-- 平尾総太郎 (Sotaro Hirao) email: s_hirao
-- 山田 裕大 (Yuta Yamada) email: y_yamada
 - 劉 智優 (Ziwoo You) email: y_ziwoo
 - 中塚 陸登 (Rikuto Nakatsuka) email: r_nakatsuka
+- 板倉 春太朗 (Shuntaro Itakura)
+- 近藤 空哉 (Kuya Kondo)
 
+## B4
+- 平尾総太郎 (Sotaro Hirao) email: s_hirao
+- 大石夏希 (Natsuki Oishi)
+- 福岡　慶太 (Keita Fukuoka)
+- 伊藤宏晟 (Hiroaki Ito)
+- 梶原賢 (Ken Kajiwara)
 
 ## 共同研究者
 - 阿部 香澄 (Kasumi Abe) e-mail: k_abe(AT)apple.ee.uec.ac.jp
@@ -42,6 +42,12 @@ layout: default
 
 |　　　　名前　　　　|　　　　在籍年度　　　　|
 |:------:|:-------:|
+|江原　広人|2021-2023|
+|長谷川　浩生|2021-2023|
+|中村　哲巳|2021-2023|
+|井口 丈琉|2021-2023|
+|高田　智史|2021-2023|
+|山田 裕大|2023|
 |長野 匡隼|2017-2022|
 |三好 遼|2022|
 |大道 弘明|2020-2022|
