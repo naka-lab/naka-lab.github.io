@@ -17,6 +17,7 @@ layout: default
 
 
 ## Journal
+1. Koki Mimura, Jumpei Matsumoto, Daichi Mochihashi, Tomoaki Nakamura, Hisao Nishijo, Makoto Higuchi, Toshiyuki Hirabayashi, Takafumi Minamimoto, "Unsupervised decomposition of natural monkey behavior into a sequence of motion motifs", Communications Biology (accepted)
 1. 中村友昭，鈴木雅大，谷口彰，谷口忠大，"ガウス過程潜在変数モデルとニューラルネットワークの統合によるマルチエージェント記号創発と潜在表現学習"，日本ロボット学会誌 (acepted)
 1. 上田亮，谷口忠大，鈴木麗璽，江原広人，中村友昭，岩村入吹，橋本敬，"言語とコミュニケーションの創発に関する構成論的研究の展開"，認知科学，Vol. 31，No. 1，pp. 172-185，2024
 1. Masatoshi Nagano, Tomoaki Nakamura, "Unsupervised Phoneme and Word Acquisition from Continuous Speech Based on a Hierarchical Probabilistic Generative Model", Advanced Robotics, Vol. 37, Issue 19, pp. 1253-1265, Sep. 2023
@@ -412,6 +413,7 @@ Signal Processing, pp. 13-16, Feb. 2020
 
 
 ## 著書・Book chapters
+1. 谷口忠大編：中村友昭ほか分担執筆，"記号創発システム論 - 来るべきAI共生社会の「意味」理解にむけて（ワードマップ）"，新曜社，2024
 1. 今井倫太， 大北碧， 大森隆司， 岡夏樹， 小野哲雄， 澤幸祐， 坂本孝丈， 鮫島和行， 寺田和憲， 遠山紗矢香， 長井隆行， 中村友昭， 峯松信明， 本田秀仁， 山田誠二, "コグニティブ・インタラクション―次世代AIに向けた方法論とデザイン―", オーム社, 2022
 1. Muhammad Attamimi, Tomoaki Nakamura, Takayuki Nagai, Komei Sugiura and Naoto Iwahashi, "Learning Novel Objects for Domestic Service Robots
 ", The Future of Humanoid Robots - Research and Applications, InTech, pp. 257-276, 2012
