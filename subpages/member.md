@@ -17,7 +17,7 @@ layout: default
 ## M2
 - 落合 翔馬 （Shoma　OCHIAI） email: s_ochiai
 - 森下 雅晴 （Masaharu MORISHITA） email: m_morishita
-- 齋藤 一誠 （Issei SAITO） email: i_saito
+- [齋藤 一誠 （Issei SAITO）](https://issei09.github.io/i.sai10.github.io/) email: i_saito
 - 北川 浩行 （Hiroyuki KITAGAWA） email: h_kitagawa
 - 中野 将弥 （Masaya NAKANO） email: m_nakano
 
