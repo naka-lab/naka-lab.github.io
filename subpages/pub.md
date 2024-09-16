@@ -17,8 +17,8 @@ layout: default
 
 
 ## Journal
-1. Koki Mimura, Jumpei Matsumoto, Daichi Mochihashi, Tomoaki Nakamura, Hisao Nishijo, Makoto Higuchi, Toshiyuki Hirabayashi, Takafumi Minamimoto, "Unsupervised decomposition of natural monkey behavior into a sequence of motion motifs", Communications Biology (accepted)
-1. 中村友昭，鈴木雅大，谷口彰，谷口忠大，"ガウス過程潜在変数モデルとニューラルネットワークの統合によるマルチエージェント記号創発と潜在表現学習"，日本ロボット学会誌 (acepted)
+1. Koki Mimura, Jumpei Matsumoto, Daichi Mochihashi, Tomoaki Nakamura, Hisao Nishijo, Makoto Higuchi, Toshiyuki Hirabayashi, Takafumi Minamimoto, "Unsupervised decomposition of natural monkey behavior into a sequence of motion motifs", Communications Biology, Vol. 7, Article number 1080, Sep. 2024
+1. 中村友昭，鈴木雅大，谷口彰，谷口忠大，"ガウス過程潜在変数モデルとニューラルネットワークの統合によるマルチエージェント記号創発と潜在表現学習"，日本ロボット学会誌, Vol. 42, No. 7, pp. 696-699, Sep. 2024
 1. 上田亮，谷口忠大，鈴木麗璽，江原広人，中村友昭，岩村入吹，橋本敬，"言語とコミュニケーションの創発に関する構成論的研究の展開"，認知科学，Vol. 31，No. 1，pp. 172-185，2024
 1. Masatoshi Nagano, Tomoaki Nakamura, "Unsupervised Phoneme and Word Acquisition from Continuous Speech Based on a Hierarchical Probabilistic Generative Model", Advanced Robotics, Vol. 37, Issue 19, pp. 1253-1265, Sep. 2023
 1. Tadahiro Taniguchi, Shingo Murata, Masahiro Suzuki, Dimitri Ognibene, Pablo Lanillos, Emre Ugur, Lorenzo Jamone, Tomoaki Nakamura, Alejandra Ciria, Bruno Lara, Giovanni Pezzulo, "World Models and Predictive Coding for Cognitive and Developmental Robotics: Frontiers and Challenges", Advanced Robotics, Vol. 37, Issue 13, pp. 780-806, Jun. 2023
@@ -445,7 +445,9 @@ Signal Processing, pp. 13-16, Feb. 2020
 
 
 ## 受賞
-1. Competitive Paper Award, Dec. 2023
+1. Advanced Robotics Best Survey Paper Award, Sep. 2024
+    - Tadahiro Taniguchi, Shingo Murata, Masahiro Suzuki, Dimitri Ognibene, Pablo Lanillos, Emre Ugur, Lorenzo Jamone, Tomoaki Nakamura, Alejandra Ciria, Bruno Lara, Giovanni Pezzulo, "World Models and Predictive Coding for Cognitive and Developmental Robotics: Frontiers and Challenges", Advanced Robotics, Vol. 37, Issue 13, pp. 780-806, Jun. 2023
+2. Competitive Paper Award, Dec. 2023
     - Hiroto Ebara, Tomoaki Nakamura, Akira Taniguchi, Tadahiro Taniguchi, "Multi-agent Reinforcement Learning with Emergent Communication using Discrete and Indifferentiable Message", IIAI AAI 2023-Winter, Dec. 2023
 3. Advanced Robotics Paper Awards, Sep. 2021
     - Tadahiro Tangiuchi, Daichi Mochihashi, Takayuki Nagai, Satoru Uchida, Naoya Inoue, Ichiro Kobayashi, Tomoaki Nakamura, Yoshinobu Hagiwara, Naoto Iwahashi and Tetsunari Inamura, "Survey on frontiers of language and robotics", Advanced Robotics, Vol. 33, Issue 15-16, pp. 700-730, Jun. 2019
@@ -459,7 +461,7 @@ Signal Processing, pp. 13-16, Feb. 2020
     - 宮澤和貴，堀井隆斗，日永田智絵，青木達哉，中村友昭，長井隆行，"統合認知モデルによるロボットの概念・行動・言語の学習"，情報処理学会全国大会，5N-06，Mar. 2018
 8. 情報処理学会学生奨励賞，Mar. 2018
     - 長野匡隼，中村友昭，長井隆行，持橋大地，小林一郎，金子正秀，"階層ディリクレ過程による動作クラス数推定を導入したGP-HSMMによる連続動作からの基本動作抽出"，情報処理学会全国大会，6M-03，Mar. 2018
-9. ロボカップジャパンオープン2017 人工知能学会賞，May 2017
+9.  ロボカップジャパンオープン2017 人工知能学会賞，May 2017
 10. ロボカップジャパンオープン2017 ロボカップ研究賞，May 2017
     - Takahiro Kobori, Tomoaki Nakamura, Mikio Nakano, Takayuki Nagai, Naoto Iwahashi, Kotaro Funakoshi, and Masahide Kaneko, "Robust Comprehension of Natural Language Instructions by a Domestic Service Robot", Advanced Robotics. pp. 1530-1543, Nov. 2016
 11. ロボカップジャパンオープン2017@ホーム Domestic Standard Platform League (DSPL)  優勝，May 2017

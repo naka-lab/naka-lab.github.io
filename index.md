@@ -17,6 +17,9 @@ layout: default
 
 
 ## News
+* 2024/9/5
+	* 中村准教授がAdvanced Robotics Best Survey Paper Awardを受賞しました． [[賞状]](news_imgs/240905_RSJ.png)
+
 * 2023/12/13
 	* M2の江原くんがインドネシアのバリ島で行われたInternational Conference on Smart Computing and Artificial IntelligenceにてCompetitive Paper Awardを受賞しました[[賞状]](news_imgs/231218_SCAI.pdf)
 
