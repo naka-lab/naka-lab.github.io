@@ -8,7 +8,7 @@ layout: default
 
 ## スタッフ
 - 准教授:　[中村 友昭　(Tomoaki Nakamura)](nakamura.md)　e-mail: nakamura
-- 特任研究員：長野 匡隼 (Masatoshi Nagano)
+- 特任研究員：[長野 匡隼 (Masatoshi Nagano)](https://sites.google.com/view/nagano-lab/profile)
 - 秘書:　早川 幸枝　(Yukie Hayakawa)　e-mail: yukie-h
 
 ## D1
