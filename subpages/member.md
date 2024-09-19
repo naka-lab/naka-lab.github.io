@@ -25,15 +25,15 @@ layout: default
 - 高橋　柊 (Shu Takahashi) email: s_takahashi
 - 劉 智優 (Ziwoo You) email: y_ziwoo
 - 中塚 陸登 (Rikuto Nakatsuka) email: r_nakatsuka
-- 板倉 春太朗 (Shuntaro Itakura)
-- 近藤 空哉 (Kuya Kondo)
+- 板倉 春太朗 (Shuntaro Itakura) email: s_itakura
+- 近藤 空哉 (Kuya Kondo) email: k_kondo
 
 ## B4
 - 平尾総太郎 (Sotaro Hirao) email: s_hirao
-- 大石夏希 (Natsuki Oishi)
-- 福岡　慶太 (Keita Fukuoka)
-- 伊藤宏晟 (Hiroaki Ito)
-- 梶原賢 (Ken Kajiwara)
+- 大石夏希 (Natsuki Oishi) email: n_oishi
+- 福岡　慶太 (Keita Fukuoka) email: k_fukuoka
+- 伊藤宏晟 (Hiroaki Ito) email: h_ito
+- 梶原賢 (Ken Kajiwara) email: k_kajiwara
 
 ## 共同研究者
 - 阿部 香澄 (Kasumi Abe) e-mail: k_abe(AT)apple.ee.uec.ac.jp
