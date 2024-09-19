@@ -8,32 +8,32 @@ layout: default
 
 ## スタッフ
 - 准教授:　[中村 友昭　(Tomoaki Nakamura)](nakamura.md)　e-mail: nakamura
-- 特任研究員：[長野 匡隼 (Masatoshi Nagano)](https://sites.google.com/view/nagano-lab/profile)
+- 特任研究員：[長野 匡隼 (Masatoshi Nagano)](https://sites.google.com/view/nagano-lab/profile) e-mail: m_nagano
 - 秘書:　早川 幸枝　(Yukie Hayakawa)　e-mail: yukie-h
 
 ## D1
 - 八田　俊之 (Toshiyuki Hatta) e-mail: t_hatta
 
 ## M2
-- 落合 翔馬 （Shoma　OCHIAI） email: s_ochiai
-- 森下 雅晴 （Masaharu MORISHITA） email: m_morishita
-- [齋藤 一誠 （Issei SAITO）](https://issei09.github.io/i.sai10.github.io/) email: i_saito
-- 北川 浩行 （Hiroyuki KITAGAWA） email: h_kitagawa
-- 中野 将弥 （Masaya NAKANO） email: m_nakano
+- 落合 翔馬 （Shoma　OCHIAI） e-mail: s_ochiai
+- 森下 雅晴 （Masaharu MORISHITA） e-mail: m_morishita
+- [齋藤 一誠 （Issei SAITO）](https://issei09.github.io/i.sai10.github.io/) e-mail: i_saito
+- 北川 浩行 （Hiroyuki KITAGAWA） e-mail: h_kitagawa
+- 中野 将弥 （Masaya NAKANO） e-mail: m_nakano
 
 ## M1
-- 高橋　柊 (Shu Takahashi) email: s_takahashi
-- 劉 智優 (Ziwoo You) email: y_ziwoo
-- 中塚 陸登 (Rikuto Nakatsuka) email: r_nakatsuka
-- 板倉 春太朗 (Shuntaro Itakura) email: s_itakura
-- 近藤 空哉 (Kuya Kondo) email: k_kondo
+- 高橋　柊 (Shu Takahashi) e-mail: s_takahashi
+- 劉 智優 (Ziwoo You) e-mail: y_ziwoo
+- 中塚 陸登 (Rikuto Nakatsuka) e-mail: r_nakatsuka
+- 板倉 春太朗 (Shuntaro Itakura) e-mail: s_itakura
+- 近藤 空哉 (Kuya Kondo) e-mail: k_kondo
 
 ## B4
-- 平尾総太郎 (Sotaro Hirao) email: s_hirao
-- 大石夏希 (Natsuki Oishi) email: n_oishi
-- 福岡　慶太 (Keita Fukuoka) email: k_fukuoka
-- 伊藤宏晟 (Hiroaki Ito) email: h_ito
-- 梶原賢 (Ken Kajiwara) email: k_kajiwara
+- 平尾総太郎 (Sotaro Hirao) e-mail: s_hirao
+- 大石夏希 (Natsuki Oishi) e-mail: n_oishi
+- 福岡　慶太 (Keita Fukuoka) e-mail: k_fukuoka
+- 伊藤宏晟 (Hiroaki Ito) e-mail: h_ito
+- 梶原賢 (Ken Kajiwara) e-mail: k_kajiwara
 
 ## 共同研究者
 - 阿部 香澄 (Kasumi Abe) e-mail: k_abe(AT)apple.ee.uec.ac.jp
