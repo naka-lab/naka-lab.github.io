@@ -17,6 +17,9 @@ layout: default
 
 
 ## News
+* 2023/10/8
+	* 2024年度の[卒研配属に関するページ](//hp.naka-lab.org/subpages/haizoku.html) を作成しました．
+
 * 2024/9/5
 	* 中村准教授がAdvanced Robotics Best Survey Paper Awardを受賞しました． [[賞状]](news_imgs/240905_RSJ.png)
 
