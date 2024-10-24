@@ -8,7 +8,7 @@ layout: default
 現在準備中です．情報は随時更新します．
 
 ## 研究室紹介動画
-https://drive.google.com/file/d/1nxjhp8P9kRvXiJ_nbCKs4rFlhlVjxFk4/view?usp=sharing  
+[https://drive.google.com/file/d/1nxjhp8P9kRvXiJ_nbCKs4rFlhlVjxFk4/view?usp=sharing](https://drive.google.com/file/d/1nxjhp8P9kRvXiJ_nbCKs4rFlhlVjxFk4/view?usp=sharing)  
 （UECクラウドアカウトでのログインが必要です）
 
 ## 研究室公開
