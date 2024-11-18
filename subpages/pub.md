@@ -423,6 +423,7 @@ Signal Processing, pp. 13-16, Feb. 2020
 
 
 ## 著書・Book chapters
+1. Hiroshi Ishiguro, Fuki Ueno, Eiki Tachibana編：Tomoaki Nakamuraほか分担執筆, "Cybernetic Avatar", Springer, 2024
 1. 谷口忠大編：中村友昭ほか分担執筆，"記号創発システム論 - 来るべきAI共生社会の「意味」理解にむけて（ワードマップ）"，新曜社，2024
 1. 今井倫太， 大北碧， 大森隆司， 岡夏樹， 小野哲雄， 澤幸祐， 坂本孝丈， 鮫島和行， 寺田和憲， 遠山紗矢香， 長井隆行， 中村友昭， 峯松信明， 本田秀仁， 山田誠二, "コグニティブ・インタラクション―次世代AIに向けた方法論とデザイン―", オーム社, 2022
 1. Muhammad Attamimi, Tomoaki Nakamura, Takayuki Nagai, Komei Sugiura and Naoto Iwahashi, "Learning Novel Objects for Domestic Service Robots
