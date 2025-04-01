@@ -31,10 +31,10 @@ layout: default
 - 梶原賢 (Ken Kajiwara) e-mail: k_kajiwara
 
 ## B4
-- 堀田 享佑 (Kyosuke HORITA) email:
-- 上林 優太 (Yuta UEBAYASHI) email:
-- 山田 泰輝 (Taiki YAMADA) email:
-- 小林 真平 (Shinpei KOBAYASHI) email:  
+- 堀田 享佑 (Kyosuke HORITA) email: k_horita
+- 上林 優太 (Yuta UEBAYASHI) email: y_uebayashi
+- 山田 泰輝 (Taiki YAMADA) email: t_yamada
+- 小林 真平 (Shinpei KOBAYASHI) email: s_kobayashi
 
 ## 共同研究者
 - [長野 匡隼 (Masatoshi Nagano)](https://sites.google.com/view/nagano-lab/profile) e-mail: m_nagano
