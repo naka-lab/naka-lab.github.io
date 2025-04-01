@@ -39,6 +39,8 @@ layout: default
 ## 共同研究者
 - [長野 匡隼 (Masatoshi Nagano)](https://sites.google.com/view/nagano-lab/profile) e-mail: m_nagano
 - 阿部 香澄 (Kasumi Abe) e-mail: k_abe(AT)apple.ee.uec.ac.jp
+- 粕谷 美里 (Misato Kasuya) e-mail:
+m_kasuya(AT)apple.ee.uec.ac.jp
 
 ## OB・OG
 
