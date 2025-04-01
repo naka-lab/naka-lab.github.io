@@ -18,6 +18,7 @@ layout: default
 - [齋藤 一誠 （Issei SAITO）](https://issei09.github.io/i.sai10.github.io/) e-mail: i_saito
 
 ## M2
+- 森下 雅晴 （Masaharu MORISHITA） email: m_morishita
 - 高橋　柊 (Shu Takahashi) e-mail: s_takahashi
 - 劉 智優 (Ziwoo You) e-mail: y_ziwoo
 - 中塚 陸登 (Rikuto Nakatsuka) e-mail: r_nakatsuka
@@ -44,7 +45,6 @@ layout: default
 |　　　　名前　　　　|　　　　在籍年度　　　　|
 |:------:|:-------:|
 |落合 翔馬|2022-2024|
-|森下 雅晴|2022-2024|
 |北川 浩行|2022-2024|
 |中野 将弥|2022-2024|
 |大石夏希|2024|
