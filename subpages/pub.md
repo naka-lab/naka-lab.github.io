@@ -454,9 +454,9 @@ Signal Processing, pp. 13-16, Feb. 2020
 
 
 ## 受賞
-1. 言語処理学会第31回年次大会 優秀賞（対象765件中14件）
+1. 言語処理学会第31回年次大会 優秀賞（対象765件中14件），Mar. 2025
     - 齋藤一誠，劉智優．長野匡隼，中村友昭，谷口彰，谷口忠大 ，"音素の合成性を仮定した連続信号をサインとした分散的ベイズ推論に基づく記号創発"，言語処理学会年次大会，D6-5，Mar. 2025
-1. SI2024 優秀講演表彰
+1. SI2024 優秀講演表彰，Feb. 2025
     - 八田俊之，渡邉信太郎，齋藤一誠，長野匡隼，中村友昭，"ガウス過程の隠れセミマルコフモデルに基づく人に依存した行動の分節化"，計測自動制御学会システムインテグレーション部門講演会，1G6-07，Dec. 2024
 1. Advanced Robotics Best Survey Paper Award, Sep. 2024
     - Tadahiro Taniguchi, Shingo Murata, Masahiro Suzuki, Dimitri Ognibene, Pablo Lanillos, Emre Ugur, Lorenzo Jamone, Tomoaki Nakamura, Alejandra Ciria, Bruno Lara, Giovanni Pezzulo, "World Models and Predictive Coding for Cognitive and Developmental Robotics: Frontiers and Challenges", Advanced Robotics, Vol. 37, Issue 13, pp. 780-806, Jun. 2023
