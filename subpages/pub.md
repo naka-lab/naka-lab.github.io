@@ -17,6 +17,7 @@ layout: default
 
 
 ## Journal
+1. Issei Saito, Tomoaki Nakamura, Toshiyuki Hatta, Wataru Fujita, Shintaro Watanabe, Shotaro Miwa, "Unsupervised Work Behavior Pattern Extraction \\Based on Hierarchical Probabilistic Model", IEEJ Transactions on Electrical and Electronic Engineering (accepted)
 1. Koki Mimura, Jumpei Matsumoto, Daichi Mochihashi, Tomoaki Nakamura, Hisao Nishijo, Makoto Higuchi, Toshiyuki Hirabayashi, Takafumi Minamimoto, "Unsupervised decomposition of natural monkey behavior into a sequence of motion motifs", Communications Biology, Vol. 7, Article number 1080, Sep. 2024
 1. 中村友昭，鈴木雅大，谷口彰，谷口忠大，"ガウス過程潜在変数モデルとニューラルネットワークの統合によるマルチエージェント記号創発と潜在表現学習"，日本ロボット学会誌, Vol. 42, No. 7, pp. 696-699, Sep. 2024
 1. 上田亮，谷口忠大，鈴木麗璽，江原広人，中村友昭，岩村入吹，橋本敬，"言語とコミュニケーションの創発に関する構成論的研究の展開"，認知科学，Vol. 31，No. 1，pp. 172-185，2024
@@ -158,6 +159,8 @@ Signal Processing, pp. 13-16, Feb. 2020
 
 
 ## 国内学会
+1. 神谷 聡，藤田 渉，八田 俊之，進 泰彰，齋藤 一誠，長野 匡隼，中村 友昭，"未知環境下での物体検出のためのプロンプト自動最適化"，日本ロボット学会学術講演会，1B4-02，Sep. 2025
+1. 長野 匡隼，板倉 春太朗，中村 友昭，"模倣学習を用いた動作軌道予測による半自律ロボット制御"，日本ロボット学会学術講演会，2I2-01，Sep. 2025
 1. 三村喬生，松本惇平，中村友昭，持橋大地，森下博文，南本敬史，"教師なし機械学習による霊長類の行動分析"，システム行動学研究会，P0128，May 2025
 1. 神谷聡，藤田渉，八田俊之，渡邊信太朗，近藤空哉，齋藤一誠，長野匡隼，中村友昭，"作業映像の特徴抽出器を用いた作業分節法"，画像センシングシンポジウム，IS1-21，May 2025
 1. 八田 俊之，渡邉 信太郎，齋藤 一誠，長野 匡隼，中村 友昭，"ガウス過程の隠れセミマルコフモデルに基づく行動の潜在的個性解析"，人工知能学会全国大会，3D1-GS-9-01, May 2025
