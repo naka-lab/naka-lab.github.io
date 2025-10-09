@@ -90,9 +90,9 @@ layout: default
 
 
 ## International Conference
-1. Issei Saito, Masatoshi Nagano, Tomoaki Nakamura, Daichi Mochihashi, and Koki Mimura, "Scalable Unsupervised Segmentation via Random Fourier Feature-based Gaussian Process", Annual Conference of the IEEE Industrial Electronics Society, Oct. 2025 (accepted)
-1. Shuntaro Itakura, Masatoshi Nagano, Tomoaki Nakamura, "Semi-Autonomous Teleoperation for Mobile Manipulator via Action Chunking with Transformers", Annual Conference of the IEEE Industrial Electronics Society, Oct. 2025 (accepted)
-1. Toshiyuki Hatta, Issei Saito, Masatoshi Nagano, and Tomoaki Nakamura, "IC-GP-HSMM: Unsupervised Segmentation of Behaviors with Individual Differences", Annual Conference of the IEEE Industrial Electronics Society, Oct. 2025 (accepted)
+1. Issei Saito, Masatoshi Nagano, Tomoaki Nakamura, Daichi Mochihashi, and Koki Mimura, "Scalable Unsupervised Segmentation via Random Fourier Feature-based Gaussian Process", Annual Conference of the IEEE Industrial Electronics Society, IECON25-000290, Oct. 2025
+1. Shuntaro Itakura, Masatoshi Nagano, Tomoaki Nakamura, "Semi-Autonomous Teleoperation for Mobile Manipulator via Action Chunking with Transformers", Annual Conference of the IEEE Industrial Electronics Society, IECON25-000297, Oct. 2025
+1. Toshiyuki Hatta, Issei Saito, Masatoshi Nagano, and Tomoaki Nakamura, "IC-GP-HSMM: Unsupervised Segmentation of Behaviors with Individual Differences", Annual Conference of the IEEE Industrial Electronics Society, IECON25-000140, Oct. 2025
 1. Hiroyuki Kitagawa, Misato Kasuya, Kasumi Abe, Tomoaki Nakamura, Kota Washio and Shuhei Manabe, "Subjectivity and Brain Activity-Based Validation to Driving Feedback", Biennial Meeting of the Society for functional near-infrared spectroscopy, Fr-035, Sep. 2024 
 1. Shoma Ochiai, Masatoshi Nagano, and Tomoaki Nakamura, "Unsupervised Acquisition of Phonemes, Words and Grammar from Continuous Speech Signals", IEEE International Conference on Development and Learning, May 2024
 1. Ziwoo You, Hiroto Ebara, and Tomoaki Nakamura, ”Multimodal Continuous Symbol Emergence Using a Probabilistic Generative Model Based on Gaussian Processes”, IEEE International Conference on Development and Learning, May 2024
