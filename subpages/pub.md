@@ -17,6 +17,7 @@ layout: default
 
 
 ## Journal
+1. Masaya Nakano, Masatoshi Nagano, Tomoaki Nakamura, "Imitation Learning for Robot Motions Based on Multimodal Foundation Model and Style Transformation", IEEE Access (accepted)
 1. Issei Saito, Tomoaki Nakamura, Toshiyuki Hatta, Wataru Fujita, Shintaro Watanabe, Shotaro Miwa, "Unsupervised Work Behavior Pattern Extraction Based on Hierarchical Probabilistic Model", IEEJ Transactions on Electrical and Electronic Engineering (accepted)
 1. Koki Mimura, Jumpei Matsumoto, Daichi Mochihashi, Tomoaki Nakamura, Hisao Nishijo, Makoto Higuchi, Toshiyuki Hirabayashi, Takafumi Minamimoto, "Unsupervised decomposition of natural monkey behavior into a sequence of motion motifs", Communications Biology, Vol. 7, Article number 1080, Sep. 2024
 1. 中村友昭，鈴木雅大，谷口彰，谷口忠大，"ガウス過程潜在変数モデルとニューラルネットワークの統合によるマルチエージェント記号創発と潜在表現学習"，日本ロボット学会誌, Vol. 42, No. 7, pp. 696-699, Sep. 2024
