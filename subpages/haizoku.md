@@ -3,38 +3,44 @@ layout: default
 ---
 
 
-# 2024年度卒研配属情報
+# 2025年度卒研配属情報
 
-現在準備中です．情報は随時更新します．
+今年は，II類P4P5の学生4名，K課程学生1名を受け入れ予定です．
+情報は随時更新します．
 
-## 研究室紹介動画
-[https://drive.google.com/file/d/1nxjhp8P9kRvXiJ_nbCKs4rFlhlVjxFk4/view?usp=sharing](https://drive.google.com/file/d/1nxjhp8P9kRvXiJ_nbCKs4rFlhlVjxFk4/view?usp=sharing)  
-（UECクラウドアカウトでのログインが必要です）
 
 ## 研究室公開
 下記の日時で研究室公開を行います．卒研配属希望者向けの説明も行う予定です．研究室の雰囲気を知ることができるいい機会なので，配属希望者はぜひ見学に来てください．
 
-- 日時:11月23日（土）・11月24日（日）
-  - 第1回目: 13:30～
-  - 第2回目: 15:00～
-- 場所: 電気通信大学　西8号館 517号室
+- 研究室説明会・ロボットのデモンストレーション
+  - 日時：11月23日（日）
+    - 第1回：13:30〜14:30
+    - 第2回：15:00〜16:00
+  - 場所：西8号館 517号室
+  - 内容：研究テーマの紹介，デモ展示など
 
+- **[卒研配属希望者向け]** 研究室相談会
+  - 日時：
+    - 11月22日（土）13:00〜16:00
+    - 11月23日（日）13:00〜16:00
+  - 場所：西八号館 418号室
+  - 内容：M1・M2の先輩による研究紹介，進学・研究生活に関する相談対応、ポスター展示
 
-## 研究室配属に関わる面談
-配属の可否は，希望研究室登録の**締め切り後**の面談にて決定します．（締め切り前には面談は行いません．）
-希望研究室登録が締め切られ次第，配属希望者はなるべく早く中村（tnakamuraあっとuec.ac.jp）までご連絡ください．
+## 研究室配属の可否を決定する面談
+配属の可否は，希望研究室登録の**締め切り後**に実施するアンケートと面談にて決定します．（締め切り前には配属可否を決定する面談は行いません．）
+希望研究室登録が締め切られ次第，配属希望者はなるべく早く中村（tnakamuraあっとuec.ac.jp）までご連絡ください．アンケートの配布と，日程調整を行います．
 
 
 ## 研究環境
 - 西8号館418号室（学生部屋）
 <div align="center">
-<iframe width="600" height="400" allowfullscreen style="border-style:none;" src="https://hp.naka-lab.org/pannellum/pannellum.htm#panorama=https://hp.naka-lab.org/subpages/imgs/418.jpg&autoLoad=true"></iframe>
+<iframe width="600" height="400" allowfullscreen style="border-style:none;" src="https://hp.naka-lab.org/pannellum/pannellum.htm#panorama=https://hp.naka-lab.org/subpages/imgs/418.JPG&autoLoad=true"></iframe>
 </div>
 
 - 西8号館517号室（学生部屋）
 双腕ロボット，単腕ロボット，3Dプリンタ，レーザー加工機などがあります
 <div align="center">
-<iframe width="600" height="400" allowfullscreen style="border-style:none;" src="https://hp.naka-lab.org/pannellum/pannellum.htm#panorama=https://hp.naka-lab.org/subpages/imgs/517.jpg&autoLoad=true"></iframe>
+<iframe width="600" height="400" allowfullscreen style="border-style:none;" src="https://hp.naka-lab.org/pannellum/pannellum.htm#panorama=https://hp.naka-lab.org/subpages/imgs/517.JPG&autoLoad=true"></iframe>
 </div>
 
 - 東9号館403号室（実験室）  
