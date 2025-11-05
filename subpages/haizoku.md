@@ -28,15 +28,13 @@ layout: default
 ## 研究環境
 - 西8号館418号室（学生部屋）
 <div align="center">
-<blockquote data-width="500" data-height="375" class="ricoh-theta-spherical-image" >Post from RICOH THETA. - <a href="https://theta360.com/s/2rMDTntqBEiVDHaGAxH4u3dlQ" target="_blank">Spherical Image - RICOH THETA</a></blockquote>
-<script async src="https://theta360.com/widgets.js" charset="utf-8"></script>  
+<iframe width="600" height="400" allowfullscreen style="border-style:none;" src="https://hp.naka-lab.org/pannellum/pannellum.htm#panorama=https://hp.naka-lab.org/subpages/imgs/418.jpg&autoLoad=true"></iframe>
 </div>
 
 - 西8号館517号室（学生部屋）
 双腕ロボット，単腕ロボット，3Dプリンタ，レーザー加工機などがあります
 <div align="center">
-<blockquote data-width="500" data-height="375" class="ricoh-theta-spherical-image" >Post from RICOH THETA. - <a href="https://theta360.com/s/s94HW9yhQlIxvU3Wxh3E5calk" target="_blank">Spherical Image - RICOH THETA</a></blockquote>
-<script async src="https://theta360.com/widgets.js" charset="utf-8"></script>  
+<iframe width="600" height="400" allowfullscreen style="border-style:none;" src="https://hp.naka-lab.org/pannellum/pannellum.htm#panorama=https://hp.naka-lab.org/subpages/imgs/517.jpg&autoLoad=true"></iframe>
 </div>
 
 - 東9号館403号室（実験室）  
