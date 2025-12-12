@@ -17,6 +17,7 @@ layout: default
 
 
 ## Journal
+1. Ken Kajiwara, Issei Saito, Tomoaki Nakamura, Daichi Mochihashi, Koki Mimura, "Sequential Unsupervised Motion Segmentation for Skill Evaluation and Comparison", IEEE Access (accepted)
 1. Masaya Nakano, Masatoshi Nagano, Tomoaki Nakamura, "Imitation Learning for Robot Motions Based on Multimodal Foundation Model and Style Transformation", IEEE Access (accepted)
 1. Issei Saito, Tomoaki Nakamura, Toshiyuki Hatta, Wataru Fujita, Shintaro Watanabe, Shotaro Miwa, "Unsupervised Work Behavior Pattern Extraction Based on Hierarchical Probabilistic Model", IEEJ Transactions on Electrical and Electronic Engineering (accepted)
 1. Koki Mimura, Jumpei Matsumoto, Daichi Mochihashi, Tomoaki Nakamura, Hisao Nishijo, Makoto Higuchi, Toshiyuki Hirabayashi, Takafumi Minamimoto, "Unsupervised decomposition of natural monkey behavior into a sequence of motion motifs", Communications Biology, Vol. 7, Article number 1080, Sep. 2024
