@@ -28,6 +28,9 @@ layout: default
 [卒研配属に関するページ](//hp.naka-lab.org/subpages/haizoku.html) に情報をまとめています．
 
 ## News
+* 2025/12/16
+	* M2の板倉君がインテリジェントホームロボティクス研究会においてExcellent Poster Awardを受賞しました．[[賞状]](news_imgs/251214_IHR.pdf)[[表彰一覧]](https://www.i-homerobotics.org/activity/iHR13#h.yqmm7hlrjowq)
+
 * 2025/11/5
 	* 2025年度の[卒研配属に関するページ](//hp.naka-lab.org/subpages/haizoku.html) を作成しました．
 
