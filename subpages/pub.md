@@ -17,6 +17,7 @@ layout: default
 
 
 ## Journal
+1. Tadahiro Taniguchi, Ryo Ueda, Tomoaki Nakamura, Masahiro Suzuki and Akira Taniguchi, "Generative Emergent Communication: Large Language Model is a Collective World Model", Advanced Robotics (accepted)
 1. Ziwoo You, Issei Saito, Masatoshi Nagano, Tomoaki Nakamura, Akira Taniguchi  and Tadahiro Taniguchi, "Continuous Symbol Emergence via Decentralized Bayesian Inference with Gaussian Processes", IEEE Transactions on Cognitive and Developmental Systems, (accepted)
 1. Ken Kajiwara, Issei Saito, Tomoaki Nakamura, Daichi Mochihashi, Koki Mimura, "Sequential Unsupervised Motion Segmentation for Skill Evaluation and Comparison", IEEE Access (accepted)
 1. Masaya Nakano, Masatoshi Nagano, Tomoaki Nakamura, "Imitation Learning for Robot Motions Based on Multimodal Foundation Model and Style Transformation", IEEE Access, vol. 13, pp. 197784-197795, Nov. 2025
