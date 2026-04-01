@@ -29,7 +29,7 @@ layout: default
 - 上林 優太 (Yuta UEBAYASHI) email: y_uebayashi
 - 山田 泰輝 (Taiki YAMADA) email: t_yamada
 - 小林 真平 (Shimpei KOBAYASHI) email: s_kobayashi
-- 大内 優生（Yusei Ohuchi） email:
+- 大内 優生（Yusei OUCHI） email:
 
 ## B4
 - 藤田 愛海（Ami FUJITA） email:
