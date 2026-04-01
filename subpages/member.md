@@ -19,22 +19,17 @@ layout: default
 
 ## M2
 - 森下 雅晴 （Masaharu MORISHITA） email: m_morishita
-- 高橋　柊 (Shu Takahashi) e-mail: s_takahashi
-- 劉 智優 (Ziwoo You) e-mail: y_ziwoo
-- 中塚 陸登 (Rikuto Nakatsuka) e-mail: r_nakatsuka
-- 板倉 春太朗 (Shuntaro Itakura) e-mail: s_itakura
-- 近藤 空哉 (Kuya Kondo) e-mail: k_kondo
-
-## M1
 - 福岡　慶太 (Keita Fukuoka) e-mail: k_fukuoka
 - 伊藤宏晟 (Hiroaki Ito) e-mail: h_ito
 - 梶原賢 (Ken Kajiwara) e-mail: k_kajiwara
 
-## B4
+## M1
 - 堀田 享佑 (Kyosuke HORITA) email: k_horita
 - 上林 優太 (Yuta UEBAYASHI) email: y_uebayashi
 - 山田 泰輝 (Taiki YAMADA) email: t_yamada
 - 小林 真平 (Shimpei KOBAYASHI) email: s_kobayashi
+
+## B4
 
 ## 共同研究者
 - [長野 匡隼 (Masatoshi Nagano)](https://sites.google.com/view/nagano-lab/profile) e-mail: m_nagano
@@ -45,6 +40,11 @@ layout: default
 
 |　　　　名前　　　　|　　　　在籍年度　　　　|
 |:------:|:-------:|
+|高橋　柊|2023-2025|
+|劉 智優|2023-2025|
+|中塚 陸登 |2023-2025|
+|板倉 春太朗|2024-2025|
+|近藤 空哉|2024-2025|
 |落合 翔馬|2022-2024|
 |北川 浩行|2022-2024|
 |中野 将弥|2022-2024|
