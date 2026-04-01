@@ -8,13 +8,13 @@ layout: default
 
 ## スタッフ
 - 准教授:　[中村 友昭　(Tomoaki Nakamura)](nakamura.md)　e-mail: nakamura
-- 秘書:　早川 幸枝　(Yukie Hayakawa)　e-mail: yukie-h
-- 非常勤研究員: 藤野 恭子 (Kyoko FUJINO)
+- 助教: 蒋海（ショウ カイ，Jiang Hai） email: 
+- 非常勤研究員: 藤野 恭子 (Kyoko FUJINO) email: k_fujino
 
-## D2
+## D3
 - 八田　俊之 (Toshiyuki Hatta) e-mail: t_hatta
 
-## D1
+## D2
 - [齋藤 一誠 （Issei SAITO）](https://issei09.github.io/i.sai10.github.io/) e-mail: i_saito
 
 ## M2
@@ -28,8 +28,14 @@ layout: default
 - 上林 優太 (Yuta UEBAYASHI) email: y_uebayashi
 - 山田 泰輝 (Taiki YAMADA) email: t_yamada
 - 小林 真平 (Shimpei KOBAYASHI) email: s_kobayashi
+- 大内 優生（Yusei Ohuchi） email:
 
 ## B4
+- 藤田 愛海（Ami FUJITA） email:
+- 惠木 太誠（Taisei EGI） email:
+- 渡部 寛太（Kanta WATABE） email:
+- ボルイス ムアド（Bourouis Mouad） email:
+- 野尻 欣主（Yoshikazu NOJIRI） email:
 
 ## 共同研究者
 - [長野 匡隼 (Masatoshi Nagano)](https://sites.google.com/view/nagano-lab/profile) e-mail: m_nagano
