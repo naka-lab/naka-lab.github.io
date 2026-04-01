@@ -10,6 +10,7 @@ layout: default
 - 准教授:　[中村 友昭　(Tomoaki Nakamura)](nakamura.md)　e-mail: nakamura
 - 助教: 蒋海（ショウ カイ，Jiang Hai） email: 
 - 非常勤研究員: 藤野 恭子 (Kyoko FUJINO) email: k_fujino
+- 技術補佐員: 板倉 春太朗 (Shuntaro Itakura) e-mail: s_itakura
 
 ## D3
 - 八田　俊之 (Toshiyuki Hatta) e-mail: t_hatta
@@ -33,7 +34,7 @@ layout: default
 ## B4
 - 藤田 愛海（Ami FUJITA） email:
 - 惠木 太誠（Taisei EGI） email:
-- 渡部 寛太（Kanta WATABE） email:
+- 渡部 寛太（Kanta WATANABE） email:
 - ボルイス ムアド（Bourouis Mouad） email:
 - 野尻 欣主（Yoshikazu NOJIRI） email:
 
