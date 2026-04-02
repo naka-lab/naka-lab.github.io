@@ -7,6 +7,8 @@ layout: default
 
 キーワード：人工知能(AI)，ロボット，知能システム，学習，確率モデル，深層学習
 
+![word cloud](word_cloud.png)
+
 ## News
 * 2025/12/16
 	* M2の板倉君がインテリジェントホームロボティクス研究会においてExcellent Poster Awardを受賞しました．[[賞状]](news_imgs/251214_IHR.pdf)[[表彰一覧]](https://www.i-homerobotics.org/activity/iHR13#h.yqmm7hlrjowq)
