@@ -9,6 +9,16 @@ layout: default
 
 ![word cloud](word_cloud.png)
 
+## 研究室公開
+[電通通信大学の大学院オープンラボ](https://www.uec.ac.jp/education/graduate/event/openlab.html)が開催されます．
+これに合わせて下記の要領で研究室公開を行います．当研究室へ進学を考えている方はぜひお越しください．
+
+- 日時：2026年5月24日（日）13:00-16:30
+- 内容：
+  - 研究紹介
+  - ロボットのデモ
+  - 入試経験者からの入試に関するアドバイス
+
 ## News
 * 2025/12/16
 	* M2の板倉君がインテリジェントホームロボティクス研究会においてExcellent Poster Awardを受賞しました．[[賞状]](news_imgs/251214_IHR.pdf)[[表彰一覧]](https://www.i-homerobotics.org/activity/iHR13#h.yqmm7hlrjowq)
