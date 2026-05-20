@@ -29,6 +29,9 @@ layout: default
 
 
 ### 参考文献
+- Keita Fukuoka, Masatoshi Nagano, Tomoaki Nakamura, Akira Taniguchi and Tadahiro Taniguchi, "Variational Bayes Naming Game: Decentralized Multi-agent Inference for Symbol Emergence", Advanced Robotics, May 2026 [[PDF]](https://www.tandfonline.com/doi/full/10.1080/01691864.2026.2661967)
+- Tadahiro Taniguchi, Ryo Ueda, Tomoaki Nakamura, Masahiro Suzuki and Akira Taniguchi, "Generative Emergent Communication: Large Language Model is a Collective World Model", Advanced Robotics, May 2026 [[PDF]](https://www.tandfonline.com/doi/full/10.1080/01691864.2026.2661958)
+- Ziwoo You, Issei Saito, Masatoshi Nagano, Tomoaki Nakamura, Akira Taniguchi and Tadahiro Taniguchi, "Continuous Symbol Emergence via Decentralized Bayesian Inference with Gaussian Processes", IEEE Transactions on Cognitive and Developmental Systems, (accepted) [[PDF]](https://ieeexplore.ieee.org/document/11372065)
 - Tomoaki Nakamura, Akira Taniguchi, Tadahiro Taniguchi, "Control as Probabilistic Inference as an Emergent Communication Mechanism in Multi-Agent Reinforcement Learning", arXiv:2307.05004, 2023 [[PDF]](https://arxiv.org/abs/2307.05004)
 - 上田亮，谷口忠大，鈴木麗璽，江原広人，中村友昭，岩村入吹，橋本敬，"言語とコミュニケーションの創発に関する構成論的研究の展開"，PsyArXiv, 2023 [[PDF]](https://psyarxiv.com/rz5ng)
 - 中村友昭，谷口彰，谷口忠大，”マルチエージェント記号創発に基づく協調的行動の学習と生成：Control as Inferenceとメトロポリス名付けゲームの融合”, 人工知能学会全国大会，4H3-OS-6b-05，Jun. 2023 [[PDF]](https://www.jstage.jst.go.jp/article/pjsai/JSAI2023/0/JSAI2023_4H3OS6b05/_article/-char/ja/)
@@ -50,6 +53,7 @@ layout: default
 </div>
 
 ### 参考文献
+- Shuntaro Itakura, Masatoshi Nagano, Tomoaki Nakamura, "Semi-Autonomous Teleoperation for Mobile Manipulator via Action Chunking with Transformers", Annual Conference of the IEEE Industrial Electronics Society, IECON25-000297, Oct. 2025 [[PDF]](https://ieeexplore.ieee.org/document/11221713)
 - Tatsuya Aoki, Tomoaki Nakamura, Takayuki Nagai, “Analysis of User Behavior and Workload During Simultaneous Tele-operation of Multiple Mobile Manipulators”, IROS2022, Oct. 2022 [[PDF]](https://ieeexplore.ieee.org/document/9981934)
 - 江原広人，長野匡隼，中村友昭，”ロボットアームのたわみ量推定によるマニピュ レーションの高精度化”，日本ロボット学会学術講演会，4I3-06，Sep. 2022
 - 長野匡隼, 岩田健輔, 平川拓実, 吉田武史, 青木達哉, 中村友昭, 長井隆行, “ROS1による複数ロボットの協調制御の実現”, 日本ロボット学会学術講演会, 2H2-06, Sep. 2021
@@ -79,6 +83,7 @@ layout: default
 ![時系列情報の分節化](imgs/concept_Segm.png)
 
 ### 参考文献
+- Issei Saito, Masatoshi Nagano, Tomoaki Nakamura, Daichi Mochihashi, and Koki Mimura, "Scalable Unsupervised Segmentation via Random Fourier Feature-based Gaussian Process", Annual Conference of the IEEE Industrial Electronics Society, IECON25-000290, Oct. 2025 [[PDF]](https://ieeexplore.ieee.org/document/11221864)
 - Masatoshi Nagano, Tomoaki Nakamura, Takayuki Nagai, Daichi Mochihashi and Ichiro Kobayashi, "Spatio-Temporal Categorization for First-Person-View Videos Using a Convolutional Variational Autoencoder and Gaussian Processes", Frontiers in Robotics and AI, Vol. 9, Sep. 2022 [[PDF]](https://www.frontiersin.org/articles/10.3389/frobt.2022.903450/full)
 - 長野匡隼，中村友昭，長井隆行，持橋大地，小林一郎，高野渉，"畳み込み変分オートエンコーダとガウス過程に基づく動画像の分節化"，人工知能学会全国大会，2J3-GS-8b-01，Jun. 2021 [[PDF]](https://www.jstage.jst.go.jp/article/pjsai/JSAI2021/0/JSAI2021_2J3GS8b01/_pdf)
 - Masatoshi Nagano, Tomoaki Nakamura, Takayuki Nagai, Daichi Mochihashi, Ichiro Kobayashi and Wataru Takano, "HVGH: Unsupervised Segmentation for High-dimensional Time Series Using Deep Neural Compression and Statistical Generative Model", Frontiers in Robotics and AI, Vol. 6, Article 115, pp. 1-15, Nov. 2019 [[PDF]](https://www.frontiersin.org/articles/10.3389/frobt.2019.00115/full)
@@ -98,6 +103,7 @@ layout: default
 
 
 ### 参考文献
+- Ken Kajiwara, Issei Saito, Tomoaki Nakamura, Daichi Mochihashi, Koki Mimura, "Sequential Unsupervised Motion Segmentation for Skill Evaluation and Comparison", IEEE Access, vol. 13, pp. 218055-218065, Dec. 2025 [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11301700)
 - 齋藤一誠，中村友昭，八田俊之，藤田渉，渡邉信太郎，三輪祥太郎，”GP-HSMMに基づく二重分節解析による作業行動の解析”，人工知能学会全国大会，1M3-GS-10-05，Jun. 2023 [[PDF]](https://www.jstage.jst.go.jp/article/pjsai/JSAI2023/0/JSAI2023_1M3GS1005/_article/-char/ja/)
 - Koki Mimura, Jumpei Matsumoto, Daichi Mochihashi, Tomoaki Nakamura, Toshiyuki Hirabayashi, Makoto Higuchi, Takafumi Minamimoto, "Unsupervised decomposition and description of nonhuman primate behavior", bioRxiv 2023.03.04.531044, 2023 [[PDF]](https://www.biorxiv.org/content/10.1101/2023.03.04.531044v2)
 
