@@ -96,6 +96,8 @@ layout: default
 
 
 ## International Conference
+1. Issei Saito, Kuya Kondo, Masatoshi Nagano, Toshiyuki Hatta and Tomoaki Nakamura, "Worker Behavior Analysis Based on Unsupervised Segmentation of Multimodal Time-Series Data", IEEE International Conference on Industrial Informatics, Jul. 2026 (accepted)
+1. Ken Kajiwara, Issei Saito, Tomoaki Nakamura, Daichi Mochihashi and Koki Mimura, "Sequential Unsupervised Motion Segmentation for Motion Skill Acquisition Analysis",  IEEE International Conference on Industrial Informatics, Jul. 2026 (accepted)
 1. Issei Saito, Masatoshi Nagano, Tomoaki Nakamura, Daichi Mochihashi, and Koki Mimura, "Scalable Unsupervised Segmentation via Random Fourier Feature-based Gaussian Process", Annual Conference of the IEEE Industrial Electronics Society, IECON25-000290, Oct. 2025
 1. Shuntaro Itakura, Masatoshi Nagano, Tomoaki Nakamura, "Semi-Autonomous Teleoperation for Mobile Manipulator via Action Chunking with Transformers", Annual Conference of the IEEE Industrial Electronics Society, IECON25-000297, Oct. 2025
 1. Toshiyuki Hatta, Issei Saito, Masatoshi Nagano, and Tomoaki Nakamura, "IC-GP-HSMM: Unsupervised Segmentation of Behaviors with Individual Differences", Annual Conference of the IEEE Industrial Electronics Society, IECON25-000140, Oct. 2025
