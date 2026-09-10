@@ -172,6 +172,9 @@ Signal Processing, pp. 13-16, Feb. 2020
 
 
 ## 国内学会
+1. 堀田享佑，福岡慶太，中村友昭，"VAEの分散的ベイズ推論に基づく大規模エージェント間での共有表現の創発"，Symposium on Multi Agent Systems for Harmonization，Sep. 2026
+1. 藤田愛海，中村友昭，"ランダムフーリエ潜在変数モデルを用いたマルチエージェントによる共有表現の創発"，Symposium on Multi Agent Systems for Harmonization，Sep. 2026
+1. 福岡慶太，中村友昭，"変分ベイズ名付けゲームにおける局所的協調による方言創発：Seguy 則の計算論的検討"，Symposium on Multi Agent Systems for Harmonization，Sep. 2026
 1. 板倉 春太朗，長野 匡隼，中村 友昭，"Transformerを用いた動作生成モデルの推論時適応による半自律ロボット制御"，日本ロボット学会学術講演会，1D2-04，Sep. 2026
 1. 上林 優太，長野 匡隼，神谷 聡，八田 俊之，中村 友昭，"時間伸縮に頑健なスケール適応型GP-HSMMによる教師なし分節化"，日本ロボット学会学術講演会，3B3-04，Sep. 2026
 1. 山田 泰輝，中村 友昭，"潜在変数操作によるサブタスク制御を導入した ACT に基づく動作生成"，人工知能学会全国大会，4I1-GS-8b-02，Jun. 2026 
