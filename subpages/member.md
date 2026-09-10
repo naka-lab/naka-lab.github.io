@@ -18,6 +18,9 @@ layout: default
 ## D2
 - [齋藤 一誠 （Issei SAITO）](https://issei09.github.io/i.sai10.github.io/) e-mail: i_saito
 
+## D1
+- 土屋裕杜 (Yuto Tsuchiya)
+
 ## M2
 - 森下 雅晴 （Masaharu MORISHITA） email: m_morishita
 - 福岡　慶太 (Keita Fukuoka) e-mail: k_fukuoka
