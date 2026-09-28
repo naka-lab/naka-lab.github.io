@@ -9,7 +9,7 @@ layout: default
 The Nakamura Laboratory conducts research in **artificial intelligence, robotics, machine learning, and intelligent systems**. Our research focuses on understanding and developing intelligent systems through machine learning, probabilistic modeling, and robotics.
 
 ## Principal Investigator
-
+  
 ### Tomoaki Nakamura, Ph.D.
 
 **Principal Investigator (PI) / Lab Head**  
