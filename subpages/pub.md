@@ -493,6 +493,8 @@ Signal Processing, pp. 13-16, Feb. 2020
 
 
 ## 受賞
+1. IEEE Computer Society Japan Chapter SMASH Young Researcher Award, Oct. 2026
+    - 福岡慶太，中村友昭，"変分ベイズ名付けゲームにおける局所的協調による方言創発：Seguy 則の計算論的検討"，Symposium on Multi Agent Systems for Harmonization，Sep. 2026
 1. 第13回インテリジェントホームロボティクス研究会，Excellent Poster Award，Dec. 2025
     - 板倉春太朗，長野匡隼，中村友昭，"模倣学習を用いた動作軌道予測による半自律ロボット制御"，第13回インテリジェントホームロボティクス研究会，Dec. 2025
 1. 言語処理学会第31回年次大会 優秀賞（対象765件中14件），Mar. 2025
