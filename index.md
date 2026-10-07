@@ -20,6 +20,8 @@ layout: default
   - ロボットのデモ
 
 ## News
+* 2026/10/3
+    * M2の福岡君がSymposiumon Multi Agent Systems for HarmonizationにおいてIEEE Computer Society Japan Chapter SMASH Young Researcher Awardを受賞しました．[[受賞一覧]](https://sites.google.com/view/sig-macc/smash/smash26-summer-symposium/%E8%A1%A8%E5%BD%B02608?authuser=0) 
 * 2025/12/16
 	* M2の板倉君がインテリジェントホームロボティクス研究会においてExcellent Poster Awardを受賞しました．[[賞状]](news_imgs/251214_IHR.pdf)[[表彰一覧]](https://www.i-homerobotics.org/activity/iHR13#h.yqmm7hlrjowq)
 
