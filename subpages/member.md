@@ -8,7 +8,7 @@ layout: default
 
 ## スタッフ
 - 准教授:　[中村 友昭　(Tomoaki Nakamura)](nakamura.md)　e-mail: nakamura
-- 助教: 蒋海（ショウ カイ，Jiang Hai） email: h_jiang
+- 助教: [蒋海（ショウ カイ，Jiang Hai）](https://tianlingfeng9996.github.io/HaiJiang.github.io/publications/) email: h_jiang
 - 非常勤研究員: 藤野 恭子 (Kyoko FUJINO) email: k_fujino
 - 研究支援員: 板倉 春太朗 (Shuntaro Itakura) e-mail: s_itakura
 
