@@ -9,15 +9,6 @@ layout: default
 
 ![word cloud](word_cloud.png)
 
-## 研究室公開
-[電通通信大学のオープンキャンパス](https://www.uec.ac.jp/education/undergraduate/event/opencampus.html)が開催されます．
-これに合わせて下記の要領で研究室公開を行います．電気通信大学へ進学を考えている方はぜひお越しください．
-
-- 日時：2026年7月19日（日）11:00-17:00
-- 場所：西8号館517号室
-- 内容：
-  - 研究紹介
-  - ロボットのデモ
 
 ## News
 * 2026/10/3
