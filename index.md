@@ -9,7 +9,6 @@ layout: default
 
 ![word cloud](word_cloud.png)
 
-
 ## News
 * 2026/10/3
     * M2の福岡君がSymposiumon Multi Agent Systems for HarmonizationにおいてIEEE Computer Society Japan Chapter SMASH Young Researcher Awardを受賞しました．[[受賞一覧]](https://sites.google.com/view/sig-macc/smash/smash26-summer-symposium/%E8%A1%A8%E5%BD%B02608?authuser=0) 
