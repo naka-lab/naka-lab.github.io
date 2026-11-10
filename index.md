@@ -9,7 +9,29 @@ layout: default
 
 ![word cloud](word_cloud.png)
 
+## 研究室公開
+## 研究室公開
+電通通信大学の学園祭である[調布祭](https://www.uec.ac.jp/campus/event/chofusai.html)が開催されます．
+これに合わせて下記の要領で研究室公開を行います．電気通信大学への進学，当研究室への配属を考えている方はぜひお越しください．
+
+- 日時：2026年11月22日（日）11:00-17:00
+- 場所：西8号館517号室
+- 内容：
+  - 研究紹介
+  - ロボットのデモ
+
+また，卒研配属希望の学域3年生向けの説明も同時に行います．卒研配属希望者は，こちらにもぜひ参加してください．
+
+- 日時：2026年11月22日（日）11:00-17:00
+- 場所：西8号館418号室
+- 内容：
+  - 卒研配属希望者向けの説明
+
+
 ## News
+* 2026/11/10
+	* 2026年度の[卒研配属に関するページ](//hp.naka-lab.org/subpages/haizoku.html) を作成しました．
+
 * 2026/10/3
     * M2の福岡君がSymposiumon Multi Agent Systems for HarmonizationにおいてIEEE Computer Society Japan Chapter SMASH Young Researcher Awardを受賞しました．[[受賞一覧]](https://sites.google.com/view/sig-macc/smash/smash26-summer-symposium/%E8%A1%A8%E5%BD%B02608?authuser=0) 
 * 2025/12/16
