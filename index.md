@@ -9,7 +9,9 @@ layout: default
 
 ![word cloud](word_cloud.png)
 
-## 研究室公開
+## 卒研配属情報
+[卒研配属に関するページ](//hp.naka-lab.org/subpages/haizoku.html) をご覧ください．
+
 ## 研究室公開
 電通通信大学の学園祭である[調布祭](https://www.uec.ac.jp/campus/event/chofusai.html)が開催されます．
 これに合わせて下記の要領で研究室公開を行います．電気通信大学への進学，当研究室への配属を考えている方はぜひお越しください．
